@@ -1,0 +1,1056 @@
+[   1 / 132 ] flow_distance =    80.634440240309516 | volume_distance =    32.864358012794050 | sum_distance =   113.498798253103558 | exercise(cycle,model) = exerc_1 | exerc_4
+[   1 / 132 ] flow_distance =    29.735176620724808 | volume_distance =    33.005741219625456 | sum_distance =    62.740917840350264 | exercise(cycle,model) = exerc_1 | exerc_6
+[   1 / 132 ] flow_distance =   225.749692931213843 | volume_distance =    55.570367807783398 | sum_distance =   281.320060738997256 | exercise(cycle,model) = exerc_1 | exerc_3
+[   1 / 132 ] flow_distance =    84.099547991568016 | volume_distance =    60.103345281054203 | sum_distance =   144.202893272622219 | exercise(cycle,model) = exerc_1 | exerc_7
+[   1 / 132 ] flow_distance =    76.223816041497713 | volume_distance =    61.534467308724047 | sum_distance =   137.758283350221745 | exercise(cycle,model) = exerc_1 | exerc_2
+[   1 / 132 ] flow_distance =    95.840485879063863 | volume_distance =    30.444725911076219 | sum_distance =   126.285211790140082 | exercise(cycle,model) = exerc_1 | exerc_5
+[   1 / 132 ] flow_distance =   121.597728337734992 | volume_distance =    68.520192527792432 | sum_distance =   190.117920865527424 | exercise(cycle,model) = exerc_1 | exerc_1
+
+[   2 / 132 ] flow_distance =    80.772022467459522 | volume_distance =     2.284459422766412 | sum_distance =    83.056481890225939 | exercise(cycle,model) = exerc_1 | exerc_4
+[   2 / 132 ] flow_distance =    27.796541690306242 | volume_distance =     0.847957726733686 | sum_distance =    28.644499417039928 | exercise(cycle,model) = exerc_1 | exerc_6
+[   2 / 132 ] flow_distance =   188.817925438310141 | volume_distance =     7.193880503332096 | sum_distance =   196.011805941642251 | exercise(cycle,model) = exerc_1 | exerc_3
+[   2 / 132 ] flow_distance =    83.576295184468037 | volume_distance =     1.537857603358107 | sum_distance =    85.114152787826143 | exercise(cycle,model) = exerc_1 | exerc_7
+[   2 / 132 ] flow_distance =    71.337888340115370 | volume_distance =    16.390950201726248 | sum_distance =    87.728838541841611 | exercise(cycle,model) = exerc_1 | exerc_2
+[   2 / 132 ] flow_distance =    80.898217842795646 | volume_distance =     2.356517562193725 | sum_distance =    83.254735404989376 | exercise(cycle,model) = exerc_1 | exerc_5
+[   2 / 132 ] flow_distance =    90.035836805080280 | volume_distance =    14.524564587971676 | sum_distance =   104.560401393051961 | exercise(cycle,model) = exerc_1 | exerc_1
+
+[   3 / 132 ] flow_distance =    46.779223678680715 | volume_distance =     5.966231160277330 | sum_distance =    52.745454838958047 | exercise(cycle,model) = exerc_1 | exerc_4
+[   3 / 132 ] flow_distance =     8.038690290378447 | volume_distance =     7.449486740499146 | sum_distance =    15.488177030877594 | exercise(cycle,model) = exerc_1 | exerc_6
+[   3 / 132 ] flow_distance =   136.343189504889551 | volume_distance =     3.381256772150016 | sum_distance =   139.724446277039561 | exercise(cycle,model) = exerc_1 | exerc_3
+[   3 / 132 ] flow_distance =    35.559023330241324 | volume_distance =    10.381140137972352 | sum_distance =    45.940163468213676 | exercise(cycle,model) = exerc_1 | exerc_7
+[   3 / 132 ] flow_distance =    32.276874067403149 | volume_distance =     4.328235867734699 | sum_distance =    36.605109935137847 | exercise(cycle,model) = exerc_1 | exerc_2
+[   3 / 132 ] flow_distance =    61.655906988739936 | volume_distance =     7.866180891498044 | sum_distance =    69.522087880237976 | exercise(cycle,model) = exerc_1 | exerc_5
+[   3 / 132 ] flow_distance =    34.979898267797537 | volume_distance =     3.418374310960163 | sum_distance =    38.398272578757698 | exercise(cycle,model) = exerc_1 | exerc_1
+
+[   4 / 132 ] flow_distance =    50.015471492179358 | volume_distance =     6.285145404831797 | sum_distance =    56.300616897011153 | exercise(cycle,model) = exerc_1 | exerc_4
+[   4 / 132 ] flow_distance =    50.881543289717634 | volume_distance =     3.499730901247451 | sum_distance =    54.381274190965087 | exercise(cycle,model) = exerc_1 | exerc_6
+[   4 / 132 ] flow_distance =   201.016078600051003 | volume_distance =    15.431056795601164 | sum_distance =   216.447135395652168 | exercise(cycle,model) = exerc_1 | exerc_3
+[   4 / 132 ] flow_distance =    58.786680123632543 | volume_distance =    10.930144528537260 | sum_distance =    69.716824652169805 | exercise(cycle,model) = exerc_1 | exerc_7
+[   4 / 132 ] flow_distance =    46.087816233682638 | volume_distance =    27.019500892561357 | sum_distance =    73.107317126243998 | exercise(cycle,model) = exerc_1 | exerc_2
+[   4 / 132 ] flow_distance =   102.393005286735644 | volume_distance =     6.089801948860985 | sum_distance =   108.482807235596624 | exercise(cycle,model) = exerc_1 | exerc_5
+[   4 / 132 ] flow_distance =   136.821817297356375 | volume_distance =    24.786088313604111 | sum_distance =   161.607905610960472 | exercise(cycle,model) = exerc_1 | exerc_1
+
+[   5 / 132 ] flow_distance =    55.902202433895070 | volume_distance =     8.607448143100228 | sum_distance =    64.509650576995298 | exercise(cycle,model) = exerc_1 | exerc_4
+[   5 / 132 ] flow_distance =    43.876396266753943 | volume_distance =     6.064535669390234 | sum_distance =    49.940931936144175 | exercise(cycle,model) = exerc_1 | exerc_6
+[   5 / 132 ] flow_distance =   204.733685391263435 | volume_distance =    18.872310165184000 | sum_distance =   223.605995556447425 | exercise(cycle,model) = exerc_1 | exerc_3
+[   5 / 132 ] flow_distance =    42.596050644187962 | volume_distance =    16.126602358809944 | sum_distance =    58.722653002997902 | exercise(cycle,model) = exerc_1 | exerc_7
+[   5 / 132 ] flow_distance =    50.974255026731036 | volume_distance =    29.983794914359024 | sum_distance =    80.958049941090053 | exercise(cycle,model) = exerc_1 | exerc_2
+[   5 / 132 ] flow_distance =   108.040668562386642 | volume_distance =     8.274512626066647 | sum_distance =   116.315181188453295 | exercise(cycle,model) = exerc_1 | exerc_5
+[   5 / 132 ] flow_distance =   114.780911570848247 | volume_distance =    28.257863912862891 | sum_distance =   143.038775483711134 | exercise(cycle,model) = exerc_1 | exerc_1
+
+[   6 / 132 ] flow_distance =    40.261540212637065 | volume_distance =     2.181880984058846 | sum_distance =    42.443421196695908 | exercise(cycle,model) = exerc_1 | exerc_4
+[   6 / 132 ] flow_distance =     8.014132808036866 | volume_distance =     4.357975722984905 | sum_distance =    12.372108531021771 | exercise(cycle,model) = exerc_1 | exerc_6
+[   6 / 132 ] flow_distance =   127.769747191843223 | volume_distance =     3.113561940657499 | sum_distance =   130.883309132500727 | exercise(cycle,model) = exerc_1 | exerc_3
+[   6 / 132 ] flow_distance =    28.463140322671038 | volume_distance =     4.762052005670176 | sum_distance =    33.225192328341215 | exercise(cycle,model) = exerc_1 | exerc_7
+[   6 / 132 ] flow_distance =    37.954233545224994 | volume_distance =     6.267135573283379 | sum_distance =    44.221369118508370 | exercise(cycle,model) = exerc_1 | exerc_2
+[   6 / 132 ] flow_distance =    54.383488596431221 | volume_distance =     2.567928879673095 | sum_distance =    56.951417476104318 | exercise(cycle,model) = exerc_1 | exerc_5
+[   6 / 132 ] flow_distance =    30.044931466032512 | volume_distance =     5.915384431275174 | sum_distance =    35.960315897307687 | exercise(cycle,model) = exerc_1 | exerc_1
+
+[   7 / 132 ] flow_distance =    41.709613815093235 | volume_distance =     1.325479070620311 | sum_distance =    43.035092885713546 | exercise(cycle,model) = exerc_1 | exerc_4
+[   7 / 132 ] flow_distance =    11.991659076344233 | volume_distance =     2.193683251945062 | sum_distance =    14.185342328289295 | exercise(cycle,model) = exerc_1 | exerc_6
+[   7 / 132 ] flow_distance =   120.549300863264691 | volume_distance =     7.116887245137093 | sum_distance =   127.666188108401784 | exercise(cycle,model) = exerc_1 | exerc_3
+[   7 / 132 ] flow_distance =    29.892978067127828 | volume_distance =     1.013112682330913 | sum_distance =    30.906090749458741 | exercise(cycle,model) = exerc_1 | exerc_7
+[   7 / 132 ] flow_distance =    28.260673510933696 | volume_distance =    17.897519525799964 | sum_distance =    46.158193036733664 | exercise(cycle,model) = exerc_1 | exerc_2
+[   7 / 132 ] flow_distance =    45.397995898310995 | volume_distance =     1.171228897443932 | sum_distance =    46.569224795754927 | exercise(cycle,model) = exerc_1 | exerc_5
+[   7 / 132 ] flow_distance =    32.437653373107011 | volume_distance =    16.173991549951150 | sum_distance =    48.611644923058165 | exercise(cycle,model) = exerc_1 | exerc_1
+
+[   8 / 132 ] flow_distance =    32.660926909339956 | volume_distance =     3.161218634837582 | sum_distance =    35.822145544177538 | exercise(cycle,model) = exerc_1 | exerc_4
+[   8 / 132 ] flow_distance =    20.997503402760220 | volume_distance =     5.546826019338297 | sum_distance =    26.544329422098517 | exercise(cycle,model) = exerc_1 | exerc_6
+[   8 / 132 ] flow_distance =   105.558290762242422 | volume_distance =     2.733244982944583 | sum_distance =   108.291535745187005 | exercise(cycle,model) = exerc_1 | exerc_3
+[   8 / 132 ] flow_distance =    12.058369871702805 | volume_distance =     6.203305853771246 | sum_distance =    18.261675725474049 | exercise(cycle,model) = exerc_1 | exerc_7
+[   8 / 132 ] flow_distance =    13.018541015172167 | volume_distance =     6.554705135523675 | sum_distance =    19.573246150695841 | exercise(cycle,model) = exerc_1 | exerc_2
+[   8 / 132 ] flow_distance =    25.451939682474034 | volume_distance =     3.850418942573269 | sum_distance =    29.302358625047304 | exercise(cycle,model) = exerc_1 | exerc_5
+[   8 / 132 ] flow_distance =    23.492969658761297 | volume_distance =     6.034462860637583 | sum_distance =    29.527432519398879 | exercise(cycle,model) = exerc_1 | exerc_1
+
+[   9 / 132 ] flow_distance =    59.058850102392050 | volume_distance =     2.140936700310072 | sum_distance =    61.199786802702121 | exercise(cycle,model) = exerc_1 | exerc_4
+[   9 / 132 ] flow_distance =    29.070415680832337 | volume_distance =     1.005513274462370 | sum_distance =    30.075928955294707 | exercise(cycle,model) = exerc_1 | exerc_6
+[   9 / 132 ] flow_distance =   143.379499597328021 | volume_distance =     6.086770491162612 | sum_distance =   149.466270088490631 | exercise(cycle,model) = exerc_1 | exerc_3
+[   9 / 132 ] flow_distance =    61.516397337980706 | volume_distance =     1.800900545552788 | sum_distance =    63.317297883533492 | exercise(cycle,model) = exerc_1 | exerc_7
+[   9 / 132 ] flow_distance =    47.083083408944617 | volume_distance =    13.518962875374775 | sum_distance =    60.602046284319393 | exercise(cycle,model) = exerc_1 | exerc_2
+[   9 / 132 ] flow_distance =    68.428880848674225 | volume_distance =     2.436455135938485 | sum_distance =    70.865335984612713 | exercise(cycle,model) = exerc_1 | exerc_5
+[   9 / 132 ] flow_distance =    64.426975896208248 | volume_distance =    11.769500588891802 | sum_distance =    76.196476485100050 | exercise(cycle,model) = exerc_1 | exerc_1
+
+[  10 / 132 ] flow_distance =    61.856839234141368 | volume_distance =     3.256052200206206 | sum_distance =    65.112891434347574 | exercise(cycle,model) = exerc_1 | exerc_4
+[  10 / 132 ] flow_distance =    33.197292810327305 | volume_distance =     1.551786519292388 | sum_distance =    34.749079329619690 | exercise(cycle,model) = exerc_1 | exerc_6
+[  10 / 132 ] flow_distance =    93.345151024603553 | volume_distance =     8.318826851135594 | sum_distance =   101.663977875739150 | exercise(cycle,model) = exerc_1 | exerc_3
+[  10 / 132 ] flow_distance =    62.076280590961971 | volume_distance =     5.260971044740502 | sum_distance =    67.337251635702472 | exercise(cycle,model) = exerc_1 | exerc_7
+[  10 / 132 ] flow_distance =    59.836665350797389 | volume_distance =    13.365055699515123 | sum_distance =    73.201721050312514 | exercise(cycle,model) = exerc_1 | exerc_2
+[  10 / 132 ] flow_distance =    86.508121048243495 | volume_distance =     3.216301237942881 | sum_distance =    89.724422286186382 | exercise(cycle,model) = exerc_1 | exerc_5
+[  10 / 132 ] flow_distance =    84.634208275236503 | volume_distance =    12.740685721571639 | sum_distance =    97.374893996808140 | exercise(cycle,model) = exerc_1 | exerc_1
+
+[  11 / 132 ] flow_distance =    82.371627073822879 | volume_distance =    14.330979714446144 | sum_distance =    96.702606788269023 | exercise(cycle,model) = exerc_1 | exerc_4
+[  11 / 132 ] flow_distance =    21.358293191252454 | volume_distance =    12.794513162985782 | sum_distance =    34.152806354238237 | exercise(cycle,model) = exerc_1 | exerc_6
+[  11 / 132 ] flow_distance =   184.383315326469045 | volume_distance =    26.368511516223581 | sum_distance =   210.751826842692623 | exercise(cycle,model) = exerc_1 | exerc_3
+[  11 / 132 ] flow_distance =    78.670526531593381 | volume_distance =    29.078062612049390 | sum_distance =   107.748589143642775 | exercise(cycle,model) = exerc_1 | exerc_7
+[  11 / 132 ] flow_distance =    73.411153736815649 | volume_distance =    28.780028120614315 | sum_distance =   102.191181857429967 | exercise(cycle,model) = exerc_1 | exerc_2
+[  11 / 132 ] flow_distance =   110.563089416667353 | volume_distance =    14.106639820004292 | sum_distance =   124.669729236671643 | exercise(cycle,model) = exerc_1 | exerc_5
+[  11 / 132 ] flow_distance =    94.307281622271759 | volume_distance =    30.104969574641736 | sum_distance =   124.412251196913502 | exercise(cycle,model) = exerc_1 | exerc_1
+
+[  12 / 132 ] flow_distance =    99.713029739836514 | volume_distance =   202.271422320885989 | sum_distance =   301.984452060722504 | exercise(cycle,model) = exerc_1 | exerc_4
+[  12 / 132 ] flow_distance =    54.788781399033688 | volume_distance =   327.930542257177422 | sum_distance =   382.719323656211088 | exercise(cycle,model) = exerc_1 | exerc_6
+[  12 / 132 ] flow_distance =   214.945406870337138 | volume_distance =   328.603251779182244 | sum_distance =   543.548658649519439 | exercise(cycle,model) = exerc_1 | exerc_3
+[  12 / 132 ] flow_distance =   118.906476674834138 | volume_distance =   386.019506367724375 | sum_distance =   504.925983042558528 | exercise(cycle,model) = exerc_1 | exerc_7
+[  12 / 132 ] flow_distance =   103.212735576946372 | volume_distance =   194.559547808468182 | sum_distance =   297.772283385414539 | exercise(cycle,model) = exerc_1 | exerc_2
+[  12 / 132 ] flow_distance =    77.501585270910056 | volume_distance =   137.585258906400782 | sum_distance =   215.086844177310837 | exercise(cycle,model) = exerc_1 | exerc_5
+[  12 / 132 ] flow_distance =   113.642940644364444 | volume_distance =   450.649939059793724 | sum_distance =   564.292879704158167 | exercise(cycle,model) = exerc_1 | exerc_1
+
+[  13 / 132 ] flow_distance =    48.254047647147296 | volume_distance =    14.544332558153981 | sum_distance =    62.798380205301278 | exercise(cycle,model) = exerc_1 | exerc_4
+[  13 / 132 ] flow_distance =    43.364186153673714 | volume_distance =    14.727151058122548 | sum_distance =    58.091337211796258 | exercise(cycle,model) = exerc_1 | exerc_6
+[  13 / 132 ] flow_distance =   137.436469850015158 | volume_distance =    11.171842681910833 | sum_distance =   148.608312531926003 | exercise(cycle,model) = exerc_1 | exerc_3
+[  13 / 132 ] flow_distance =    24.891329539508806 | volume_distance =    22.817345550052604 | sum_distance =    47.708675089561410 | exercise(cycle,model) = exerc_1 | exerc_7
+[  13 / 132 ] flow_distance =    61.952534509965922 | volume_distance =     2.120860132752106 | sum_distance =    64.073394642718029 | exercise(cycle,model) = exerc_1 | exerc_2
+[  13 / 132 ] flow_distance =    35.519915792547152 | volume_distance =    18.388941069182533 | sum_distance =    53.908856861729689 | exercise(cycle,model) = exerc_1 | exerc_5
+[  13 / 132 ] flow_distance =     0.000000000000000 | volume_distance =     0.000000000000000 | sum_distance =     0.000000000000000 | exercise(cycle,model) = exerc_1 | exerc_1
+
+[  14 / 132 ] flow_distance =    54.229104123612899 | volume_distance =     2.719836571099357 | sum_distance =    56.948940694712256 | exercise(cycle,model) = exerc_1 | exerc_4
+[  14 / 132 ] flow_distance =    55.699878224253645 | volume_distance =     2.308929495864336 | sum_distance =    58.008807720117979 | exercise(cycle,model) = exerc_1 | exerc_6
+[  14 / 132 ] flow_distance =   163.412307991782995 | volume_distance =    10.171640089498615 | sum_distance =   173.583948081281619 | exercise(cycle,model) = exerc_1 | exerc_3
+[  14 / 132 ] flow_distance =    43.224262154802823 | volume_distance =     1.356438967514866 | sum_distance =    44.580701122317691 | exercise(cycle,model) = exerc_1 | exerc_7
+[  14 / 132 ] flow_distance =    33.600931206414415 | volume_distance =    34.204224522176297 | sum_distance =    67.805155728590705 | exercise(cycle,model) = exerc_1 | exerc_2
+[  14 / 132 ] flow_distance =    33.256754107554578 | volume_distance =     2.920852737487168 | sum_distance =    36.177606845041744 | exercise(cycle,model) = exerc_1 | exerc_5
+[  14 / 132 ] flow_distance =    46.912698912447595 | volume_distance =    28.399608969824229 | sum_distance =    75.312307882271824 | exercise(cycle,model) = exerc_1 | exerc_1
+
+[  15 / 132 ] flow_distance =    81.752034961019618 | volume_distance =     7.571266586954916 | sum_distance =    89.323301547974538 | exercise(cycle,model) = exerc_1 | exerc_4
+[  15 / 132 ] flow_distance =   188.091456247294502 | volume_distance =     9.596386381067083 | sum_distance =   197.687842628361580 | exercise(cycle,model) = exerc_1 | exerc_6
+[  15 / 132 ] flow_distance =   152.783081357978347 | volume_distance =     4.738495695615208 | sum_distance =   157.521577053593546 | exercise(cycle,model) = exerc_1 | exerc_3
+[  15 / 132 ] flow_distance =    51.946172684948188 | volume_distance =    12.141254897241589 | sum_distance =    64.087427582189775 | exercise(cycle,model) = exerc_1 | exerc_7
+[  15 / 132 ] flow_distance =    27.181512032783722 | volume_distance =    17.515764618228800 | sum_distance =    44.697276651012523 | exercise(cycle,model) = exerc_1 | exerc_2
+[  15 / 132 ] flow_distance =    52.256282121684073 | volume_distance =    10.009419872737624 | sum_distance =    62.265701994421697 | exercise(cycle,model) = exerc_1 | exerc_5
+[  15 / 132 ] flow_distance =   133.104075733524354 | volume_distance =    10.942628992680991 | sum_distance =   144.046704726205348 | exercise(cycle,model) = exerc_1 | exerc_1
+
+[  16 / 132 ] flow_distance =    45.704788154855002 | volume_distance =     5.988069071904305 | sum_distance =    51.692857226759308 | exercise(cycle,model) = exerc_1 | exerc_4
+[  16 / 132 ] flow_distance =    45.858160228087442 | volume_distance =     4.135051006220722 | sum_distance =    49.993211234308163 | exercise(cycle,model) = exerc_1 | exerc_6
+[  16 / 132 ] flow_distance =   162.395953978368283 | volume_distance =    14.896176646157405 | sum_distance =   177.292130624525697 | exercise(cycle,model) = exerc_1 | exerc_3
+[  16 / 132 ] flow_distance =    27.125738470519895 | volume_distance =    11.964622597120281 | sum_distance =    39.090361067640174 | exercise(cycle,model) = exerc_1 | exerc_7
+[  16 / 132 ] flow_distance =    17.788518171433573 | volume_distance =    24.960500964696998 | sum_distance =    42.749019136130570 | exercise(cycle,model) = exerc_1 | exerc_2
+[  16 / 132 ] flow_distance =    35.680038006950184 | volume_distance =     6.369676551362956 | sum_distance =    42.049714558313141 | exercise(cycle,model) = exerc_1 | exerc_5
+[  16 / 132 ] flow_distance =    34.671936588701215 | volume_distance =    22.689796843553466 | sum_distance =    57.361733432254681 | exercise(cycle,model) = exerc_1 | exerc_1
+
+[  17 / 132 ] flow_distance =    42.203039846027288 | volume_distance =     6.321295853219315 | sum_distance =    48.524335699246606 | exercise(cycle,model) = exerc_1 | exerc_4
+[  17 / 132 ] flow_distance =    26.368288959552057 | volume_distance =     3.846683398688288 | sum_distance =    30.214972358240345 | exercise(cycle,model) = exerc_1 | exerc_6
+[  17 / 132 ] flow_distance =   144.881737249479016 | volume_distance =    16.395147384051182 | sum_distance =   161.276884633530187 | exercise(cycle,model) = exerc_1 | exerc_3
+[  17 / 132 ] flow_distance =    24.753707317352941 | volume_distance =    11.218284999519451 | sum_distance =    35.971992316872388 | exercise(cycle,model) = exerc_1 | exerc_7
+[  17 / 132 ] flow_distance =    12.547672667044466 | volume_distance =    33.076581944603362 | sum_distance =    45.624254611647828 | exercise(cycle,model) = exerc_1 | exerc_2
+[  17 / 132 ] flow_distance =    23.117100458095720 | volume_distance =     6.170744874651313 | sum_distance =    29.287845332747033 | exercise(cycle,model) = exerc_1 | exerc_5
+[  17 / 132 ] flow_distance =    54.204429011247200 | volume_distance =    29.963912958849843 | sum_distance =    84.168341970097046 | exercise(cycle,model) = exerc_1 | exerc_1
+
+[  18 / 132 ] flow_distance =    96.117569276994828 | volume_distance =   151.832520867469810 | sum_distance =   247.950090144464639 | exercise(cycle,model) = exerc_1 | exerc_4
+[  18 / 132 ] flow_distance =    58.496704085963557 | volume_distance =   193.695967784531689 | sum_distance =   252.192671870495246 | exercise(cycle,model) = exerc_1 | exerc_6
+[  18 / 132 ] flow_distance =   239.894317637349900 | volume_distance =   228.711873754106193 | sum_distance =   468.606191391456093 | exercise(cycle,model) = exerc_1 | exerc_3
+[  18 / 132 ] flow_distance =   107.611849028716136 | volume_distance =   247.142792400592668 | sum_distance =   354.754641429308776 | exercise(cycle,model) = exerc_1 | exerc_7
+[  18 / 132 ] flow_distance =   100.382058612393081 | volume_distance =   201.082105202256741 | sum_distance =   301.464163814649851 | exercise(cycle,model) = exerc_1 | exerc_2
+[  18 / 132 ] flow_distance =    91.122932149630188 | volume_distance =   131.455678980952172 | sum_distance =   222.578611130582374 | exercise(cycle,model) = exerc_1 | exerc_5
+[  18 / 132 ] flow_distance =   156.095820387827445 | volume_distance =   375.328267502685605 | sum_distance =   531.424087890513078 | exercise(cycle,model) = exerc_1 | exerc_1
+
+[  19 / 132 ] flow_distance =    68.063994505455639 | volume_distance =     6.209336595308318 | sum_distance =    74.273331100763954 | exercise(cycle,model) = exerc_2 | exerc_4
+[  19 / 132 ] flow_distance =    34.030789319066422 | volume_distance =     8.089682811808629 | sum_distance =    42.120472130875051 | exercise(cycle,model) = exerc_2 | exerc_6
+[  19 / 132 ] flow_distance =   162.978195670511099 | volume_distance =     3.881519398792037 | sum_distance =   166.859715069303149 | exercise(cycle,model) = exerc_2 | exerc_3
+[  19 / 132 ] flow_distance =   100.704138595728921 | volume_distance =    10.686248545633781 | sum_distance =   111.390387141362709 | exercise(cycle,model) = exerc_2 | exerc_7
+[  19 / 132 ] flow_distance =    90.825971246336024 | volume_distance =     5.684540063725169 | sum_distance =    96.510511310061190 | exercise(cycle,model) = exerc_2 | exerc_2
+[  19 / 132 ] flow_distance =   102.897427107023859 | volume_distance =     8.087498130168651 | sum_distance =   110.984925237192513 | exercise(cycle,model) = exerc_2 | exerc_5
+[  19 / 132 ] flow_distance =    57.871308927161571 | volume_distance =     5.322978910704875 | sum_distance =    63.194287837866447 | exercise(cycle,model) = exerc_2 | exerc_1
+
+[  20 / 132 ] flow_distance =    82.114356147171819 | volume_distance =     8.195358864017642 | sum_distance =    90.309715011189468 | exercise(cycle,model) = exerc_2 | exerc_4
+[  20 / 132 ] flow_distance =    30.635708979021739 | volume_distance =     5.993916310005222 | sum_distance =    36.629625289026961 | exercise(cycle,model) = exerc_2 | exerc_6
+[  20 / 132 ] flow_distance =   202.975191278830408 | volume_distance =    16.420012084785068 | sum_distance =   219.395203363615479 | exercise(cycle,model) = exerc_2 | exerc_3
+[  20 / 132 ] flow_distance =    92.682266539700819 | volume_distance =    16.026432690484288 | sum_distance =   108.708699230185104 | exercise(cycle,model) = exerc_2 | exerc_7
+[  20 / 132 ] flow_distance =    91.524454191054630 | volume_distance =    19.092354059820742 | sum_distance =   110.616808250875380 | exercise(cycle,model) = exerc_2 | exerc_2
+[  20 / 132 ] flow_distance =   111.979727222320506 | volume_distance =     7.596748603073505 | sum_distance =   119.576475825394013 | exercise(cycle,model) = exerc_2 | exerc_5
+[  20 / 132 ] flow_distance =   124.305938632502460 | volume_distance =    19.557293578738069 | sum_distance =   143.863232211240529 | exercise(cycle,model) = exerc_2 | exerc_1
+
+[  21 / 132 ] flow_distance =   107.499005755250934 | volume_distance =     3.336229562844867 | sum_distance =   110.835235318095798 | exercise(cycle,model) = exerc_2 | exerc_4
+[  21 / 132 ] flow_distance =    41.098990287101472 | volume_distance =     1.811608762968306 | sum_distance =    42.910599050069777 | exercise(cycle,model) = exerc_2 | exerc_6
+[  21 / 132 ] flow_distance =   183.766659818139175 | volume_distance =     8.390400357388863 | sum_distance =   192.157060175528045 | exercise(cycle,model) = exerc_2 | exerc_3
+[  21 / 132 ] flow_distance =    99.123295436159253 | volume_distance =     4.939815606941327 | sum_distance =   104.063111043100577 | exercise(cycle,model) = exerc_2 | exerc_7
+[  21 / 132 ] flow_distance =   106.325472273327051 | volume_distance =    11.739209831786027 | sum_distance =   118.064682105113079 | exercise(cycle,model) = exerc_2 | exerc_2
+[  21 / 132 ] flow_distance =   112.763788488720280 | volume_distance =     3.202847539157085 | sum_distance =   115.966636027877371 | exercise(cycle,model) = exerc_2 | exerc_5
+[  21 / 132 ] flow_distance =   130.801678842534670 | volume_distance =    11.292253456828439 | sum_distance =   142.093932299363104 | exercise(cycle,model) = exerc_2 | exerc_1
+
+[  22 / 132 ] flow_distance =    46.062595319868763 | volume_distance =    16.752758984468375 | sum_distance =    62.815354304337134 | exercise(cycle,model) = exerc_2 | exerc_4
+[  22 / 132 ] flow_distance =    50.018738177137713 | volume_distance =    16.548876888469124 | sum_distance =    66.567615065606844 | exercise(cycle,model) = exerc_2 | exerc_6
+[  22 / 132 ] flow_distance =   139.402587817552842 | volume_distance =    13.468511237634262 | sum_distance =   152.871099055187102 | exercise(cycle,model) = exerc_2 | exerc_3
+[  22 / 132 ] flow_distance =    13.679042528284645 | volume_distance =    26.337216828472499 | sum_distance =    40.016259356757146 | exercise(cycle,model) = exerc_2 | exerc_7
+[  22 / 132 ] flow_distance =     0.000000000000000 | volume_distance =     0.000000000000000 | sum_distance =     0.000000000000000 | exercise(cycle,model) = exerc_2 | exerc_2
+[  22 / 132 ] flow_distance =    34.095818341071940 | volume_distance =    20.806914441423501 | sum_distance =    54.902732782495441 | exercise(cycle,model) = exerc_2 | exerc_5
+[  22 / 132 ] flow_distance =    61.952534509965922 | volume_distance =     2.120860132752106 | sum_distance =    64.073394642718029 | exercise(cycle,model) = exerc_2 | exerc_1
+
+[  23 / 132 ] flow_distance =    49.986932342929734 | volume_distance =     3.362670891999127 | sum_distance =    53.349603234928864 | exercise(cycle,model) = exerc_2 | exerc_4
+[  23 / 132 ] flow_distance =    70.283109605733458 | volume_distance =     5.743051879593648 | sum_distance =    76.026161485327108 | exercise(cycle,model) = exerc_2 | exerc_6
+[  23 / 132 ] flow_distance =   123.971015414762931 | volume_distance =     3.162526751864466 | sum_distance =   127.133542166627393 | exercise(cycle,model) = exerc_2 | exerc_3
+[  23 / 132 ] flow_distance =    34.661287173331310 | volume_distance =     6.360041765572432 | sum_distance =    41.021328938903743 | exercise(cycle,model) = exerc_2 | exerc_7
+[  23 / 132 ] flow_distance =    23.137662074438644 | volume_distance =    10.527904102712380 | sum_distance =    33.665566177151021 | exercise(cycle,model) = exerc_2 | exerc_2
+[  23 / 132 ] flow_distance =    25.765927291165465 | volume_distance =     4.094921976908722 | sum_distance =    29.860849268074187 | exercise(cycle,model) = exerc_2 | exerc_5
+[  23 / 132 ] flow_distance =    46.032979410634674 | volume_distance =     9.244641690954467 | sum_distance =    55.277621101589141 | exercise(cycle,model) = exerc_2 | exerc_1
+
+[  24 / 132 ] flow_distance =    46.787665719327698 | volume_distance =     4.942827235717771 | sum_distance =    51.730492955045470 | exercise(cycle,model) = exerc_2 | exerc_4
+[  24 / 132 ] flow_distance =    46.626299289438997 | volume_distance =     2.182684019738060 | sum_distance =    48.808983309177059 | exercise(cycle,model) = exerc_2 | exerc_6
+[  24 / 132 ] flow_distance =   124.220678420348904 | volume_distance =    12.375879989206503 | sum_distance =   136.596558409555399 | exercise(cycle,model) = exerc_2 | exerc_3
+[  24 / 132 ] flow_distance =    30.699812178795444 | volume_distance =     7.409568236965351 | sum_distance =    38.109380415760796 | exercise(cycle,model) = exerc_2 | exerc_7
+[  24 / 132 ] flow_distance =    17.926863264539787 | volume_distance =    21.550607368370255 | sum_distance =    39.477470632910041 | exercise(cycle,model) = exerc_2 | exerc_2
+[  24 / 132 ] flow_distance =    28.164569442943744 | volume_distance =     4.654609119242033 | sum_distance =    32.819178562185776 | exercise(cycle,model) = exerc_2 | exerc_5
+[  24 / 132 ] flow_distance =    39.375995736318309 | volume_distance =    20.332259788170120 | sum_distance =    59.708255524488429 | exercise(cycle,model) = exerc_2 | exerc_1
+
+[  25 / 132 ] flow_distance =    60.355202067123578 | volume_distance =     1.050039746435512 | sum_distance =    61.405241813559087 | exercise(cycle,model) = exerc_2 | exerc_4
+[  25 / 132 ] flow_distance =    24.874712966839045 | volume_distance =     3.288380488381402 | sum_distance =    28.163093455220448 | exercise(cycle,model) = exerc_2 | exerc_6
+[  25 / 132 ] flow_distance =   122.808458033249295 | volume_distance =     5.473560063696792 | sum_distance =   128.282018096946075 | exercise(cycle,model) = exerc_2 | exerc_3
+[  25 / 132 ] flow_distance =    71.579154225127184 | volume_distance =     2.640890812829113 | sum_distance =    74.220045037956297 | exercise(cycle,model) = exerc_2 | exerc_7
+[  25 / 132 ] flow_distance =    59.697581077648110 | volume_distance =    11.412385037703460 | sum_distance =    71.109966115351568 | exercise(cycle,model) = exerc_2 | exerc_2
+[  25 / 132 ] flow_distance =    67.110585014851637 | volume_distance =     1.308192232957836 | sum_distance =    68.418777247809473 | exercise(cycle,model) = exerc_2 | exerc_5
+[  25 / 132 ] flow_distance =    81.662769975046800 | volume_distance =    10.865024931348382 | sum_distance =    92.527794906395187 | exercise(cycle,model) = exerc_2 | exerc_1
+
+[  26 / 132 ] flow_distance =    40.005949451809734 | volume_distance =     1.175558515946707 | sum_distance =    41.181507967756438 | exercise(cycle,model) = exerc_2 | exerc_4
+[  26 / 132 ] flow_distance =    22.124375282775514 | volume_distance =     2.552693969637317 | sum_distance =    24.677069252412831 | exercise(cycle,model) = exerc_2 | exerc_6
+[  26 / 132 ] flow_distance =   148.196858146724367 | volume_distance =     7.034271987100283 | sum_distance =   155.231130133824649 | exercise(cycle,model) = exerc_2 | exerc_3
+[  26 / 132 ] flow_distance =    20.549090754721480 | volume_distance =     1.212616482546022 | sum_distance =    21.761707237267501 | exercise(cycle,model) = exerc_2 | exerc_7
+[  26 / 132 ] flow_distance =    15.247619770559613 | volume_distance =    22.620742204343578 | sum_distance =    37.868361974903195 | exercise(cycle,model) = exerc_2 | exerc_2
+[  26 / 132 ] flow_distance =    27.115440055721454 | volume_distance =     1.315085841669598 | sum_distance =    28.430525897391050 | exercise(cycle,model) = exerc_2 | exerc_5
+[  26 / 132 ] flow_distance =    28.388007065433502 | volume_distance =    19.905203446197962 | sum_distance =    48.293210511631464 | exercise(cycle,model) = exerc_2 | exerc_1
+
+[  27 / 132 ] flow_distance =    38.756335812874347 | volume_distance =     0.986145112109366 | sum_distance =    39.742480924983710 | exercise(cycle,model) = exerc_2 | exerc_4
+[  27 / 132 ] flow_distance =    30.558764389183935 | volume_distance =     3.583455201923415 | sum_distance =    34.142219591107349 | exercise(cycle,model) = exerc_2 | exerc_6
+[  27 / 132 ] flow_distance =   105.584471006700113 | volume_distance =     4.223878881856082 | sum_distance =   109.808349888556194 | exercise(cycle,model) = exerc_2 | exerc_3
+[  27 / 132 ] flow_distance =    17.287453606325634 | volume_distance =     2.862376552224265 | sum_distance =    20.149830158549900 | exercise(cycle,model) = exerc_2 | exerc_7
+[  27 / 132 ] flow_distance =     8.422305130747601 | volume_distance =    12.021944925999014 | sum_distance =    20.444250056746615 | exercise(cycle,model) = exerc_2 | exerc_2
+[  27 / 132 ] flow_distance =    24.422156719442818 | volume_distance =     0.911773366063215 | sum_distance =    25.333930085506033 | exercise(cycle,model) = exerc_2 | exerc_5
+[  27 / 132 ] flow_distance =    28.117966649517054 | volume_distance =    10.743221991702130 | sum_distance =    38.861188641219186 | exercise(cycle,model) = exerc_2 | exerc_1
+
+[  28 / 132 ] flow_distance =    44.976820552895518 | volume_distance =    36.094241170292563 | sum_distance =    81.071061723188080 | exercise(cycle,model) = exerc_2 | exerc_4
+[  28 / 132 ] flow_distance =    28.277775842726648 | volume_distance =    37.939867583013118 | sum_distance =    66.217643425739766 | exercise(cycle,model) = exerc_2 | exerc_6
+[  28 / 132 ] flow_distance =   156.173231844030937 | volume_distance =    58.590703449022378 | sum_distance =   214.763935293053322 | exercise(cycle,model) = exerc_2 | exerc_3
+[  28 / 132 ] flow_distance =    39.168676770031205 | volume_distance =    67.291007173950064 | sum_distance =   106.459683943981275 | exercise(cycle,model) = exerc_2 | exerc_7
+[  28 / 132 ] flow_distance =    54.729516557136726 | volume_distance =    53.859250489660980 | sum_distance =   108.588767046797699 | exercise(cycle,model) = exerc_2 | exerc_2
+[  28 / 132 ] flow_distance =    76.204104890552003 | volume_distance =    33.349881262247109 | sum_distance =   109.553986152799112 | exercise(cycle,model) = exerc_2 | exerc_5
+[  28 / 132 ] flow_distance =    36.597955233842725 | volume_distance =    65.493521843275943 | sum_distance =   102.091477077118668 | exercise(cycle,model) = exerc_2 | exerc_1
+
+[  29 / 132 ] flow_distance =    69.515568224840877 | volume_distance =     3.534744978506923 | sum_distance =    73.050313203347798 | exercise(cycle,model) = exerc_2 | exerc_4
+[  29 / 132 ] flow_distance =    32.263204416675812 | volume_distance =     5.586198652672636 | sum_distance =    37.849403069348448 | exercise(cycle,model) = exerc_2 | exerc_6
+[  29 / 132 ] flow_distance =   171.063927423165836 | volume_distance =     2.987276282237076 | sum_distance =   174.051203705402912 | exercise(cycle,model) = exerc_2 | exerc_3
+[  29 / 132 ] flow_distance =    64.345418023288303 | volume_distance =     7.312452905901325 | sum_distance =    71.657870929189627 | exercise(cycle,model) = exerc_2 | exerc_7
+[  29 / 132 ] flow_distance =    71.182905180411822 | volume_distance =     5.973164741906873 | sum_distance =    77.156069922318693 | exercise(cycle,model) = exerc_2 | exerc_2
+[  29 / 132 ] flow_distance =    95.805652777131797 | volume_distance =     4.536597375715110 | sum_distance =   100.342250152846901 | exercise(cycle,model) = exerc_2 | exerc_5
+[  29 / 132 ] flow_distance =    59.732183636712300 | volume_distance =     5.544811484977545 | sum_distance =    65.276995121689851 | exercise(cycle,model) = exerc_2 | exerc_1
+
+[  30 / 132 ] flow_distance =    90.422815588714016 | volume_distance =     9.800048751855304 | sum_distance =   100.222864340569316 | exercise(cycle,model) = exerc_2 | exerc_4
+[  30 / 132 ] flow_distance =    32.773950164246720 | volume_distance =     8.286150543708700 | sum_distance =    41.060100707955421 | exercise(cycle,model) = exerc_2 | exerc_6
+[  30 / 132 ] flow_distance =   195.624830122886095 | volume_distance =    18.689873105786461 | sum_distance =   214.314703228672556 | exercise(cycle,model) = exerc_2 | exerc_3
+[  30 / 132 ] flow_distance =   100.580583507550358 | volume_distance =    20.829768931292389 | sum_distance =   121.410352438842750 | exercise(cycle,model) = exerc_2 | exerc_7
+[  30 / 132 ] flow_distance =    82.850778886864134 | volume_distance =    19.955078143557436 | sum_distance =   102.805857030421578 | exercise(cycle,model) = exerc_2 | exerc_2
+[  30 / 132 ] flow_distance =   104.402857240958710 | volume_distance =     9.301587387611342 | sum_distance =   113.704444628570059 | exercise(cycle,model) = exerc_2 | exerc_5
+[  30 / 132 ] flow_distance =   109.847798355618110 | volume_distance =    21.084224342615052 | sum_distance =   130.932022698233169 | exercise(cycle,model) = exerc_2 | exerc_1
+
+[  31 / 132 ] flow_distance =    46.710974246771592 | volume_distance =     3.878101855864023 | sum_distance =    50.589076102635616 | exercise(cycle,model) = exerc_2 | exerc_4
+[  31 / 132 ] flow_distance =    31.081843819538079 | volume_distance =     2.134012298526428 | sum_distance =    33.215856118064508 | exercise(cycle,model) = exerc_2 | exerc_6
+[  31 / 132 ] flow_distance =   141.396058548979966 | volume_distance =    10.380395952089266 | sum_distance =   151.776454501069225 | exercise(cycle,model) = exerc_2 | exerc_3
+[  31 / 132 ] flow_distance =    28.954215499671630 | volume_distance =     6.525366744788769 | sum_distance =    35.479582244460403 | exercise(cycle,model) = exerc_2 | exerc_7
+[  31 / 132 ] flow_distance =    45.680136910510704 | volume_distance =    17.736255350262873 | sum_distance =    63.416392260773577 | exercise(cycle,model) = exerc_2 | exerc_2
+[  31 / 132 ] flow_distance =    97.412563628250524 | volume_distance =     3.524667308734506 | sum_distance =   100.937230936985031 | exercise(cycle,model) = exerc_2 | exerc_5
+[  31 / 132 ] flow_distance =    82.961302071020242 | volume_distance =    16.402435753740775 | sum_distance =    99.363737824761017 | exercise(cycle,model) = exerc_2 | exerc_1
+
+[  32 / 132 ] flow_distance =    52.329985104437064 | volume_distance =     4.386255555859263 | sum_distance =    56.716240660296329 | exercise(cycle,model) = exerc_2 | exerc_4
+[  32 / 132 ] flow_distance =    17.667425583930573 | volume_distance =     1.904987287001691 | sum_distance =    19.572412870932265 | exercise(cycle,model) = exerc_2 | exerc_6
+[  32 / 132 ] flow_distance =   176.027618437799646 | volume_distance =    11.000476095697740 | sum_distance =   187.028094533497381 | exercise(cycle,model) = exerc_2 | exerc_3
+[  32 / 132 ] flow_distance =    42.716112929358388 | volume_distance =     7.482873737658585 | sum_distance =    50.198986667016975 | exercise(cycle,model) = exerc_2 | exerc_7
+[  32 / 132 ] flow_distance =    45.050921286715429 | volume_distance =    18.638830995772569 | sum_distance =    63.689752282488001 | exercise(cycle,model) = exerc_2 | exerc_2
+[  32 / 132 ] flow_distance =    94.863084631864879 | volume_distance =     4.702702876226009 | sum_distance =    99.565787508090892 | exercise(cycle,model) = exerc_2 | exerc_5
+[  32 / 132 ] flow_distance =    61.937518938821064 | volume_distance =    17.306633301773381 | sum_distance =    79.244152240594445 | exercise(cycle,model) = exerc_2 | exerc_1
+
+[  33 / 132 ] flow_distance =    56.134015091325324 | volume_distance =     5.878195765137902 | sum_distance =    62.012210856463227 | exercise(cycle,model) = exerc_2 | exerc_4
+[  33 / 132 ] flow_distance =    20.450812108641255 | volume_distance =     7.523074510079533 | sum_distance =    27.973886618720787 | exercise(cycle,model) = exerc_2 | exerc_6
+[  33 / 132 ] flow_distance =   159.599036268280770 | volume_distance =     3.448793658810726 | sum_distance =   163.047829927091499 | exercise(cycle,model) = exerc_2 | exerc_3
+[  33 / 132 ] flow_distance =    48.821824007771255 | volume_distance =    10.379660567709477 | sum_distance =    59.201484575480734 | exercise(cycle,model) = exerc_2 | exerc_7
+[  33 / 132 ] flow_distance =    57.805527091738092 | volume_distance =     5.718347760873218 | sum_distance =    63.523874852611314 | exercise(cycle,model) = exerc_2 | exerc_2
+[  33 / 132 ] flow_distance =    78.595043211864322 | volume_distance =     7.763397557437838 | sum_distance =    86.358440769302163 | exercise(cycle,model) = exerc_2 | exerc_5
+[  33 / 132 ] flow_distance =    88.080235811701087 | volume_distance =     5.019277815495191 | sum_distance =    93.099513627196274 | exercise(cycle,model) = exerc_2 | exerc_1
+
+[  34 / 132 ] flow_distance =    31.057387915665604 | volume_distance =     2.239212823517140 | sum_distance =    33.296600739182743 | exercise(cycle,model) = exerc_2 | exerc_4
+[  34 / 132 ] flow_distance =    38.124642016351132 | volume_distance =     1.956758724935687 | sum_distance =    40.081400741286821 | exercise(cycle,model) = exerc_2 | exerc_6
+[  34 / 132 ] flow_distance =   122.152402480853780 | volume_distance =     6.236211100351957 | sum_distance =   128.388613581205732 | exercise(cycle,model) = exerc_2 | exerc_3
+[  34 / 132 ] flow_distance =    11.731091961234437 | volume_distance =     1.729181084746439 | sum_distance =    13.460273045980877 | exercise(cycle,model) = exerc_2 | exerc_7
+[  34 / 132 ] flow_distance =    12.236667888180135 | volume_distance =    12.798696383840086 | sum_distance =    25.035364272020221 | exercise(cycle,model) = exerc_2 | exerc_2
+[  34 / 132 ] flow_distance =    53.564834352434573 | volume_distance =     2.235145977545902 | sum_distance =    55.799980329980478 | exercise(cycle,model) = exerc_2 | exerc_5
+[  34 / 132 ] flow_distance =    25.805457139586963 | volume_distance =    11.902469465774717 | sum_distance =    37.707926605361678 | exercise(cycle,model) = exerc_2 | exerc_1
+
+[  35 / 132 ] flow_distance =    70.323499269221003 | volume_distance =    29.529919857361108 | sum_distance =    99.853419126582111 | exercise(cycle,model) = exerc_2 | exerc_4
+[  35 / 132 ] flow_distance =    30.737718032007916 | volume_distance =    29.648996611740095 | sum_distance =    60.386714643748007 | exercise(cycle,model) = exerc_2 | exerc_6
+[  35 / 132 ] flow_distance =   200.668519450604293 | volume_distance =    49.539372623057027 | sum_distance =   250.207892073661327 | exercise(cycle,model) = exerc_2 | exerc_3
+[  35 / 132 ] flow_distance =    87.365767037602239 | volume_distance =    55.367871004692233 | sum_distance =   142.733638042294473 | exercise(cycle,model) = exerc_2 | exerc_7
+[  35 / 132 ] flow_distance =    82.613886626326334 | volume_distance =    50.430278096744772 | sum_distance =   133.044164723071106 | exercise(cycle,model) = exerc_2 | exerc_2
+[  35 / 132 ] flow_distance =    95.646787662493807 | volume_distance =    27.292632843056580 | sum_distance =   122.939420505550387 | exercise(cycle,model) = exerc_2 | exerc_5
+[  35 / 132 ] flow_distance =   135.474935544487380 | volume_distance =    57.953482650222725 | sum_distance =   193.428418194710105 | exercise(cycle,model) = exerc_2 | exerc_1
+
+[  36 / 132 ] flow_distance =    68.191523494944988 | volume_distance =     2.099557808756403 | sum_distance =    70.291081303701390 | exercise(cycle,model) = exerc_2 | exerc_4
+[  36 / 132 ] flow_distance =    39.166360987781161 | volume_distance =     0.873762749205358 | sum_distance =    40.040123736986516 | exercise(cycle,model) = exerc_2 | exerc_6
+[  36 / 132 ] flow_distance =   203.194231451294286 | volume_distance =     6.327115339962583 | sum_distance =   209.521346791256860 | exercise(cycle,model) = exerc_2 | exerc_3
+[  36 / 132 ] flow_distance =    86.956823563815902 | volume_distance =     1.564618788463235 | sum_distance =    88.521442352279138 | exercise(cycle,model) = exerc_2 | exerc_7
+[  36 / 132 ] flow_distance =    94.366158585662816 | volume_distance =    13.096289073633036 | sum_distance =   107.462447659295847 | exercise(cycle,model) = exerc_2 | exerc_2
+[  36 / 132 ] flow_distance =    96.471237629225186 | volume_distance =     2.308889692408658 | sum_distance =    98.780127321633842 | exercise(cycle,model) = exerc_2 | exerc_5
+[  36 / 132 ] flow_distance =   105.461213748950883 | volume_distance =    11.919581897085997 | sum_distance =   117.380795646036887 | exercise(cycle,model) = exerc_2 | exerc_1
+
+[  37 / 132 ] flow_distance =    36.300475037405086 | volume_distance =     7.704350047874334 | sum_distance =    44.004825085279421 | exercise(cycle,model) = exerc_2 | exerc_4
+[  37 / 132 ] flow_distance =    30.758389546626027 | volume_distance =     9.243680023836266 | sum_distance =    40.002069570462297 | exercise(cycle,model) = exerc_2 | exerc_6
+[  37 / 132 ] flow_distance =   127.081352486379089 | volume_distance =     4.884314649105181 | sum_distance =   131.965667135484267 | exercise(cycle,model) = exerc_2 | exerc_3
+[  37 / 132 ] flow_distance =    19.473098809582137 | volume_distance =    13.147253408618344 | sum_distance =    32.620352218200480 | exercise(cycle,model) = exerc_2 | exerc_7
+[  37 / 132 ] flow_distance =    30.906368455337336 | volume_distance =     3.549979424173860 | sum_distance =    34.456347879511199 | exercise(cycle,model) = exerc_2 | exerc_2
+[  37 / 132 ] flow_distance =    69.846847494808713 | volume_distance =    10.521408895249923 | sum_distance =    80.368256390058633 | exercise(cycle,model) = exerc_2 | exerc_5
+[  37 / 132 ] flow_distance =    46.937328378511204 | volume_distance =     2.933227897841324 | sum_distance =    49.870556276352531 | exercise(cycle,model) = exerc_2 | exerc_1
+
+[  38 / 132 ] flow_distance =   111.915140257982515 | volume_distance =    30.522948637187689 | sum_distance =   142.438088895170210 | exercise(cycle,model) = exerc_3 | exerc_4
+[  38 / 132 ] flow_distance =   107.082939720985394 | volume_distance =    30.879233223768068 | sum_distance =   137.962172944753462 | exercise(cycle,model) = exerc_3 | exerc_6
+[  38 / 132 ] flow_distance =   150.859984196258353 | volume_distance =    50.687814999483173 | sum_distance =   201.547799195741533 | exercise(cycle,model) = exerc_3 | exerc_3
+[  38 / 132 ] flow_distance =   158.772416169758458 | volume_distance =    57.150598756791538 | sum_distance =   215.923014926549996 | exercise(cycle,model) = exerc_3 | exerc_7
+[  38 / 132 ] flow_distance =   154.788863420242222 | volume_distance =    49.132115652615255 | sum_distance =   203.920979072857477 | exercise(cycle,model) = exerc_3 | exerc_2
+[  38 / 132 ] flow_distance =   156.468908611008629 | volume_distance =    28.198176638878802 | sum_distance =   184.667085249887435 | exercise(cycle,model) = exerc_3 | exerc_5
+[  38 / 132 ] flow_distance =   185.207385503698191 | volume_distance =    57.482368249029719 | sum_distance =   242.689753752727910 | exercise(cycle,model) = exerc_3 | exerc_1
+
+[  39 / 132 ] flow_distance =    85.583603552266993 | volume_distance =     1.727501978818732 | sum_distance =    87.311105531085730 | exercise(cycle,model) = exerc_3 | exerc_4
+[  39 / 132 ] flow_distance =    84.972433169996449 | volume_distance =     1.710066726824476 | sum_distance =    86.682499896820929 | exercise(cycle,model) = exerc_3 | exerc_6
+[  39 / 132 ] flow_distance =   130.974842562358731 | volume_distance =     5.084807899297264 | sum_distance =   136.059650461655991 | exercise(cycle,model) = exerc_3 | exerc_3
+[  39 / 132 ] flow_distance =   134.385212927267872 | volume_distance =     1.524928870667843 | sum_distance =   135.910141797935722 | exercise(cycle,model) = exerc_3 | exerc_7
+[  39 / 132 ] flow_distance =   122.777196296078444 | volume_distance =     8.941015852609217 | sum_distance =   131.718212148687655 | exercise(cycle,model) = exerc_3 | exerc_2
+[  39 / 132 ] flow_distance =   143.648812249429540 | volume_distance =     1.680816004426325 | sum_distance =   145.329628253855873 | exercise(cycle,model) = exerc_3 | exerc_5
+[  39 / 132 ] flow_distance =   177.512439365039882 | volume_distance =     8.544139178328150 | sum_distance =   186.056578543368033 | exercise(cycle,model) = exerc_3 | exerc_1
+
+[  40 / 132 ] flow_distance =    83.690611496712805 | volume_distance =     5.457943343885169 | sum_distance =    89.148554840597967 | exercise(cycle,model) = exerc_3 | exerc_4
+[  40 / 132 ] flow_distance =    60.056582372040900 | volume_distance =     7.092528828570937 | sum_distance =    67.149111200611841 | exercise(cycle,model) = exerc_3 | exerc_6
+[  40 / 132 ] flow_distance =   162.104259818037576 | volume_distance =     2.731981885838646 | sum_distance =   164.836241703876226 | exercise(cycle,model) = exerc_3 | exerc_3
+[  40 / 132 ] flow_distance =   124.064963109748547 | volume_distance =     9.621588769595068 | sum_distance =   133.686551879343625 | exercise(cycle,model) = exerc_3 | exerc_7
+[  40 / 132 ] flow_distance =   115.731338457974942 | volume_distance =     4.951452722321077 | sum_distance =   120.682791180296022 | exercise(cycle,model) = exerc_3 | exerc_2
+[  40 / 132 ] flow_distance =   135.271852374970592 | volume_distance =     7.276160277909454 | sum_distance =   142.548012652880033 | exercise(cycle,model) = exerc_3 | exerc_5
+[  40 / 132 ] flow_distance =    98.534231828420076 | volume_distance =     4.368084655794744 | sum_distance =   102.902316484214822 | exercise(cycle,model) = exerc_3 | exerc_1
+
+[  41 / 132 ] flow_distance =   130.593169319427091 | volume_distance =     2.524622425539899 | sum_distance =   133.117791744966979 | exercise(cycle,model) = exerc_3 | exerc_4
+[  41 / 132 ] flow_distance =   125.227019625512739 | volume_distance =     3.587342645195630 | sum_distance =   128.814362270708358 | exercise(cycle,model) = exerc_3 | exerc_6
+[  41 / 132 ] flow_distance =    42.905236036128336 | volume_distance =     9.291244904523943 | sum_distance =    52.196480940652279 | exercise(cycle,model) = exerc_3 | exerc_3
+[  41 / 132 ] flow_distance =    98.679306653843966 | volume_distance =     1.783271134401502 | sum_distance =   100.462577788245468 | exercise(cycle,model) = exerc_3 | exerc_7
+[  41 / 132 ] flow_distance =   110.306083686218159 | volume_distance =    23.438825891396082 | sum_distance =   133.744909577614237 | exercise(cycle,model) = exerc_3 | exerc_2
+[  41 / 132 ] flow_distance =   144.063170861134381 | volume_distance =     2.632331094619541 | sum_distance =   146.695501955753912 | exercise(cycle,model) = exerc_3 | exerc_5
+[  41 / 132 ] flow_distance =   146.098475386135988 | volume_distance =    20.526058738316706 | sum_distance =   166.624534124452680 | exercise(cycle,model) = exerc_3 | exerc_1
+
+[  42 / 132 ] flow_distance =    85.524096786754697 | volume_distance =     6.353798842896708 | sum_distance =    91.877895629651405 | exercise(cycle,model) = exerc_3 | exerc_4
+[  42 / 132 ] flow_distance =   158.083066953748670 | volume_distance =     8.576284490287916 | sum_distance =   166.659351444036588 | exercise(cycle,model) = exerc_3 | exerc_6
+[  42 / 132 ] flow_distance =    27.461407836488686 | volume_distance =     8.652205477577040 | sum_distance =    36.113613314065724 | exercise(cycle,model) = exerc_3 | exerc_3
+[  42 / 132 ] flow_distance =   102.281605160251559 | volume_distance =    10.920102101833557 | sum_distance =   113.201707262085108 | exercise(cycle,model) = exerc_3 | exerc_7
+[  42 / 132 ] flow_distance =   120.215305484624182 | volume_distance =     7.211560377942239 | sum_distance =   127.426865862566416 | exercise(cycle,model) = exerc_3 | exerc_2
+[  42 / 132 ] flow_distance =   160.513135260963168 | volume_distance =     8.529628833947434 | sum_distance =   169.042764094910609 | exercise(cycle,model) = exerc_3 | exerc_5
+[  42 / 132 ] flow_distance =   137.814660217258563 | volume_distance =     5.794615325197114 | sum_distance =   143.609275542455691 | exercise(cycle,model) = exerc_3 | exerc_1
+
+[  43 / 132 ] flow_distance =    97.599821590519241 | volume_distance =     6.117802978935590 | sum_distance =   103.717624569454827 | exercise(cycle,model) = exerc_3 | exerc_4
+[  43 / 132 ] flow_distance =   145.306916950177254 | volume_distance =     8.393596520829243 | sum_distance =   153.700513471006502 | exercise(cycle,model) = exerc_3 | exerc_6
+[  43 / 132 ] flow_distance =     0.000000000000000 | volume_distance =     0.000000000000000 | sum_distance =     0.000000000000000 | exercise(cycle,model) = exerc_3 | exerc_3
+[  43 / 132 ] flow_distance =   126.945670910227221 | volume_distance =     9.748974208636707 | sum_distance =   136.694645118863917 | exercise(cycle,model) = exerc_3 | exerc_7
+[  43 / 132 ] flow_distance =   139.402587817552842 | volume_distance =    13.468511237634262 | sum_distance =   152.871099055187102 | exercise(cycle,model) = exerc_3 | exerc_2
+[  43 / 132 ] flow_distance =   157.409932077802125 | volume_distance =     7.846814822318180 | sum_distance =   165.256746900120305 | exercise(cycle,model) = exerc_3 | exerc_5
+[  43 / 132 ] flow_distance =   137.436469850015158 | volume_distance =    11.171842681910833 | sum_distance =   148.608312531926003 | exercise(cycle,model) = exerc_3 | exerc_1
+
+[  44 / 132 ] flow_distance =    79.999323285068684 | volume_distance =     9.123713149597917 | sum_distance =    89.123036434666602 | exercise(cycle,model) = exerc_3 | exerc_4
+[  44 / 132 ] flow_distance =    68.223284679842394 | volume_distance =    10.773644067399607 | sum_distance =    78.996928747241995 | exercise(cycle,model) = exerc_3 | exerc_6
+[  44 / 132 ] flow_distance =   122.601607200589456 | volume_distance =     7.736249960490190 | sum_distance =   130.337857161079654 | exercise(cycle,model) = exerc_3 | exerc_3
+[  44 / 132 ] flow_distance =   134.358648266764476 | volume_distance =    15.665245009074146 | sum_distance =   150.023893275838617 | exercise(cycle,model) = exerc_3 | exerc_7
+[  44 / 132 ] flow_distance =   109.346443954414823 | volume_distance =     4.600241733204284 | sum_distance =   113.946685687619109 | exercise(cycle,model) = exerc_3 | exerc_2
+[  44 / 132 ] flow_distance =   127.441034342129143 | volume_distance =    12.539204529606769 | sum_distance =   139.980238871735907 | exercise(cycle,model) = exerc_3 | exerc_5
+[  44 / 132 ] flow_distance =   123.383025477417789 | volume_distance =     3.770812914923600 | sum_distance =   127.153838392341385 | exercise(cycle,model) = exerc_3 | exerc_1
+
+[  45 / 132 ] flow_distance =   101.520188796537397 | volume_distance =     2.955200935123144 | sum_distance =   104.475389731660542 | exercise(cycle,model) = exerc_3 | exerc_4
+[  45 / 132 ] flow_distance =    46.509399112292463 | volume_distance =     1.874912561718392 | sum_distance =    48.384311674010853 | exercise(cycle,model) = exerc_3 | exerc_6
+[  45 / 132 ] flow_distance =   318.489607141097451 | volume_distance =     8.752646268359628 | sum_distance =   327.242253409457078 | exercise(cycle,model) = exerc_3 | exerc_3
+[  45 / 132 ] flow_distance =   110.479144955169858 | volume_distance =     4.242296196135277 | sum_distance =   114.721441151305129 | exercise(cycle,model) = exerc_3 | exerc_7
+[  45 / 132 ] flow_distance =   117.556143024178027 | volume_distance =    13.540137501623619 | sum_distance =   131.096280525801660 | exercise(cycle,model) = exerc_3 | exerc_2
+[  45 / 132 ] flow_distance =   125.394428485587966 | volume_distance =     3.787448212251359 | sum_distance =   129.181876697839328 | exercise(cycle,model) = exerc_3 | exerc_5
+[  45 / 132 ] flow_distance =   205.817012051998915 | volume_distance =    11.961412673086226 | sum_distance =   217.778424725085131 | exercise(cycle,model) = exerc_3 | exerc_1
+
+[  46 / 132 ] flow_distance =    93.719985666628091 | volume_distance =     1.813966247475415 | sum_distance =    95.533951914103511 | exercise(cycle,model) = exerc_3 | exerc_4
+[  46 / 132 ] flow_distance =    41.882074978108903 | volume_distance =     4.846106439907072 | sum_distance =    46.728181418015978 | exercise(cycle,model) = exerc_3 | exerc_6
+[  46 / 132 ] flow_distance =   220.231250634270253 | volume_distance =     6.075498939416438 | sum_distance =   226.306749573686687 | exercise(cycle,model) = exerc_3 | exerc_3
+[  46 / 132 ] flow_distance =   115.766106439186629 | volume_distance =     4.691025326774211 | sum_distance =   120.457131765960838 | exercise(cycle,model) = exerc_3 | exerc_7
+[  46 / 132 ] flow_distance =   123.061149470024958 | volume_distance =     9.268349720268048 | sum_distance =   132.329499190293006 | exercise(cycle,model) = exerc_3 | exerc_2
+[  46 / 132 ] flow_distance =   132.273024476127119 | volume_distance =     2.958219555294539 | sum_distance =   135.231244031421653 | exercise(cycle,model) = exerc_3 | exerc_5
+[  46 / 132 ] flow_distance =   178.790683120477979 | volume_distance =     7.693252579702312 | sum_distance =   186.483935700180297 | exercise(cycle,model) = exerc_3 | exerc_1
+
+[  47 / 132 ] flow_distance =    41.799688119366145 | volume_distance =     9.427333580235199 | sum_distance =    51.227021699601345 | exercise(cycle,model) = exerc_3 | exerc_4
+[  47 / 132 ] flow_distance =    46.906221958377877 | volume_distance =    10.529508646242654 | sum_distance =    57.435730604620531 | exercise(cycle,model) = exerc_3 | exerc_6
+[  47 / 132 ] flow_distance =    38.031995514155561 | volume_distance =     6.891229911218407 | sum_distance =    44.923225425373971 | exercise(cycle,model) = exerc_3 | exerc_3
+[  47 / 132 ] flow_distance =    39.329630604869763 | volume_distance =    15.661185397231538 | sum_distance =    54.990816002101297 | exercise(cycle,model) = exerc_3 | exerc_7
+[  47 / 132 ] flow_distance =    43.017767773390091 | volume_distance =     2.784438675361330 | sum_distance =    45.802206448751420 | exercise(cycle,model) = exerc_3 | exerc_2
+[  47 / 132 ] flow_distance =    55.450454256016158 | volume_distance =    12.113407713636645 | sum_distance =    67.563861969652805 | exercise(cycle,model) = exerc_3 | exerc_5
+[  47 / 132 ] flow_distance =    52.388392240924432 | volume_distance =     3.047111429120754 | sum_distance =    55.435503670045186 | exercise(cycle,model) = exerc_3 | exerc_1
+
+[  48 / 132 ] flow_distance =    36.760488734517253 | volume_distance =     3.891766853192791 | sum_distance =    40.652255587710044 | exercise(cycle,model) = exerc_3 | exerc_4
+[  48 / 132 ] flow_distance =    52.072216301642356 | volume_distance =     1.636408089286503 | sum_distance =    53.708624390928861 | exercise(cycle,model) = exerc_3 | exerc_6
+[  48 / 132 ] flow_distance =    28.025599845543042 | volume_distance =    10.871679223323062 | sum_distance =    38.897279068866105 | exercise(cycle,model) = exerc_3 | exerc_3
+[  48 / 132 ] flow_distance =    64.506864554775973 | volume_distance =     4.276544908578509 | sum_distance =    68.783409463354488 | exercise(cycle,model) = exerc_3 | exerc_7
+[  48 / 132 ] flow_distance =    73.122946159754434 | volume_distance =    22.282900494966363 | sum_distance =    95.405846654720790 | exercise(cycle,model) = exerc_3 | exerc_2
+[  48 / 132 ] flow_distance =    95.801219965041582 | volume_distance =     3.676273138144616 | sum_distance =    99.477493103186191 | exercise(cycle,model) = exerc_3 | exerc_5
+[  48 / 132 ] flow_distance =    77.620731273016261 | volume_distance =    20.527852446891632 | sum_distance =    98.148583719907890 | exercise(cycle,model) = exerc_3 | exerc_1
+
+[  49 / 132 ] flow_distance =    28.510844376058184 | volume_distance =     1.015604326751307 | sum_distance =    29.526448702809493 | exercise(cycle,model) = exerc_3 | exerc_4
+[  49 / 132 ] flow_distance =    72.963273704537940 | volume_distance =     3.613440217817004 | sum_distance =    76.576713922354941 | exercise(cycle,model) = exerc_3 | exerc_6
+[  49 / 132 ] flow_distance =    11.103430812202047 | volume_distance =     5.650305024193582 | sum_distance =    16.753735836395627 | exercise(cycle,model) = exerc_3 | exerc_3
+[  49 / 132 ] flow_distance =    45.943932438047348 | volume_distance =     2.173419220170663 | sum_distance =    48.117351658218013 | exercise(cycle,model) = exerc_3 | exerc_7
+[  49 / 132 ] flow_distance =    41.073605278073856 | volume_distance =    14.748938715852216 | sum_distance =    55.822543993926075 | exercise(cycle,model) = exerc_3 | exerc_2
+[  49 / 132 ] flow_distance =    62.842524998662242 | volume_distance =     0.861392602134624 | sum_distance =    63.703917600796863 | exercise(cycle,model) = exerc_3 | exerc_5
+[  49 / 132 ] flow_distance =    58.005189855191340 | volume_distance =    13.390484096599192 | sum_distance =    71.395673951790528 | exercise(cycle,model) = exerc_3 | exerc_1
+
+[  50 / 132 ] flow_distance =    86.124844760457876 | volume_distance =    12.897236912145273 | sum_distance =    99.022081672603150 | exercise(cycle,model) = exerc_3 | exerc_4
+[  50 / 132 ] flow_distance =    72.094462257738513 | volume_distance =    13.275848281525908 | sum_distance =    85.370310539264423 | exercise(cycle,model) = exerc_3 | exerc_6
+[  50 / 132 ] flow_distance =    92.623511602243426 | volume_distance =     9.927219443986795 | sum_distance =   102.550731046230226 | exercise(cycle,model) = exerc_3 | exerc_3
+[  50 / 132 ] flow_distance =   102.116584631286244 | volume_distance =    20.611673796524300 | sum_distance =   122.728258427810545 | exercise(cycle,model) = exerc_3 | exerc_7
+[  50 / 132 ] flow_distance =    99.711853408558412 | volume_distance =     1.681937227639758 | sum_distance =   101.393790636198176 | exercise(cycle,model) = exerc_3 | exerc_2
+[  50 / 132 ] flow_distance =   166.974336373443862 | volume_distance =    16.284663529149963 | sum_distance =   183.258999902593814 | exercise(cycle,model) = exerc_3 | exerc_5
+[  50 / 132 ] flow_distance =   184.170159860610084 | volume_distance =     1.526096602296151 | sum_distance =   185.696256462906234 | exercise(cycle,model) = exerc_3 | exerc_1
+
+[  51 / 132 ] flow_distance =   105.968706405096256 | volume_distance =     2.279218961157588 | sum_distance =   108.247925366253838 | exercise(cycle,model) = exerc_3 | exerc_4
+[  51 / 132 ] flow_distance =    68.844121685260561 | volume_distance =     1.218854624343978 | sum_distance =    70.062976309604537 | exercise(cycle,model) = exerc_3 | exerc_6
+[  51 / 132 ] flow_distance =   123.639697941785343 | volume_distance =     6.397357077284391 | sum_distance =   130.037055019069726 | exercise(cycle,model) = exerc_3 | exerc_3
+[  51 / 132 ] flow_distance =   114.880138740809883 | volume_distance =     1.815315112333751 | sum_distance =   116.695453853143633 | exercise(cycle,model) = exerc_3 | exerc_7
+[  51 / 132 ] flow_distance =   111.114243077186543 | volume_distance =    12.868268884997244 | sum_distance =   123.982511962183793 | exercise(cycle,model) = exerc_3 | exerc_2
+[  51 / 132 ] flow_distance =   154.116625175417255 | volume_distance =     2.281867465596364 | sum_distance =   156.398492641013632 | exercise(cycle,model) = exerc_3 | exerc_5
+[  51 / 132 ] flow_distance =   104.488526810549715 | volume_distance =    11.701367523997266 | sum_distance =   116.189894334546977 | exercise(cycle,model) = exerc_3 | exerc_1
+
+[  52 / 132 ] flow_distance =   102.731586940438419 | volume_distance =    11.316134814153711 | sum_distance =   114.047721754592132 | exercise(cycle,model) = exerc_3 | exerc_4
+[  52 / 132 ] flow_distance =    89.462492464452609 | volume_distance =     9.465409384852963 | sum_distance =    98.927901849305570 | exercise(cycle,model) = exerc_3 | exerc_6
+[  52 / 132 ] flow_distance =   138.671809679378697 | volume_distance =    21.258084216711534 | sum_distance =   159.929893896090221 | exercise(cycle,model) = exerc_3 | exerc_3
+[  52 / 132 ] flow_distance =   155.655414875234072 | volume_distance =    22.519532331915279 | sum_distance =   178.174947207149359 | exercise(cycle,model) = exerc_3 | exerc_7
+[  52 / 132 ] flow_distance =   133.061925407282700 | volume_distance =    24.720056105406574 | sum_distance =   157.781981512689271 | exercise(cycle,model) = exerc_3 | exerc_2
+[  52 / 132 ] flow_distance =   156.530513409005977 | volume_distance =    10.803258109124574 | sum_distance =   167.333771518130561 | exercise(cycle,model) = exerc_3 | exerc_5
+[  52 / 132 ] flow_distance =   175.338618786896632 | volume_distance =    25.475214878115086 | sum_distance =   200.813833665011714 | exercise(cycle,model) = exerc_3 | exerc_1
+
+[  53 / 132 ] flow_distance =    67.879073531625224 | volume_distance =    10.364850749217155 | sum_distance =    78.243924280842378 | exercise(cycle,model) = exerc_3 | exerc_4
+[  53 / 132 ] flow_distance =    51.511254033434128 | volume_distance =     7.846310692036085 | sum_distance =    59.357564725470212 | exercise(cycle,model) = exerc_3 | exerc_6
+[  53 / 132 ] flow_distance =    81.246934268640928 | volume_distance =    21.349716156540495 | sum_distance =   102.596650425181423 | exercise(cycle,model) = exerc_3 | exerc_3
+[  53 / 132 ] flow_distance =    81.107481810052704 | volume_distance =    20.009197721896491 | sum_distance =   101.116679531949188 | exercise(cycle,model) = exerc_3 | exerc_7
+[  53 / 132 ] flow_distance =    76.806341269934492 | volume_distance =    30.939985431007301 | sum_distance =   107.746326700941793 | exercise(cycle,model) = exerc_3 | exerc_2
+[  53 / 132 ] flow_distance =   130.401883852335345 | volume_distance =     9.839864314245299 | sum_distance =   140.241748166580635 | exercise(cycle,model) = exerc_3 | exerc_5
+[  53 / 132 ] flow_distance =   151.265604823052939 | volume_distance =    30.238084013745425 | sum_distance =   181.503688836798375 | exercise(cycle,model) = exerc_3 | exerc_1
+
+[  54 / 132 ] flow_distance =    55.586447638673008 | volume_distance =     5.161288031813529 | sum_distance =    60.747735670486534 | exercise(cycle,model) = exerc_3 | exerc_4
+[  54 / 132 ] flow_distance =    78.539885648569353 | volume_distance =     7.103511051429567 | sum_distance =    85.643396699998917 | exercise(cycle,model) = exerc_3 | exerc_6
+[  54 / 132 ] flow_distance =    39.385870480461811 | volume_distance =     3.014843221409181 | sum_distance =    42.400713701870991 | exercise(cycle,model) = exerc_3 | exerc_3
+[  54 / 132 ] flow_distance =    71.096736078677296 | volume_distance =     8.942585947354987 | sum_distance =    80.039322026032281 | exercise(cycle,model) = exerc_3 | exerc_7
+[  54 / 132 ] flow_distance =    75.461088195565253 | volume_distance =     6.712793246351389 | sum_distance =    82.173881441916649 | exercise(cycle,model) = exerc_3 | exerc_2
+[  54 / 132 ] flow_distance =   106.817763333978846 | volume_distance =     6.564364761167205 | sum_distance =   113.382128095146044 | exercise(cycle,model) = exerc_3 | exerc_5
+[  54 / 132 ] flow_distance =   125.174239356595493 | volume_distance =     5.829665782959862 | sum_distance =   131.003905139555343 | exercise(cycle,model) = exerc_3 | exerc_1
+
+[  55 / 132 ] flow_distance =    44.650575321967899 | volume_distance =     8.273181264613470 | sum_distance =    52.923756586581369 | exercise(cycle,model) = exerc_3 | exerc_4
+[  55 / 132 ] flow_distance =    70.955869010338560 | volume_distance =     9.757812155461053 | sum_distance =    80.713681165799613 | exercise(cycle,model) = exerc_3 | exerc_6
+[  55 / 132 ] flow_distance =    16.973323300739608 | volume_distance =     5.655559262332270 | sum_distance =    22.628882563071876 | exercise(cycle,model) = exerc_3 | exerc_3
+[  55 / 132 ] flow_distance =    67.109936893637453 | volume_distance =    13.751972281525529 | sum_distance =    80.861909175162978 | exercise(cycle,model) = exerc_3 | exerc_7
+[  55 / 132 ] flow_distance =    63.234855101316199 | volume_distance =     4.978885740011791 | sum_distance =    68.213740841327990 | exercise(cycle,model) = exerc_3 | exerc_2
+[  55 / 132 ] flow_distance =   101.736895251364402 | volume_distance =    10.641248498025739 | sum_distance =   112.378143749390148 | exercise(cycle,model) = exerc_3 | exerc_5
+[  55 / 132 ] flow_distance =    74.970036448803569 | volume_distance =     4.219663906916723 | sum_distance =    79.189700355720291 | exercise(cycle,model) = exerc_3 | exerc_1
+
+[  56 / 132 ] flow_distance =    28.318347561740094 | volume_distance =    10.280964982444612 | sum_distance =    38.599312544184706 | exercise(cycle,model) = exerc_4 | exerc_4
+[  56 / 132 ] flow_distance =    37.550056349895797 | volume_distance =    11.267072664356379 | sum_distance =    48.817129014252174 | exercise(cycle,model) = exerc_4 | exerc_6
+[  56 / 132 ] flow_distance =    97.212775635083901 | volume_distance =     7.420291340280735 | sum_distance =   104.633066975364642 | exercise(cycle,model) = exerc_4 | exerc_3
+[  56 / 132 ] flow_distance =    30.077284151668568 | volume_distance =    17.143686521401413 | sum_distance =    47.220970673069985 | exercise(cycle,model) = exerc_4 | exerc_7
+[  56 / 132 ] flow_distance =    29.749401690260385 | volume_distance =     2.596621921205496 | sum_distance =    32.346023611465881 | exercise(cycle,model) = exerc_4 | exerc_2
+[  56 / 132 ] flow_distance =    49.508046526782813 | volume_distance =    13.356122827330511 | sum_distance =    62.864169354113322 | exercise(cycle,model) = exerc_4 | exerc_5
+[  56 / 132 ] flow_distance =    43.848889921474466 | volume_distance =     2.275918197191977 | sum_distance =    46.124808118666444 | exercise(cycle,model) = exerc_4 | exerc_1
+
+[  57 / 132 ] flow_distance =    28.322945954490852 | volume_distance =     4.883385560554309 | sum_distance =    33.206331515045164 | exercise(cycle,model) = exerc_4 | exerc_4
+[  57 / 132 ] flow_distance =    44.525134750745316 | volume_distance =     6.832734364769041 | sum_distance =    51.357869115514355 | exercise(cycle,model) = exerc_4 | exerc_6
+[  57 / 132 ] flow_distance =    55.936339295166036 | volume_distance =     2.590101082030319 | sum_distance =    58.526440377196352 | exercise(cycle,model) = exerc_4 | exerc_3
+[  57 / 132 ] flow_distance =    48.844973435659249 | volume_distance =     8.934533885360000 | sum_distance =    57.779507321019253 | exercise(cycle,model) = exerc_4 | exerc_7
+[  57 / 132 ] flow_distance =    49.263639434852671 | volume_distance =     6.816970389939102 | sum_distance =    56.080609824791772 | exercise(cycle,model) = exerc_4 | exerc_2
+[  57 / 132 ] flow_distance =   111.553601331742684 | volume_distance =     6.432822720048759 | sum_distance =   117.986424051791445 | exercise(cycle,model) = exerc_4 | exerc_5
+[  57 / 132 ] flow_distance =   114.570009095075477 | volume_distance =     5.881016468384280 | sum_distance =   120.451025563459751 | exercise(cycle,model) = exerc_4 | exerc_1
+
+[  58 / 132 ] flow_distance =    32.901857334846575 | volume_distance =     7.476627631943267 | sum_distance =    40.378484966789841 | exercise(cycle,model) = exerc_4 | exerc_4
+[  58 / 132 ] flow_distance =    55.463187641737569 | volume_distance =     9.149532316853088 | sum_distance =    64.612719958590660 | exercise(cycle,model) = exerc_4 | exerc_6
+[  58 / 132 ] flow_distance =    36.592383260376565 | volume_distance =     4.875432450303584 | sum_distance =    41.467815710680149 | exercise(cycle,model) = exerc_4 | exerc_3
+[  58 / 132 ] flow_distance =    49.460994848687612 | volume_distance =    12.717531967277358 | sum_distance =    62.178526815964972 | exercise(cycle,model) = exerc_4 | exerc_7
+[  58 / 132 ] flow_distance =    45.914642582001477 | volume_distance =     4.753236985159049 | sum_distance =    50.667879567160526 | exercise(cycle,model) = exerc_4 | exerc_2
+[  58 / 132 ] flow_distance =    59.720818988891992 | volume_distance =     9.672078144220738 | sum_distance =    69.392897133112726 | exercise(cycle,model) = exerc_4 | exerc_5
+[  58 / 132 ] flow_distance =   103.806148236079480 | volume_distance =     4.128283273687169 | sum_distance =   107.934431509766654 | exercise(cycle,model) = exerc_4 | exerc_1
+
+[  59 / 132 ] flow_distance =   123.184144852324778 | volume_distance =    29.011412986284402 | sum_distance =   152.195557838609176 | exercise(cycle,model) = exerc_4 | exerc_4
+[  59 / 132 ] flow_distance =    84.546454558131245 | volume_distance =    29.616660072584040 | sum_distance =   114.163114630715285 | exercise(cycle,model) = exerc_4 | exerc_6
+[  59 / 132 ] flow_distance =   204.063987386755656 | volume_distance =    48.513700614702046 | sum_distance =   252.577688001457716 | exercise(cycle,model) = exerc_4 | exerc_3
+[  59 / 132 ] flow_distance =   137.634257688894991 | volume_distance =    55.066554190712203 | sum_distance =   192.700811879607187 | exercise(cycle,model) = exerc_4 | exerc_7
+[  59 / 132 ] flow_distance =   128.174878451219854 | volume_distance =    46.897841936263568 | sum_distance =   175.072720387483429 | exercise(cycle,model) = exerc_4 | exerc_2
+[  59 / 132 ] flow_distance =   138.383821753045822 | volume_distance =    26.810577480508677 | sum_distance =   165.194399233554492 | exercise(cycle,model) = exerc_4 | exerc_5
+[  59 / 132 ] flow_distance =   149.134540004031265 | volume_distance =    54.867548044000884 | sum_distance =   204.002088048032135 | exercise(cycle,model) = exerc_4 | exerc_1
+
+[  60 / 132 ] flow_distance =    92.763373821845164 | volume_distance =    17.646925611514678 | sum_distance =   110.410299433359839 | exercise(cycle,model) = exerc_4 | exerc_4
+[  60 / 132 ] flow_distance =    65.253261128739325 | volume_distance =    16.653283598311759 | sum_distance =    81.906544727051084 | exercise(cycle,model) = exerc_4 | exerc_6
+[  60 / 132 ] flow_distance =   184.383849356751909 | volume_distance =    30.850090780550644 | sum_distance =   215.233940137302568 | exercise(cycle,model) = exerc_4 | exerc_3
+[  60 / 132 ] flow_distance =   138.160767655230785 | volume_distance =    35.445700387883981 | sum_distance =   173.606468043114774 | exercise(cycle,model) = exerc_4 | exerc_7
+[  60 / 132 ] flow_distance =   116.907701359591954 | volume_distance =    31.245397292310731 | sum_distance =   148.153098651902695 | exercise(cycle,model) = exerc_4 | exerc_2
+[  60 / 132 ] flow_distance =   110.783282223531074 | volume_distance =    16.526754396285742 | sum_distance =   127.310036619816813 | exercise(cycle,model) = exerc_4 | exerc_5
+[  60 / 132 ] flow_distance =   127.654702784944632 | volume_distance =    34.885992692700015 | sum_distance =   162.540695477644647 | exercise(cycle,model) = exerc_4 | exerc_1
+
+[  61 / 132 ] flow_distance =    41.655936907324801 | volume_distance =    11.246365358167663 | sum_distance =    52.902302265492466 | exercise(cycle,model) = exerc_4 | exerc_4
+[  61 / 132 ] flow_distance =    26.091683533969324 | volume_distance =    11.889566552568608 | sum_distance =    37.981250086537933 | exercise(cycle,model) = exerc_4 | exerc_6
+[  61 / 132 ] flow_distance =    73.607711390026708 | volume_distance =     8.370154441764756 | sum_distance =    81.977865831791462 | exercise(cycle,model) = exerc_4 | exerc_3
+[  61 / 132 ] flow_distance =    61.690185159675806 | volume_distance =    18.561729632663493 | sum_distance =    80.251914792339306 | exercise(cycle,model) = exerc_4 | exerc_7
+[  61 / 132 ] flow_distance =    54.405408592704106 | volume_distance =     1.904183616802910 | sum_distance =    56.309592209507016 | exercise(cycle,model) = exerc_4 | exerc_2
+[  61 / 132 ] flow_distance =    79.899541417335811 | volume_distance =    14.453447753151522 | sum_distance =    94.352989170487334 | exercise(cycle,model) = exerc_4 | exerc_5
+[  61 / 132 ] flow_distance =    55.927667374173453 | volume_distance =     2.088476179753317 | sum_distance =    58.016143553926767 | exercise(cycle,model) = exerc_4 | exerc_1
+
+[  62 / 132 ] flow_distance =    25.338993042018831 | volume_distance =     7.817032381645367 | sum_distance =    33.156025423664197 | exercise(cycle,model) = exerc_4 | exerc_4
+[  62 / 132 ] flow_distance =    49.875702029411947 | volume_distance =     9.354712048983654 | sum_distance =    59.230414078395597 | exercise(cycle,model) = exerc_4 | exerc_6
+[  62 / 132 ] flow_distance =    32.230787527858247 | volume_distance =     5.235281152822860 | sum_distance =    37.466068680681104 | exercise(cycle,model) = exerc_4 | exerc_3
+[  62 / 132 ] flow_distance =    48.688062915507601 | volume_distance =    13.284369514626370 | sum_distance =    61.972432430133971 | exercise(cycle,model) = exerc_4 | exerc_7
+[  62 / 132 ] flow_distance =    40.297757244172573 | volume_distance =     3.048730558490039 | sum_distance =    43.346487802662608 | exercise(cycle,model) = exerc_4 | exerc_2
+[  62 / 132 ] flow_distance =    64.556994735855014 | volume_distance =    10.091362211544768 | sum_distance =    74.648356947399776 | exercise(cycle,model) = exerc_4 | exerc_5
+[  62 / 132 ] flow_distance =    55.450788802538447 | volume_distance =     3.213648163925520 | sum_distance =    58.664436966463967 | exercise(cycle,model) = exerc_4 | exerc_1
+
+[  63 / 132 ] flow_distance =    36.527896478949124 | volume_distance =     4.122887920560953 | sum_distance =    40.650784399510080 | exercise(cycle,model) = exerc_4 | exerc_4
+[  63 / 132 ] flow_distance =    61.502543687500378 | volume_distance =     6.176614049861451 | sum_distance =    67.679157737361834 | exercise(cycle,model) = exerc_4 | exerc_6
+[  63 / 132 ] flow_distance =    54.539144995130016 | volume_distance =     3.068642511474379 | sum_distance =    57.607787506604396 | exercise(cycle,model) = exerc_4 | exerc_3
+[  63 / 132 ] flow_distance =    61.865235901270829 | volume_distance =     7.531279984743969 | sum_distance =    69.396515886014797 | exercise(cycle,model) = exerc_4 | exerc_7
+[  63 / 132 ] flow_distance =    60.714168387849426 | volume_distance =     9.574387219967125 | sum_distance =    70.288555607816548 | exercise(cycle,model) = exerc_4 | exerc_2
+[  63 / 132 ] flow_distance =    76.544231060599088 | volume_distance =     5.132922986204494 | sum_distance =    81.677154046803579 | exercise(cycle,model) = exerc_4 | exerc_5
+[  63 / 132 ] flow_distance =    79.829963700460070 | volume_distance =     8.374181922115287 | sum_distance =    88.204145622575354 | exercise(cycle,model) = exerc_4 | exerc_1
+
+[  64 / 132 ] flow_distance =    29.354594508846183 | volume_distance =     1.660187568742193 | sum_distance =    31.014782077588375 | exercise(cycle,model) = exerc_4 | exerc_4
+[  64 / 132 ] flow_distance =    64.011924481084051 | volume_distance =     4.522659916803790 | sum_distance =    68.534584397887841 | exercise(cycle,model) = exerc_4 | exerc_6
+[  64 / 132 ] flow_distance =    42.071535272886727 | volume_distance =     3.723402414762187 | sum_distance =    45.794937687648911 | exercise(cycle,model) = exerc_4 | exerc_3
+[  64 / 132 ] flow_distance =    50.974807346862910 | volume_distance =     3.943254458597598 | sum_distance =    54.918061805460511 | exercise(cycle,model) = exerc_4 | exerc_7
+[  64 / 132 ] flow_distance =    42.473043011889906 | volume_distance =    11.826175861266778 | sum_distance =    54.299218873156683 | exercise(cycle,model) = exerc_4 | exerc_2
+[  64 / 132 ] flow_distance =    58.076575424537033 | volume_distance =     1.736059578250980 | sum_distance =    59.812635002788014 | exercise(cycle,model) = exerc_4 | exerc_5
+[  64 / 132 ] flow_distance =    63.386905565118468 | volume_distance =    10.612847740397621 | sum_distance =    73.999753305516094 | exercise(cycle,model) = exerc_4 | exerc_1
+
+[  65 / 132 ] flow_distance =    33.953260330655652 | volume_distance =    12.148215765100371 | sum_distance =    46.101476095756027 | exercise(cycle,model) = exerc_4 | exerc_4
+[  65 / 132 ] flow_distance =    79.193875038093410 | volume_distance =    12.820094034056561 | sum_distance =    92.013969072149976 | exercise(cycle,model) = exerc_4 | exerc_6
+[  65 / 132 ] flow_distance =    41.010541301797801 | volume_distance =     9.022263506931120 | sum_distance =    50.032804808728919 | exercise(cycle,model) = exerc_4 | exerc_3
+[  65 / 132 ] flow_distance =    58.761507805177580 | volume_distance =    19.625387462795345 | sum_distance =    78.386895267972932 | exercise(cycle,model) = exerc_4 | exerc_7
+[  65 / 132 ] flow_distance =    62.672786262527183 | volume_distance =     3.168083162962979 | sum_distance =    65.840869425490155 | exercise(cycle,model) = exerc_4 | exerc_2
+[  65 / 132 ] flow_distance =    80.527237528510994 | volume_distance =    15.615830627020085 | sum_distance =    96.143068155531083 | exercise(cycle,model) = exerc_4 | exerc_5
+[  65 / 132 ] flow_distance =    61.807196612556169 | volume_distance =     1.935683872014686 | sum_distance =    63.742880484570854 | exercise(cycle,model) = exerc_4 | exerc_1
+
+[  66 / 132 ] flow_distance =    31.938029042034007 | volume_distance =     2.601856472493842 | sum_distance =    34.539885514527846 | exercise(cycle,model) = exerc_4 | exerc_4
+[  66 / 132 ] flow_distance =    79.154232653002893 | volume_distance =     2.227178294209486 | sum_distance =    81.381410947212373 | exercise(cycle,model) = exerc_4 | exerc_6
+[  66 / 132 ] flow_distance =    62.207223610925311 | volume_distance =     8.413800118841674 | sum_distance =    70.621023729766989 | exercise(cycle,model) = exerc_4 | exerc_3
+[  66 / 132 ] flow_distance =    69.203611137829157 | volume_distance =     1.562296439035262 | sum_distance =    70.765907576864421 | exercise(cycle,model) = exerc_4 | exerc_7
+[  66 / 132 ] flow_distance =    78.912850997256129 | volume_distance =    19.153460510074950 | sum_distance =    98.066311507331079 | exercise(cycle,model) = exerc_4 | exerc_2
+[  66 / 132 ] flow_distance =    87.465141226070031 | volume_distance =     2.745607415955000 | sum_distance =    90.210748642025038 | exercise(cycle,model) = exerc_4 | exerc_5
+[  66 / 132 ] flow_distance =    71.146990743569759 | volume_distance =    17.019483496055916 | sum_distance =    88.166474239625671 | exercise(cycle,model) = exerc_4 | exerc_1
+
+[  67 / 132 ] flow_distance =    15.011337390160385 | volume_distance =     2.259089815303756 | sum_distance =    17.270427205464141 | exercise(cycle,model) = exerc_4 | exerc_4
+[  67 / 132 ] flow_distance =    94.490309305830294 | volume_distance =     5.093006427561792 | sum_distance =    99.583315733392084 | exercise(cycle,model) = exerc_4 | exerc_6
+[  67 / 132 ] flow_distance =    63.750357379172037 | volume_distance =     3.124934431967813 | sum_distance =    66.875291811139846 | exercise(cycle,model) = exerc_4 | exerc_3
+[  67 / 132 ] flow_distance =    52.257506583974411 | volume_distance =     4.933254897537079 | sum_distance =    57.190761481511487 | exercise(cycle,model) = exerc_4 | exerc_7
+[  67 / 132 ] flow_distance =    51.841772205522588 | volume_distance =     9.097770805686366 | sum_distance =    60.939543011208954 | exercise(cycle,model) = exerc_4 | exerc_2
+[  67 / 132 ] flow_distance =    59.415555194147927 | volume_distance =     3.050071613103066 | sum_distance =    62.465626807250992 | exercise(cycle,model) = exerc_4 | exerc_5
+[  67 / 132 ] flow_distance =    60.509788471128971 | volume_distance =     7.595510297632750 | sum_distance =    68.105298768761728 | exercise(cycle,model) = exerc_4 | exerc_1
+
+[  68 / 132 ] flow_distance =     0.000000000000000 | volume_distance =     0.000000000000000 | sum_distance =     0.000000000000000 | exercise(cycle,model) = exerc_4 | exerc_4
+[  68 / 132 ] flow_distance =    52.543900431873830 | volume_distance =     3.187658619334569 | sum_distance =    55.731559051208400 | exercise(cycle,model) = exerc_4 | exerc_6
+[  68 / 132 ] flow_distance =    97.599821590519241 | volume_distance =     6.117802978935590 | sum_distance =   103.717624569454827 | exercise(cycle,model) = exerc_4 | exerc_3
+[  68 / 132 ] flow_distance =    41.185535640922396 | volume_distance =     2.478884809513156 | sum_distance =    43.664420450435550 | exercise(cycle,model) = exerc_4 | exerc_7
+[  68 / 132 ] flow_distance =    46.062595319868763 | volume_distance =    16.752758984468375 | sum_distance =    62.815354304337134 | exercise(cycle,model) = exerc_4 | exerc_2
+[  68 / 132 ] flow_distance =    70.562248231855975 | volume_distance =     0.847082374358961 | sum_distance =    71.409330606214937 | exercise(cycle,model) = exerc_4 | exerc_5
+[  68 / 132 ] flow_distance =    48.254047647147296 | volume_distance =    14.544332558153981 | sum_distance =    62.798380205301278 | exercise(cycle,model) = exerc_4 | exerc_1
+
+[  69 / 132 ] flow_distance =   105.722387654766237 | volume_distance =    10.843098003673967 | sum_distance =   116.565485658440210 | exercise(cycle,model) = exerc_4 | exerc_4
+[  69 / 132 ] flow_distance =    68.087287036218214 | volume_distance =     8.976337795523303 | sum_distance =    77.063624831741521 | exercise(cycle,model) = exerc_4 | exerc_6
+[  69 / 132 ] flow_distance =   154.107468855044743 | volume_distance =    20.592331851687284 | sum_distance =   174.699800706732020 | exercise(cycle,model) = exerc_4 | exerc_3
+[  69 / 132 ] flow_distance =   131.844449769262695 | volume_distance =    22.450926255329417 | sum_distance =   154.295376024592116 | exercise(cycle,model) = exerc_4 | exerc_7
+[  69 / 132 ] flow_distance =   118.978443524717193 | volume_distance =    23.008408500677969 | sum_distance =   141.986852025395166 | exercise(cycle,model) = exerc_4 | exerc_2
+[  69 / 132 ] flow_distance =   140.004273899078527 | volume_distance =    10.584490206162259 | sum_distance =   150.588764105240784 | exercise(cycle,model) = exerc_4 | exerc_5
+[  69 / 132 ] flow_distance =   155.203691775341355 | volume_distance =    23.787306092378628 | sum_distance =   178.990997867719983 | exercise(cycle,model) = exerc_4 | exerc_1
+
+[  70 / 132 ] flow_distance =   100.087241533453678 | volume_distance =     5.892540522297734 | sum_distance =   105.979782055751414 | exercise(cycle,model) = exerc_4 | exerc_4
+[  70 / 132 ] flow_distance =    64.651306229930427 | volume_distance =     4.306359753257992 | sum_distance =    68.957665983188420 | exercise(cycle,model) = exerc_4 | exerc_6
+[  70 / 132 ] flow_distance =   154.667315027254574 | volume_distance =    12.856835664994751 | sum_distance =   167.524150692249322 | exercise(cycle,model) = exerc_4 | exerc_3
+[  70 / 132 ] flow_distance =   119.042802864944335 | volume_distance =    12.561093849585751 | sum_distance =   131.603896714530094 | exercise(cycle,model) = exerc_4 | exerc_7
+[  70 / 132 ] flow_distance =   117.777160355107313 | volume_distance =    15.536268045626299 | sum_distance =   133.313428400733613 | exercise(cycle,model) = exerc_4 | exerc_2
+[  70 / 132 ] flow_distance =   128.419287280298818 | volume_distance =     5.795089153095290 | sum_distance =   134.214376433394108 | exercise(cycle,model) = exerc_4 | exerc_5
+[  70 / 132 ] flow_distance =   147.100989447193399 | volume_distance =    15.433870924431726 | sum_distance =   162.534860371625115 | exercise(cycle,model) = exerc_4 | exerc_1
+
+[  71 / 132 ] flow_distance =    91.347198916734200 | volume_distance =     1.762248849719438 | sum_distance =    93.109447766453641 | exercise(cycle,model) = exerc_4 | exerc_4
+[  71 / 132 ] flow_distance =    53.492590236963828 | volume_distance =     1.053330874762568 | sum_distance =    54.545921111726393 | exercise(cycle,model) = exerc_4 | exerc_6
+[  71 / 132 ] flow_distance =   156.843860886439415 | volume_distance =     5.057338911343952 | sum_distance =   161.901199797783363 | exercise(cycle,model) = exerc_4 | exerc_3
+[  71 / 132 ] flow_distance =   114.926308453592569 | volume_distance =     1.649499819964713 | sum_distance =   116.575808273557286 | exercise(cycle,model) = exerc_4 | exerc_7
+[  71 / 132 ] flow_distance =   103.947481752127416 | volume_distance =     9.109209165680893 | sum_distance =   113.056690917808311 | exercise(cycle,model) = exerc_4 | exerc_2
+[  71 / 132 ] flow_distance =   113.194862924171403 | volume_distance =     1.822074501751400 | sum_distance =   115.016937425922805 | exercise(cycle,model) = exerc_4 | exerc_5
+[  71 / 132 ] flow_distance =   138.927668127779413 | volume_distance =     8.549606928462619 | sum_distance =   147.477275056242036 | exercise(cycle,model) = exerc_4 | exerc_1
+
+[  72 / 132 ] flow_distance =    50.787055347852352 | volume_distance =    11.387974413668653 | sum_distance =    62.175029761521003 | exercise(cycle,model) = exerc_4 | exerc_4
+[  72 / 132 ] flow_distance =    25.324404234207893 | volume_distance =     9.449703886801627 | sum_distance =    34.774108121009519 | exercise(cycle,model) = exerc_4 | exerc_6
+[  72 / 132 ] flow_distance =   110.557219031055254 | volume_distance =    20.265891497194737 | sum_distance =   130.823110528249998 | exercise(cycle,model) = exerc_4 | exerc_3
+[  72 / 132 ] flow_distance =    43.129359084119443 | volume_distance =    25.163025985323983 | sum_distance =    68.292385069443426 | exercise(cycle,model) = exerc_4 | exerc_7
+[  72 / 132 ] flow_distance =    49.648448873486061 | volume_distance =    26.068676756916133 | sum_distance =    75.717125630402194 | exercise(cycle,model) = exerc_4 | exerc_2
+[  72 / 132 ] flow_distance =    73.190737204186121 | volume_distance =    10.328949032848971 | sum_distance =    83.519686237035089 | exercise(cycle,model) = exerc_4 | exerc_5
+[  72 / 132 ] flow_distance =    42.858447605598123 | volume_distance =    23.981638206231825 | sum_distance =    66.840085811829951 | exercise(cycle,model) = exerc_4 | exerc_1
+
+[  73 / 132 ] flow_distance =    76.507867177626025 | volume_distance =     3.645642627331265 | sum_distance =    80.153509804957295 | exercise(cycle,model) = exerc_4 | exerc_4
+[  73 / 132 ] flow_distance =    38.277788961887687 | volume_distance =     7.298737087269298 | sum_distance =    45.576526049156982 | exercise(cycle,model) = exerc_4 | exerc_6
+[  73 / 132 ] flow_distance =   189.824751348051535 | volume_distance =     7.907729544583110 | sum_distance =   197.732480892634641 | exercise(cycle,model) = exerc_4 | exerc_3
+[  73 / 132 ] flow_distance =    57.906058463979079 | volume_distance =     7.720602847231389 | sum_distance =    65.626661311210469 | exercise(cycle,model) = exerc_4 | exerc_7
+[  73 / 132 ] flow_distance =    52.396217837182739 | volume_distance =    11.557967368898961 | sum_distance =    63.954185206081704 | exercise(cycle,model) = exerc_4 | exerc_2
+[  73 / 132 ] flow_distance =    96.748073216100622 | volume_distance =     6.075058949267257 | sum_distance =   102.823132165367880 | exercise(cycle,model) = exerc_4 | exerc_5
+[  73 / 132 ] flow_distance =   142.488418560116799 | volume_distance =     8.885747777745369 | sum_distance =   151.374166337862164 | exercise(cycle,model) = exerc_4 | exerc_1
+
+[  74 / 132 ] flow_distance =   140.972865890684858 | volume_distance =     4.466132610581999 | sum_distance =   145.438998501266866 | exercise(cycle,model) = exerc_4 | exerc_4
+[  74 / 132 ] flow_distance =   107.778457375056831 | volume_distance =     2.928085901874185 | sum_distance =   110.706543276931015 | exercise(cycle,model) = exerc_4 | exerc_6
+[  74 / 132 ] flow_distance =   316.263661252743134 | volume_distance =    11.607806600517277 | sum_distance =   327.871467853260413 | exercise(cycle,model) = exerc_4 | exerc_3
+[  74 / 132 ] flow_distance =   194.814693728181055 | volume_distance =     8.011289513780762 | sum_distance =   202.825983241961808 | exercise(cycle,model) = exerc_4 | exerc_7
+[  74 / 132 ] flow_distance =   194.060652858325909 | volume_distance =    14.045965808958043 | sum_distance =   208.106618667283954 | exercise(cycle,model) = exerc_4 | exerc_2
+[  74 / 132 ] flow_distance =   178.698417453123170 | volume_distance =     5.092586522644988 | sum_distance =   183.791003975768149 | exercise(cycle,model) = exerc_4 | exerc_5
+[  74 / 132 ] flow_distance =   197.366447966974846 | volume_distance =    13.234699207371667 | sum_distance =   210.601147174346522 | exercise(cycle,model) = exerc_4 | exerc_1
+
+[  75 / 132 ] flow_distance =    96.151763700641752 | volume_distance =     2.938083487924077 | sum_distance =    99.089847188565827 | exercise(cycle,model) = exerc_4 | exerc_4
+[  75 / 132 ] flow_distance =    45.154665150699607 | volume_distance =     5.537640074767164 | sum_distance =    50.692305225466768 | exercise(cycle,model) = exerc_4 | exerc_6
+[  75 / 132 ] flow_distance =   228.585683698578123 | volume_distance =     4.842174498381029 | sum_distance =   233.427858196959164 | exercise(cycle,model) = exerc_4 | exerc_3
+[  75 / 132 ] flow_distance =   131.385396885252561 | volume_distance =     6.331342719838818 | sum_distance =   137.716739605091391 | exercise(cycle,model) = exerc_4 | exerc_7
+[  75 / 132 ] flow_distance =   125.186436558945871 | volume_distance =     7.178774959817488 | sum_distance =   132.365211518763374 | exercise(cycle,model) = exerc_4 | exerc_2
+[  75 / 132 ] flow_distance =   130.860912230625161 | volume_distance =     4.208614971427776 | sum_distance =   135.069527202052939 | exercise(cycle,model) = exerc_4 | exerc_5
+[  75 / 132 ] flow_distance =   117.452192578947304 | volume_distance =     6.339785934714324 | sum_distance =   123.791978513661633 | exercise(cycle,model) = exerc_4 | exerc_1
+
+[  76 / 132 ] flow_distance =    63.185796941310727 | volume_distance =    30.060458210211372 | sum_distance =    93.246255151522092 | exercise(cycle,model) = exerc_5 | exerc_4
+[  76 / 132 ] flow_distance =    85.802500694601775 | volume_distance =    26.135442932551619 | sum_distance =   111.937943627153402 | exercise(cycle,model) = exerc_5 | exerc_6
+[  76 / 132 ] flow_distance =   127.436131652144866 | volume_distance =    26.581407456093658 | sum_distance =   154.017539108238509 | exercise(cycle,model) = exerc_5 | exerc_3
+[  76 / 132 ] flow_distance =    44.915448856341840 | volume_distance =    44.353235585501999 | sum_distance =    89.268684441843845 | exercise(cycle,model) = exerc_5 | exerc_7
+[  76 / 132 ] flow_distance =    29.302226665487694 | volume_distance =     7.752610495471055 | sum_distance =    37.054837160958748 | exercise(cycle,model) = exerc_5 | exerc_2
+[  76 / 132 ] flow_distance =    13.058663619789433 | volume_distance =    34.487447809411620 | sum_distance =    47.546111429201055 | exercise(cycle,model) = exerc_5 | exerc_5
+[  76 / 132 ] flow_distance =    48.167144038326825 | volume_distance =    10.602853388830335 | sum_distance =    58.769997427157158 | exercise(cycle,model) = exerc_5 | exerc_1
+
+[  77 / 132 ] flow_distance =    75.570351622104070 | volume_distance =     2.836368672125618 | sum_distance =    78.406720294229686 | exercise(cycle,model) = exerc_5 | exerc_4
+[  77 / 132 ] flow_distance =   107.261761094678789 | volume_distance =     2.686345852145175 | sum_distance =   109.948106946823970 | exercise(cycle,model) = exerc_5 | exerc_6
+[  77 / 132 ] flow_distance =   125.683622607206175 | volume_distance =    12.178280825097826 | sum_distance =   137.861903432303990 | exercise(cycle,model) = exerc_5 | exerc_3
+[  77 / 132 ] flow_distance =    60.868826758387314 | volume_distance =     0.842454338475654 | sum_distance =    61.711281096862969 | exercise(cycle,model) = exerc_5 | exerc_7
+[  77 / 132 ] flow_distance =    37.460173178343105 | volume_distance =    30.670328588236352 | sum_distance =    68.130501766579457 | exercise(cycle,model) = exerc_5 | exerc_2
+[  77 / 132 ] flow_distance =     8.356718149831199 | volume_distance =     3.026234736660479 | sum_distance =    11.382952886491678 | exercise(cycle,model) = exerc_5 | exerc_5
+[  77 / 132 ] flow_distance =    52.097154034826687 | volume_distance =    27.102721275643614 | sum_distance =    79.199875310470304 | exercise(cycle,model) = exerc_5 | exerc_1
+
+[  78 / 132 ] flow_distance =    70.562248231855975 | volume_distance =     0.847082374358961 | sum_distance =    71.409330606214937 | exercise(cycle,model) = exerc_5 | exerc_4
+[  78 / 132 ] flow_distance =    82.090609323352453 | volume_distance =     3.417198931977384 | sum_distance =    85.507808255329834 | exercise(cycle,model) = exerc_5 | exerc_6
+[  78 / 132 ] flow_distance =   157.409932077802125 | volume_distance =     7.846814822318180 | sum_distance =   165.256746900120305 | exercise(cycle,model) = exerc_5 | exerc_3
+[  78 / 132 ] flow_distance =    54.504272411786758 | volume_distance =     2.488489852042242 | sum_distance =    56.992762263829000 | exercise(cycle,model) = exerc_5 | exerc_7
+[  78 / 132 ] flow_distance =    34.095818341071940 | volume_distance =    20.806914441423501 | sum_distance =    54.902732782495441 | exercise(cycle,model) = exerc_5 | exerc_2
+[  78 / 132 ] flow_distance =     0.000000000000000 | volume_distance =     0.000000000000000 | sum_distance =     0.000000000000000 | exercise(cycle,model) = exerc_5 | exerc_5
+[  78 / 132 ] flow_distance =    35.519915792547152 | volume_distance =    18.388941069182533 | sum_distance =    53.908856861729689 | exercise(cycle,model) = exerc_5 | exerc_1
+
+[  79 / 132 ] flow_distance =    60.193431652149307 | volume_distance =    39.293702028913245 | sum_distance =    99.487133681062545 | exercise(cycle,model) = exerc_5 | exerc_4
+[  79 / 132 ] flow_distance =    59.208669375345444 | volume_distance =    32.490738393160463 | sum_distance =    91.699407768505907 | exercise(cycle,model) = exerc_5 | exerc_6
+[  79 / 132 ] flow_distance =   110.825334285911595 | volume_distance =    35.595336765155572 | sum_distance =   146.420671051067160 | exercise(cycle,model) = exerc_5 | exerc_3
+[  79 / 132 ] flow_distance =    58.176207128683139 | volume_distance =    55.901629854693830 | sum_distance =   114.077836983376969 | exercise(cycle,model) = exerc_5 | exerc_7
+[  79 / 132 ] flow_distance =    41.568172606754530 | volume_distance =    14.379544527872543 | sum_distance =    55.947717134627069 | exercise(cycle,model) = exerc_5 | exerc_2
+[  79 / 132 ] flow_distance =    32.581397551422079 | volume_distance =    43.118923227101718 | sum_distance =    75.700320778523803 | exercise(cycle,model) = exerc_5 | exerc_5
+[  79 / 132 ] flow_distance =    69.311714481308314 | volume_distance =    18.506787581945158 | sum_distance =    87.818502063253476 | exercise(cycle,model) = exerc_5 | exerc_1
+
+[  80 / 132 ] flow_distance =    64.371445277806103 | volume_distance =     1.809849558012000 | sum_distance =    66.181294835818107 | exercise(cycle,model) = exerc_5 | exerc_4
+[  80 / 132 ] flow_distance =    52.669068234046712 | volume_distance =     4.629643201559033 | sum_distance =    57.298711435605746 | exercise(cycle,model) = exerc_5 | exerc_6
+[  80 / 132 ] flow_distance =   132.876578409369245 | volume_distance =     4.446230966149309 | sum_distance =   137.322809375518545 | exercise(cycle,model) = exerc_5 | exerc_3
+[  80 / 132 ] flow_distance =    43.121093034669769 | volume_distance =     4.183684402876984 | sum_distance =    47.304777437546754 | exercise(cycle,model) = exerc_5 | exerc_7
+[  80 / 132 ] flow_distance =    31.548221460385751 | volume_distance =    14.833810806900392 | sum_distance =    46.382032267286142 | exercise(cycle,model) = exerc_5 | exerc_2
+[  80 / 132 ] flow_distance =    30.571399569991190 | volume_distance =     1.997596190282784 | sum_distance =    32.568995760273971 | exercise(cycle,model) = exerc_5 | exerc_5
+[  80 / 132 ] flow_distance =    89.270572661601747 | volume_distance =    13.080786018918822 | sum_distance =   102.351358680520576 | exercise(cycle,model) = exerc_5 | exerc_1
+
+[  81 / 132 ] flow_distance =    56.298845351649078 | volume_distance =     2.068089173197138 | sum_distance =    58.366934524846215 | exercise(cycle,model) = exerc_5 | exerc_4
+[  81 / 132 ] flow_distance =    47.261240641515158 | volume_distance =     4.575878696760640 | sum_distance =    51.837119338275798 | exercise(cycle,model) = exerc_5 | exerc_6
+[  81 / 132 ] flow_distance =   135.578399958564518 | volume_distance =     4.785561115187758 | sum_distance =   140.363961073752279 | exercise(cycle,model) = exerc_5 | exerc_3
+[  81 / 132 ] flow_distance =    49.032629541308822 | volume_distance =     4.644320185291700 | sum_distance =    53.676949726600519 | exercise(cycle,model) = exerc_5 | exerc_7
+[  81 / 132 ] flow_distance =    27.258019352100050 | volume_distance =    15.220332524823428 | sum_distance =    42.478351876923476 | exercise(cycle,model) = exerc_5 | exerc_2
+[  81 / 132 ] flow_distance =    11.495744915155830 | volume_distance =     2.412026781067434 | sum_distance =    13.907771696223264 | exercise(cycle,model) = exerc_5 | exerc_5
+[  81 / 132 ] flow_distance =    48.528285978305661 | volume_distance =    13.497537759748612 | sum_distance =    62.025823738054271 | exercise(cycle,model) = exerc_5 | exerc_1
+
+[  82 / 132 ] flow_distance =    36.677627473914136 | volume_distance =   129.606509830483532 | sum_distance =   166.284137304397660 | exercise(cycle,model) = exerc_5 | exerc_4
+[  82 / 132 ] flow_distance =    13.264024271459990 | volume_distance =    90.144527747993919 | sum_distance =   103.408552019453907 | exercise(cycle,model) = exerc_5 | exerc_6
+[  82 / 132 ] flow_distance =   118.996686372537255 | volume_distance =   195.396545813769109 | sum_distance =   314.393232186306363 | exercise(cycle,model) = exerc_5 | exerc_3
+[  82 / 132 ] flow_distance =    23.714729694450178 | volume_distance =   162.902579856752197 | sum_distance =   186.617309551202368 | exercise(cycle,model) = exerc_5 | exerc_7
+[  82 / 132 ] flow_distance =    34.148366153954321 | volume_distance =    90.616579505917301 | sum_distance =   124.764945659871614 | exercise(cycle,model) = exerc_5 | exerc_2
+[  82 / 132 ] flow_distance =    44.629420346606935 | volume_distance =   122.348013705203670 | sum_distance =   166.977434051810604 | exercise(cycle,model) = exerc_5 | exerc_5
+[  82 / 132 ] flow_distance =    24.446682367247991 | volume_distance =   125.605907510613605 | sum_distance =   150.052589877861607 | exercise(cycle,model) = exerc_5 | exerc_1
+
+[  83 / 132 ] flow_distance =    46.709550177854425 | volume_distance =    74.350935624686088 | sum_distance =   121.060485802540512 | exercise(cycle,model) = exerc_5 | exerc_4
+[  83 / 132 ] flow_distance =    21.850120332696179 | volume_distance =    84.493748356407096 | sum_distance =   106.343868689103275 | exercise(cycle,model) = exerc_5 | exerc_6
+[  83 / 132 ] flow_distance =   138.107312334012420 | volume_distance =   116.702072302125444 | sum_distance =   254.809384636137850 | exercise(cycle,model) = exerc_5 | exerc_3
+[  83 / 132 ] flow_distance =    31.931082720131734 | volume_distance =   127.184019743676046 | sum_distance =   159.115102463807773 | exercise(cycle,model) = exerc_5 | exerc_7
+[  83 / 132 ] flow_distance =    36.353701393632143 | volume_distance =   106.297121129434430 | sum_distance =   142.650822523066580 | exercise(cycle,model) = exerc_5 | exerc_2
+[  83 / 132 ] flow_distance =    46.940770822267531 | volume_distance =    66.041101767117851 | sum_distance =   112.981872589385375 | exercise(cycle,model) = exerc_5 | exerc_5
+[  83 / 132 ] flow_distance =    53.115765882425613 | volume_distance =   137.825839708344176 | sum_distance =   190.941605590769797 | exercise(cycle,model) = exerc_5 | exerc_1
+
+[  84 / 132 ] flow_distance =    65.726489714448263 | volume_distance =    53.003083547599303 | sum_distance =   118.729573262047566 | exercise(cycle,model) = exerc_5 | exerc_4
+[  84 / 132 ] flow_distance =    35.520666189073701 | volume_distance =    41.369646938233693 | sum_distance =    76.890313127307394 | exercise(cycle,model) = exerc_5 | exerc_6
+[  84 / 132 ] flow_distance =   148.823086017763075 | volume_distance =    51.063382057620750 | sum_distance =   199.886468075383817 | exercise(cycle,model) = exerc_5 | exerc_3
+[  84 / 132 ] flow_distance =    47.697202205279893 | volume_distance =    73.504597614505940 | sum_distance =   121.201799819785833 | exercise(cycle,model) = exerc_5 | exerc_7
+[  84 / 132 ] flow_distance =    53.389505880904025 | volume_distance =    24.966482637632691 | sum_distance =    78.355988518536719 | exercise(cycle,model) = exerc_5 | exerc_2
+[  84 / 132 ] flow_distance =    65.549129836752797 | volume_distance =    56.124172179006401 | sum_distance =   121.673302015759191 | exercise(cycle,model) = exerc_5 | exerc_5
+[  84 / 132 ] flow_distance =    49.934598694544469 | volume_distance =    31.485937124615052 | sum_distance =    81.420535819159525 | exercise(cycle,model) = exerc_5 | exerc_1
+
+[  85 / 132 ] flow_distance =    44.529567968110136 | volume_distance =    11.108315329136760 | sum_distance =    55.637883297246894 | exercise(cycle,model) = exerc_5 | exerc_4
+[  85 / 132 ] flow_distance =    15.151480950627869 | volume_distance =     8.973020463871245 | sum_distance =    24.124501414499115 | exercise(cycle,model) = exerc_5 | exerc_6
+[  85 / 132 ] flow_distance =   144.707588212935036 | volume_distance =    21.317584265151442 | sum_distance =   166.025172478086489 | exercise(cycle,model) = exerc_5 | exerc_3
+[  85 / 132 ] flow_distance =    30.265499854290958 | volume_distance =    22.220067675649489 | sum_distance =    52.485567529940447 | exercise(cycle,model) = exerc_5 | exerc_7
+[  85 / 132 ] flow_distance =    30.972540791077467 | volume_distance =    23.830327129016187 | sum_distance =    54.802867920093654 | exercise(cycle,model) = exerc_5 | exerc_2
+[  85 / 132 ] flow_distance =    53.209463989828414 | volume_distance =    10.506709582660124 | sum_distance =    63.716173572488536 | exercise(cycle,model) = exerc_5 | exerc_5
+[  85 / 132 ] flow_distance =    31.520924026270464 | volume_distance =    25.044037113549685 | sum_distance =    56.564961139820149 | exercise(cycle,model) = exerc_5 | exerc_1
+
+[  86 / 132 ] flow_distance =    55.583073890788967 | volume_distance =    62.831604246584654 | sum_distance =   118.414678137373613 | exercise(cycle,model) = exerc_5 | exerc_4
+[  86 / 132 ] flow_distance =    30.930612277003807 | volume_distance =    48.372856707107275 | sum_distance =    79.303468984111078 | exercise(cycle,model) = exerc_5 | exerc_6
+[  86 / 132 ] flow_distance =   123.943957352707173 | volume_distance =    72.272707219191773 | sum_distance =   196.216664571898946 | exercise(cycle,model) = exerc_5 | exerc_3
+[  86 / 132 ] flow_distance =    33.671265871775468 | volume_distance =    85.779287235619478 | sum_distance =   119.450553107394938 | exercise(cycle,model) = exerc_5 | exerc_7
+[  86 / 132 ] flow_distance =    25.480060681888407 | volume_distance =    32.868938470054843 | sum_distance =    58.348999151943246 | exercise(cycle,model) = exerc_5 | exerc_2
+[  86 / 132 ] flow_distance =    23.090286821427732 | volume_distance =    65.055485773818603 | sum_distance =    88.145772595246342 | exercise(cycle,model) = exerc_5 | exerc_5
+[  86 / 132 ] flow_distance =    43.645928671016321 | volume_distance =    42.187348362617783 | sum_distance =    85.833277033634104 | exercise(cycle,model) = exerc_5 | exerc_1
+
+[  87 / 132 ] flow_distance =    77.528971357548969 | volume_distance =    28.296986071615379 | sum_distance =   105.825957429164347 | exercise(cycle,model) = exerc_5 | exerc_4
+[  87 / 132 ] flow_distance =    65.590187587057500 | volume_distance =    25.020123032023481 | sum_distance =    90.610310619080977 | exercise(cycle,model) = exerc_5 | exerc_6
+[  87 / 132 ] flow_distance =   137.245485827565744 | volume_distance =    25.386994506072281 | sum_distance =   162.632480333638028 | exercise(cycle,model) = exerc_5 | exerc_3
+[  87 / 132 ] flow_distance =    50.151968612398647 | volume_distance =    42.630218241840680 | sum_distance =    92.782186854239328 | exercise(cycle,model) = exerc_5 | exerc_7
+[  87 / 132 ] flow_distance =    47.186287703363213 | volume_distance =     7.516056634649043 | sum_distance =    54.702344338012253 | exercise(cycle,model) = exerc_5 | exerc_2
+[  87 / 132 ] flow_distance =    40.167630747917904 | volume_distance =    33.129908858089323 | sum_distance =    73.297539606007234 | exercise(cycle,model) = exerc_5 | exerc_5
+[  87 / 132 ] flow_distance =   103.702970033155452 | volume_distance =    10.391281065865263 | sum_distance =   114.094251099020710 | exercise(cycle,model) = exerc_5 | exerc_1
+
+[  88 / 132 ] flow_distance =    64.264161865405725 | volume_distance =    11.370863611918628 | sum_distance =    75.635025477324348 | exercise(cycle,model) = exerc_5 | exerc_4
+[  88 / 132 ] flow_distance =    55.530889322371927 | volume_distance =    12.699233831925353 | sum_distance =    68.230123154297274 | exercise(cycle,model) = exerc_5 | exerc_6
+[  88 / 132 ] flow_distance =   118.292773234004969 | volume_distance =     9.719198122807688 | sum_distance =   128.011971356812666 | exercise(cycle,model) = exerc_5 | exerc_3
+[  88 / 132 ] flow_distance =    58.141364019290073 | volume_distance =    19.075037781462441 | sum_distance =    77.216401800752521 | exercise(cycle,model) = exerc_5 | exerc_7
+[  88 / 132 ] flow_distance =    47.279694856332966 | volume_distance =     3.605897062998969 | sum_distance =    50.885591919331937 | exercise(cycle,model) = exerc_5 | exerc_2
+[  88 / 132 ] flow_distance =    40.045781297166755 | volume_distance =    15.104640068266580 | sum_distance =    55.150421365433331 | exercise(cycle,model) = exerc_5 | exerc_5
+[  88 / 132 ] flow_distance =    56.534976156328661 | volume_distance =     3.577496597166777 | sum_distance =    60.112472753495439 | exercise(cycle,model) = exerc_5 | exerc_1
+
+[  89 / 132 ] flow_distance =    64.849961469079375 | volume_distance =    23.918274820458500 | sum_distance =    88.768236289537867 | exercise(cycle,model) = exerc_5 | exerc_4
+[  89 / 132 ] flow_distance =    52.925848484267782 | volume_distance =    21.896924903244937 | sum_distance =    74.822773387512711 | exercise(cycle,model) = exerc_5 | exerc_6
+[  89 / 132 ] flow_distance =   132.914205272632188 | volume_distance =    21.085279568816599 | sum_distance =   153.999484841448776 | exercise(cycle,model) = exerc_5 | exerc_3
+[  89 / 132 ] flow_distance =    43.270361550534872 | volume_distance =    36.879659322910925 | sum_distance =    80.150020873445797 | exercise(cycle,model) = exerc_5 | exerc_7
+[  89 / 132 ] flow_distance =    30.701379105921493 | volume_distance =     4.871922689413004 | sum_distance =    35.573301795334494 | exercise(cycle,model) = exerc_5 | exerc_2
+[  89 / 132 ] flow_distance =    45.349348080960880 | volume_distance =    28.902363893471339 | sum_distance =    74.251711974432226 | exercise(cycle,model) = exerc_5 | exerc_5
+[  89 / 132 ] flow_distance =    87.346671859727351 | volume_distance =     7.185318062223999 | sum_distance =    94.531989921951350 | exercise(cycle,model) = exerc_5 | exerc_1
+
+[  90 / 132 ] flow_distance =    63.011021972643000 | volume_distance =     2.756097987549216 | sum_distance =    65.767119960192218 | exercise(cycle,model) = exerc_5 | exerc_4
+[  90 / 132 ] flow_distance =    47.956347406328483 | volume_distance =     1.923476520718649 | sum_distance =    49.879823927047134 | exercise(cycle,model) = exerc_5 | exerc_6
+[  90 / 132 ] flow_distance =   142.955528234066122 | volume_distance =     8.705136976360967 | sum_distance =   151.660665210427084 | exercise(cycle,model) = exerc_5 | exerc_3
+[  90 / 132 ] flow_distance =    40.753122874075920 | volume_distance =     2.676970971494097 | sum_distance =    43.430093845570021 | exercise(cycle,model) = exerc_5 | exerc_7
+[  90 / 132 ] flow_distance =    32.686203575274860 | volume_distance =    19.240014156554118 | sum_distance =    51.926217731828977 | exercise(cycle,model) = exerc_5 | exerc_2
+[  90 / 132 ] flow_distance =    47.393632653494443 | volume_distance =     3.442345682967097 | sum_distance =    50.835978336461537 | exercise(cycle,model) = exerc_5 | exerc_5
+[  90 / 132 ] flow_distance =    91.396482422499389 | volume_distance =    17.008168363615724 | sum_distance =   108.404650786115113 | exercise(cycle,model) = exerc_5 | exerc_1
+
+[  91 / 132 ] flow_distance =    66.325997494980783 | volume_distance =     2.656350442440508 | sum_distance =    68.982347937421295 | exercise(cycle,model) = exerc_5 | exerc_4
+[  91 / 132 ] flow_distance =    49.778337250549214 | volume_distance =     5.456066111253372 | sum_distance =    55.234403361802585 | exercise(cycle,model) = exerc_5 | exerc_6
+[  91 / 132 ] flow_distance =   107.351726090858335 | volume_distance =     5.049320057611927 | sum_distance =   112.401046148470257 | exercise(cycle,model) = exerc_5 | exerc_3
+[  91 / 132 ] flow_distance =    47.155350518711963 | volume_distance =     5.803284286961486 | sum_distance =    52.958634805673448 | exercise(cycle,model) = exerc_5 | exerc_7
+[  91 / 132 ] flow_distance =    35.470269647769783 | volume_distance =    11.007507633612335 | sum_distance =    46.477777281382117 | exercise(cycle,model) = exerc_5 | exerc_2
+[  91 / 132 ] flow_distance =    48.939572237483283 | volume_distance =     3.584785925178048 | sum_distance =    52.524358162661329 | exercise(cycle,model) = exerc_5 | exerc_5
+[  91 / 132 ] flow_distance =    95.222645795158400 | volume_distance =     9.847329482001063 | sum_distance =   105.069975277159458 | exercise(cycle,model) = exerc_5 | exerc_1
+
+[  92 / 132 ] flow_distance =    91.097542564522783 | volume_distance =     3.774320440587875 | sum_distance =    94.871863005110654 | exercise(cycle,model) = exerc_5 | exerc_4
+[  92 / 132 ] flow_distance =   121.121523097131444 | volume_distance =     5.790365576442508 | sum_distance =   126.911888673573955 | exercise(cycle,model) = exerc_5 | exerc_6
+[  92 / 132 ] flow_distance =   140.365020477520773 | volume_distance =     2.912413636903803 | sum_distance =   143.277434114424580 | exercise(cycle,model) = exerc_5 | exerc_3
+[  92 / 132 ] flow_distance =   118.809828119882582 | volume_distance =     7.158329268078440 | sum_distance =   125.968157387961014 | exercise(cycle,model) = exerc_5 | exerc_7
+[  92 / 132 ] flow_distance =    67.936058844208091 | volume_distance =     6.626264694985752 | sum_distance =    74.562323539193841 | exercise(cycle,model) = exerc_5 | exerc_2
+[  92 / 132 ] flow_distance =    32.277187645675276 | volume_distance =     4.688649141480106 | sum_distance =    36.965836787155382 | exercise(cycle,model) = exerc_5 | exerc_5
+[  92 / 132 ] flow_distance =   100.188868491249721 | volume_distance =     5.210117878971746 | sum_distance =   105.398986370221465 | exercise(cycle,model) = exerc_5 | exerc_1
+
+[  93 / 132 ] flow_distance =    46.784022295963979 | volume_distance =    12.038115165728842 | sum_distance =    58.822137461692819 | exercise(cycle,model) = exerc_5 | exerc_4
+[  93 / 132 ] flow_distance =   117.557340849096860 | volume_distance =    12.593080132748698 | sum_distance =   130.150420981845571 | exercise(cycle,model) = exerc_5 | exerc_6
+[  93 / 132 ] flow_distance =   137.469535671947824 | volume_distance =     9.141487316343778 | sum_distance =   146.611022988291609 | exercise(cycle,model) = exerc_5 | exerc_3
+[  93 / 132 ] flow_distance =    67.078427217861190 | volume_distance =    19.788190740867520 | sum_distance =    86.866617958728710 | exercise(cycle,model) = exerc_5 | exerc_7
+[  93 / 132 ] flow_distance =    43.172869424594488 | volume_distance =     2.040673148500017 | sum_distance =    45.213542573094507 | exercise(cycle,model) = exerc_5 | exerc_2
+[  93 / 132 ] flow_distance =    26.203210268969890 | volume_distance =    15.384559915295885 | sum_distance =    41.587770184265779 | exercise(cycle,model) = exerc_5 | exerc_5
+[  93 / 132 ] flow_distance =    59.473094821572388 | volume_distance =     2.316943092073520 | sum_distance =    61.790037913645911 | exercise(cycle,model) = exerc_5 | exerc_1
+
+[  94 / 132 ] flow_distance =    37.585706044098586 | volume_distance =     1.101123550366101 | sum_distance =    38.686829594464690 | exercise(cycle,model) = exerc_5 | exerc_4
+[  94 / 132 ] flow_distance =    35.882032500202243 | volume_distance =     3.331093515089179 | sum_distance =    39.213126015291422 | exercise(cycle,model) = exerc_5 | exerc_6
+[  94 / 132 ] flow_distance =   114.634665875168778 | volume_distance =     4.312976408685563 | sum_distance =   118.947642283854336 | exercise(cycle,model) = exerc_5 | exerc_3
+[  94 / 132 ] flow_distance =    22.107873598433862 | volume_distance =     3.249397581363235 | sum_distance =    25.357271179797095 | exercise(cycle,model) = exerc_5 | exerc_7
+[  94 / 132 ] flow_distance =    18.986394950781172 | volume_distance =     8.299558150777626 | sum_distance =    27.285953101558796 | exercise(cycle,model) = exerc_5 | exerc_2
+[  94 / 132 ] flow_distance =    17.133837628226612 | volume_distance =     1.475186794295279 | sum_distance =    18.609024422521891 | exercise(cycle,model) = exerc_5 | exerc_5
+[  94 / 132 ] flow_distance =    25.575083683785358 | volume_distance =     7.583551791231019 | sum_distance =    33.158635475016375 | exercise(cycle,model) = exerc_5 | exerc_1
+
+[  95 / 132 ] flow_distance =    44.028197068244381 | volume_distance =    27.208051977022588 | sum_distance =    71.236249045266973 | exercise(cycle,model) = exerc_6 | exerc_4
+[  95 / 132 ] flow_distance =     9.827849091486577 | volume_distance =    25.772798650648671 | sum_distance =    35.600647742135251 | exercise(cycle,model) = exerc_6 | exerc_6
+[  95 / 132 ] flow_distance =   131.353628840746183 | volume_distance =    46.588108475142505 | sum_distance =   177.941737315888702 | exercise(cycle,model) = exerc_6 | exerc_3
+[  95 / 132 ] flow_distance =    31.271969889308686 | volume_distance =    50.279293137559989 | sum_distance =    81.551263026868668 | exercise(cycle,model) = exerc_6 | exerc_7
+[  95 / 132 ] flow_distance =    39.606212277850339 | volume_distance =    50.455672072512819 | sum_distance =    90.061884350363158 | exercise(cycle,model) = exerc_6 | exerc_2
+[  95 / 132 ] flow_distance =    78.296185887852573 | volume_distance =    25.515933183229908 | sum_distance =   103.812119071082478 | exercise(cycle,model) = exerc_6 | exerc_5
+[  95 / 132 ] flow_distance =    34.621945100696202 | volume_distance =    55.687897779150944 | sum_distance =    90.309842879847139 | exercise(cycle,model) = exerc_6 | exerc_1
+
+[  96 / 132 ] flow_distance =    52.543900431873830 | volume_distance =     3.187658619334569 | sum_distance =    55.731559051208400 | exercise(cycle,model) = exerc_6 | exerc_4
+[  96 / 132 ] flow_distance =     0.000000000000000 | volume_distance =     0.000000000000000 | sum_distance =     0.000000000000000 | exercise(cycle,model) = exerc_6 | exerc_6
+[  96 / 132 ] flow_distance =   145.306916950177254 | volume_distance =     8.393596520829243 | sum_distance =   153.700513471006502 | exercise(cycle,model) = exerc_6 | exerc_3
+[  96 / 132 ] flow_distance =    46.534324959468009 | volume_distance =     2.881437215180975 | sum_distance =    49.415762174648982 | exercise(cycle,model) = exerc_6 | exerc_7
+[  96 / 132 ] flow_distance =    50.018738177137713 | volume_distance =    16.548876888469124 | sum_distance =    66.567615065606844 | exercise(cycle,model) = exerc_6 | exerc_2
+[  96 / 132 ] flow_distance =    82.090609323352453 | volume_distance =     3.417198931977384 | sum_distance =    85.507808255329834 | exercise(cycle,model) = exerc_6 | exerc_5
+[  96 / 132 ] flow_distance =    43.364186153673714 | volume_distance =    14.727151058122548 | sum_distance =    58.091337211796258 | exercise(cycle,model) = exerc_6 | exerc_1
+
+[  97 / 132 ] flow_distance =    41.976202921274187 | volume_distance =     0.968013027652596 | sum_distance =    42.944215948926782 | exercise(cycle,model) = exerc_6 | exerc_4
+[  97 / 132 ] flow_distance =    33.503129164888541 | volume_distance =     2.722212110811634 | sum_distance =    36.225341275700174 | exercise(cycle,model) = exerc_6 | exerc_6
+[  97 / 132 ] flow_distance =   149.763468087015212 | volume_distance =     4.579443212991666 | sum_distance =   154.342911300006875 | exercise(cycle,model) = exerc_6 | exerc_3
+[  97 / 132 ] flow_distance =    27.018224697258823 | volume_distance =     2.283523202335339 | sum_distance =    29.301747899594162 | exercise(cycle,model) = exerc_6 | exerc_7
+[  97 / 132 ] flow_distance =    36.858543964082763 | volume_distance =    10.933197729621781 | sum_distance =    47.791741693704545 | exercise(cycle,model) = exerc_6 | exerc_2
+[  97 / 132 ] flow_distance =    50.431255296235982 | volume_distance =     1.112629618640113 | sum_distance =    51.543884914876095 | exercise(cycle,model) = exerc_6 | exerc_5
+[  97 / 132 ] flow_distance =    29.728326760843707 | volume_distance =     9.514652426129333 | sum_distance =    39.242979186973038 | exercise(cycle,model) = exerc_6 | exerc_1
+
+[  98 / 132 ] flow_distance =    52.773857123047385 | volume_distance =     3.357460682832377 | sum_distance =    56.131317805879760 | exercise(cycle,model) = exerc_6 | exerc_4
+[  98 / 132 ] flow_distance =     9.807083840028918 | volume_distance =     1.196525131542638 | sum_distance =    11.003608971571555 | exercise(cycle,model) = exerc_6 | exerc_6
+[  98 / 132 ] flow_distance =   142.806460710791015 | volume_distance =     9.279438598247786 | sum_distance =   152.085899309038808 | exercise(cycle,model) = exerc_6 | exerc_3
+[  98 / 132 ] flow_distance =    41.380294764656021 | volume_distance =     4.388218572308515 | sum_distance =    45.768513336964538 | exercise(cycle,model) = exerc_6 | exerc_7
+[  98 / 132 ] flow_distance =    41.618149436659728 | volume_distance =    15.737334545087814 | sum_distance =    57.355483981747540 | exercise(cycle,model) = exerc_6 | exerc_2
+[  98 / 132 ] flow_distance =    98.776344981396932 | volume_distance =     3.225351751026874 | sum_distance =   102.001696732423810 | exercise(cycle,model) = exerc_6 | exerc_5
+[  98 / 132 ] flow_distance =    75.097226506695591 | volume_distance =    14.554443819729357 | sum_distance =    89.651670326424949 | exercise(cycle,model) = exerc_6 | exerc_1
+
+[  99 / 132 ] flow_distance =    56.990747896312769 | volume_distance =     4.036250027352743 | sum_distance =    61.026997923665512 | exercise(cycle,model) = exerc_6 | exerc_4
+[  99 / 132 ] flow_distance =    14.968180180965119 | volume_distance =     0.943702284905958 | sum_distance =    15.911882465871077 | exercise(cycle,model) = exerc_6 | exerc_6
+[  99 / 132 ] flow_distance =   141.039055263546743 | volume_distance =    11.258704251122865 | sum_distance =   152.297759514669622 | exercise(cycle,model) = exerc_6 | exerc_3
+[  99 / 132 ] flow_distance =    40.967854532570172 | volume_distance =     3.266624130206328 | sum_distance =    44.234478662776503 | exercise(cycle,model) = exerc_6 | exerc_7
+[  99 / 132 ] flow_distance =    36.172575962872671 | volume_distance =    23.260864430376873 | sum_distance =    59.433440393249541 | exercise(cycle,model) = exerc_6 | exerc_2
+[  99 / 132 ] flow_distance =    92.209276912434660 | volume_distance =     3.973150399560994 | sum_distance =    96.182427311995653 | exercise(cycle,model) = exerc_6 | exerc_5
+[  99 / 132 ] flow_distance =    60.674368207733167 | volume_distance =    21.126967074619500 | sum_distance =    81.801335282352667 | exercise(cycle,model) = exerc_6 | exerc_1
+
+[ 100 / 132 ] flow_distance =    46.430699806951282 | volume_distance =     1.031291389060530 | sum_distance =    47.461991196011809 | exercise(cycle,model) = exerc_6 | exerc_4
+[ 100 / 132 ] flow_distance =     7.537080749947462 | volume_distance =     2.528905716635114 | sum_distance =    10.065986466582576 | exercise(cycle,model) = exerc_6 | exerc_6
+[ 100 / 132 ] flow_distance =   139.242000598188241 | volume_distance =     4.671955063330921 | sum_distance =   143.913955661519168 | exercise(cycle,model) = exerc_6 | exerc_3
+[ 100 / 132 ] flow_distance =    38.411430418489424 | volume_distance =     1.701950318462279 | sum_distance =    40.113380736951704 | exercise(cycle,model) = exerc_6 | exerc_7
+[ 100 / 132 ] flow_distance =    38.709587847907031 | volume_distance =    10.826982603357337 | sum_distance =    49.536570451264367 | exercise(cycle,model) = exerc_6 | exerc_2
+[ 100 / 132 ] flow_distance =    67.912023191396713 | volume_distance =     1.220216696369488 | sum_distance =    69.132239887766204 | exercise(cycle,model) = exerc_6 | exerc_5
+[ 100 / 132 ] flow_distance =    36.527094571459934 | volume_distance =     9.651143738987225 | sum_distance =    46.178238310447156 | exercise(cycle,model) = exerc_6 | exerc_1
+
+[ 101 / 132 ] flow_distance =    50.080471061401902 | volume_distance =    52.883095949696369 | sum_distance =   102.963567011098263 | exercise(cycle,model) = exerc_6 | exerc_4
+[ 101 / 132 ] flow_distance =    17.824615957549263 | volume_distance =    41.135509716033425 | sum_distance =    58.960125673582688 | exercise(cycle,model) = exerc_6 | exerc_6
+[ 101 / 132 ] flow_distance =   127.670677626727468 | volume_distance =    50.963268079811314 | sum_distance =   178.633945706538782 | exercise(cycle,model) = exerc_6 | exerc_3
+[ 101 / 132 ] flow_distance =    36.445660521971035 | volume_distance =    73.147499907418464 | sum_distance =   109.593160429389499 | exercise(cycle,model) = exerc_6 | exerc_7
+[ 101 / 132 ] flow_distance =    30.468848148523183 | volume_distance =    24.523788778475872 | sum_distance =    54.992636926999054 | exercise(cycle,model) = exerc_6 | exerc_2
+[ 101 / 132 ] flow_distance =    45.511894180733989 | volume_distance =    56.046371556504681 | sum_distance =   101.558265737238671 | exercise(cycle,model) = exerc_6 | exerc_5
+[ 101 / 132 ] flow_distance =    32.238194363673067 | volume_distance =    31.015150358555555 | sum_distance =    63.253344722228618 | exercise(cycle,model) = exerc_6 | exerc_1
+
+[ 102 / 132 ] flow_distance =   103.176592807325193 | volume_distance =     2.100694606694712 | sum_distance =   105.277287414019909 | exercise(cycle,model) = exerc_6 | exerc_4
+[ 102 / 132 ] flow_distance =    63.596018943319201 | volume_distance =     0.914650115967055 | sum_distance =    64.510669059286258 | exercise(cycle,model) = exerc_6 | exerc_6
+[ 102 / 132 ] flow_distance =   226.467881153342859 | volume_distance =     6.186511112500193 | sum_distance =   232.654392265843057 | exercise(cycle,model) = exerc_6 | exerc_3
+[ 102 / 132 ] flow_distance =   102.928251008730030 | volume_distance =     1.573819448204490 | sum_distance =   104.502070456934518 | exercise(cycle,model) = exerc_6 | exerc_7
+[ 102 / 132 ] flow_distance =    97.479442227581600 | volume_distance =    12.919130918040379 | sum_distance =   110.398573145621981 | exercise(cycle,model) = exerc_6 | exerc_2
+[ 102 / 132 ] flow_distance =   107.117905677494420 | volume_distance =     2.049860109751930 | sum_distance =   109.167765787246353 | exercise(cycle,model) = exerc_6 | exerc_5
+[ 102 / 132 ] flow_distance =   122.612517160695930 | volume_distance =    11.852765239098558 | sum_distance =   134.465282399794489 | exercise(cycle,model) = exerc_6 | exerc_1
+
+[ 103 / 132 ] flow_distance =    44.745406336275600 | volume_distance =    35.282109480600433 | sum_distance =    80.027515816876033 | exercise(cycle,model) = exerc_6 | exerc_4
+[ 103 / 132 ] flow_distance =    10.844188718969585 | volume_distance =    29.258829965569511 | sum_distance =    40.103018684539094 | exercise(cycle,model) = exerc_6 | exerc_6
+[ 103 / 132 ] flow_distance =   132.904179076303080 | volume_distance =    31.507266971695348 | sum_distance =   164.411446047998425 | exercise(cycle,model) = exerc_6 | exerc_3
+[ 103 / 132 ] flow_distance =    33.414942919929580 | volume_distance =    50.947108909705193 | sum_distance =    84.362051829634765 | exercise(cycle,model) = exerc_6 | exerc_7
+[ 103 / 132 ] flow_distance =    32.430562397361854 | volume_distance =    11.262418614655532 | sum_distance =    43.692981012017384 | exercise(cycle,model) = exerc_6 | exerc_2
+[ 103 / 132 ] flow_distance =    47.690814659614340 | volume_distance =    39.398055067978738 | sum_distance =    87.088869727593078 | exercise(cycle,model) = exerc_6 | exerc_5
+[ 103 / 132 ] flow_distance =    34.660128453954485 | volume_distance =    14.677235350998993 | sum_distance =    49.337363804953476 | exercise(cycle,model) = exerc_6 | exerc_1
+
+[ 104 / 132 ] flow_distance =    74.734393324894128 | volume_distance =    39.334854358196061 | sum_distance =   114.069247683090197 | exercise(cycle,model) = exerc_6 | exerc_4
+[ 104 / 132 ] flow_distance =    20.336821331654392 | volume_distance =    41.599969828407467 | sum_distance =    61.936791160061858 | exercise(cycle,model) = exerc_6 | exerc_6
+[ 104 / 132 ] flow_distance =   181.360692532977794 | volume_distance =    64.046132613713027 | sum_distance =   245.406825146690835 | exercise(cycle,model) = exerc_6 | exerc_3
+[ 104 / 132 ] flow_distance =    73.040025633208998 | volume_distance =    72.031498635490294 | sum_distance =   145.071524268699307 | exercise(cycle,model) = exerc_6 | exerc_7
+[ 104 / 132 ] flow_distance =    65.945410212834673 | volume_distance =    60.499573280118767 | sum_distance =   126.444983492953440 | exercise(cycle,model) = exerc_6 | exerc_2
+[ 104 / 132 ] flow_distance =   108.148520810778265 | volume_distance =    35.976235660937760 | sum_distance =   144.124756471716012 | exercise(cycle,model) = exerc_6 | exerc_5
+[ 104 / 132 ] flow_distance =   113.218278365185995 | volume_distance =    73.024139604237533 | sum_distance =   186.242417969423514 | exercise(cycle,model) = exerc_6 | exerc_1
+
+[ 105 / 132 ] flow_distance =   105.254840687564041 | volume_distance =    18.902396141015679 | sum_distance =   124.157236828579727 | exercise(cycle,model) = exerc_6 | exerc_4
+[ 105 / 132 ] flow_distance =    68.063299587613457 | volume_distance =    17.773285045357188 | sum_distance =    85.836584632970641 | exercise(cycle,model) = exerc_6 | exerc_6
+[ 105 / 132 ] flow_distance =   230.000958688586110 | volume_distance =    33.135086230070407 | sum_distance =   263.136044918656523 | exercise(cycle,model) = exerc_6 | exerc_3
+[ 105 / 132 ] flow_distance =   112.650686535612181 | volume_distance =    37.458599860054811 | sum_distance =   150.109286395666999 | exercise(cycle,model) = exerc_6 | exerc_7
+[ 105 / 132 ] flow_distance =   101.708442438744342 | volume_distance =    33.376750558209785 | sum_distance =   135.085192996954135 | exercise(cycle,model) = exerc_6 | exerc_2
+[ 105 / 132 ] flow_distance =   113.070382976074384 | volume_distance =    17.814285043361476 | sum_distance =   130.884668019435850 | exercise(cycle,model) = exerc_6 | exerc_5
+[ 105 / 132 ] flow_distance =   126.058153119141863 | volume_distance =    37.342369916670798 | sum_distance =   163.400523035812654 | exercise(cycle,model) = exerc_6 | exerc_1
+
+[ 106 / 132 ] flow_distance =    71.893434530900606 | volume_distance =     5.032979045554367 | sum_distance =    76.926413576454976 | exercise(cycle,model) = exerc_6 | exerc_4
+[ 106 / 132 ] flow_distance =    15.231882061696638 | volume_distance =     6.748788946301620 | sum_distance =    21.980671007998257 | exercise(cycle,model) = exerc_6 | exerc_6
+[ 106 / 132 ] flow_distance =   169.062468900569371 | volume_distance =     3.066032188175829 | sum_distance =   172.128501088745196 | exercise(cycle,model) = exerc_6 | exerc_3
+[ 106 / 132 ] flow_distance =    62.576069912939346 | volume_distance =     9.059934255694914 | sum_distance =    71.636004168634258 | exercise(cycle,model) = exerc_6 | exerc_7
+[ 106 / 132 ] flow_distance =    56.537438127749517 | volume_distance =     4.395988264370143 | sum_distance =    60.933426392119657 | exercise(cycle,model) = exerc_6 | exerc_2
+[ 106 / 132 ] flow_distance =    73.912439530849397 | volume_distance =     6.476208586192333 | sum_distance =    80.388648117041726 | exercise(cycle,model) = exerc_6 | exerc_5
+[ 106 / 132 ] flow_distance =    83.744605216982762 | volume_distance =     4.231045115977503 | sum_distance =    87.975650332960271 | exercise(cycle,model) = exerc_6 | exerc_1
+
+[ 107 / 132 ] flow_distance =    38.256599352695268 | volume_distance =    28.872332952719844 | sum_distance =    67.128932305415105 | exercise(cycle,model) = exerc_6 | exerc_4
+[ 107 / 132 ] flow_distance =     8.983861287112637 | volume_distance =    29.265582896359327 | sum_distance =    38.249444183471965 | exercise(cycle,model) = exerc_6 | exerc_6
+[ 107 / 132 ] flow_distance =   121.220407376023985 | volume_distance =    48.270426141938927 | sum_distance =   169.490833517962926 | exercise(cycle,model) = exerc_6 | exerc_3
+[ 107 / 132 ] flow_distance =    20.697859136984651 | volume_distance =    54.960206110888251 | sum_distance =    75.658065247872898 | exercise(cycle,model) = exerc_6 | exerc_7
+[ 107 / 132 ] flow_distance =    25.495805919345408 | volume_distance =    47.618694163177871 | sum_distance =    73.114500082523278 | exercise(cycle,model) = exerc_6 | exerc_2
+[ 107 / 132 ] flow_distance =    38.553664705975088 | volume_distance =    26.813420926727748 | sum_distance =    65.367085632702839 | exercise(cycle,model) = exerc_6 | exerc_5
+[ 107 / 132 ] flow_distance =    59.847442337549332 | volume_distance =    55.209918821470161 | sum_distance =   115.057361159019493 | exercise(cycle,model) = exerc_6 | exerc_1
+
+[ 108 / 132 ] flow_distance =    48.148268826667497 | volume_distance =    48.788653518408907 | sum_distance =    96.936922345076397 | exercise(cycle,model) = exerc_6 | exerc_4
+[ 108 / 132 ] flow_distance =     6.931370428703213 | volume_distance =    52.787989285527566 | sum_distance =    59.719359714230777 | exercise(cycle,model) = exerc_6 | exerc_6
+[ 108 / 132 ] flow_distance =   167.139153174326140 | volume_distance =    78.805115979042668 | sum_distance =   245.944269153368793 | exercise(cycle,model) = exerc_6 | exerc_3
+[ 108 / 132 ] flow_distance =    38.081989047383132 | volume_distance =    87.247712790131715 | sum_distance =   125.329701837514847 | exercise(cycle,model) = exerc_6 | exerc_7
+[ 108 / 132 ] flow_distance =    34.686621057408082 | volume_distance =    75.677709436337622 | sum_distance =   110.364330493745712 | exercise(cycle,model) = exerc_6 | exerc_2
+[ 108 / 132 ] flow_distance =    67.671721262871301 | volume_distance =    44.233739382905405 | sum_distance =   111.905460645776714 | exercise(cycle,model) = exerc_6 | exerc_5
+[ 108 / 132 ] flow_distance =    41.207832653245028 | volume_distance =    92.319680083319724 | sum_distance =   133.527512736564745 | exercise(cycle,model) = exerc_6 | exerc_1
+
+[ 109 / 132 ] flow_distance =    45.576278378733640 | volume_distance =     0.815436696505198 | sum_distance =    46.391715075238835 | exercise(cycle,model) = exerc_6 | exerc_4
+[ 109 / 132 ] flow_distance =    10.959055590767502 | volume_distance =     3.104978188735712 | sum_distance =    14.064033779503214 | exercise(cycle,model) = exerc_6 | exerc_6
+[ 109 / 132 ] flow_distance =   127.213792044162915 | volume_distance =     4.175145290828008 | sum_distance =   131.388937334990914 | exercise(cycle,model) = exerc_6 | exerc_3
+[ 109 / 132 ] flow_distance =    26.016095638320415 | volume_distance =     2.411297726276736 | sum_distance =    28.427393364597151 | exercise(cycle,model) = exerc_6 | exerc_7
+[ 109 / 132 ] flow_distance =    25.507222661364416 | volume_distance =    10.806867908632993 | sum_distance =    36.314090569997411 | exercise(cycle,model) = exerc_6 | exerc_2
+[ 109 / 132 ] flow_distance =    41.527261688682636 | volume_distance =     0.826414092463850 | sum_distance =    42.353675781146485 | exercise(cycle,model) = exerc_6 | exerc_5
+[ 109 / 132 ] flow_distance =    64.190077956274948 | volume_distance =     9.645708582914210 | sum_distance =    73.835786539189158 | exercise(cycle,model) = exerc_6 | exerc_1
+
+[ 110 / 132 ] flow_distance =    86.412744435743363 | volume_distance =   107.575783482669038 | sum_distance =   193.988527918412387 | exercise(cycle,model) = exerc_6 | exerc_4
+[ 110 / 132 ] flow_distance =    30.895880002581709 | volume_distance =   129.685948649179977 | sum_distance =   160.581828651761697 | exercise(cycle,model) = exerc_6 | exerc_6
+[ 110 / 132 ] flow_distance =   198.419441587153443 | volume_distance =   164.824489037001825 | sum_distance =   363.243930624155269 | exercise(cycle,model) = exerc_6 | exerc_3
+[ 110 / 132 ] flow_distance =    92.049674160708037 | volume_distance =   178.607118607049216 | sum_distance =   270.656792767757224 | exercise(cycle,model) = exerc_6 | exerc_7
+[ 110 / 132 ] flow_distance =    79.883269900475383 | volume_distance =   144.753817028911612 | sum_distance =   224.637086929387010 | exercise(cycle,model) = exerc_6 | exerc_2
+[ 110 / 132 ] flow_distance =    92.629599381802549 | volume_distance =    93.908181117264604 | sum_distance =   186.537780499067139 | exercise(cycle,model) = exerc_6 | exerc_5
+[ 110 / 132 ] flow_distance =    93.305840935288415 | volume_distance =   199.836162660945121 | sum_distance =   293.142003596233508 | exercise(cycle,model) = exerc_6 | exerc_1
+
+[ 111 / 132 ] flow_distance =    83.688233304000306 | volume_distance =     8.492107120316852 | sum_distance =    92.180340424317166 | exercise(cycle,model) = exerc_6 | exerc_4
+[ 111 / 132 ] flow_distance =    34.975748634316297 | volume_distance =     9.641696030778636 | sum_distance =    44.617444665094936 | exercise(cycle,model) = exerc_6 | exerc_6
+[ 111 / 132 ] flow_distance =   199.291022787115111 | volume_distance =     6.038868712581183 | sum_distance =   205.329891499696288 | exercise(cycle,model) = exerc_6 | exerc_3
+[ 111 / 132 ] flow_distance =   103.001817359620205 | volume_distance =    14.167087425869354 | sum_distance =   117.168904785489559 | exercise(cycle,model) = exerc_6 | exerc_7
+[ 111 / 132 ] flow_distance =    93.126991378914042 | volume_distance =     3.371693315498689 | sum_distance =    96.498684694412731 | exercise(cycle,model) = exerc_6 | exerc_2
+[ 111 / 132 ] flow_distance =    80.430694520442486 | volume_distance =    10.895023126472449 | sum_distance =    91.325717646914939 | exercise(cycle,model) = exerc_6 | exerc_5
+[ 111 / 132 ] flow_distance =    98.580244085197521 | volume_distance =     3.361215879621588 | sum_distance =   101.941459964819103 | exercise(cycle,model) = exerc_6 | exerc_1
+
+[ 112 / 132 ] flow_distance =    61.437810149940049 | volume_distance =     1.131497962796853 | sum_distance =    62.569308112736906 | exercise(cycle,model) = exerc_6 | exerc_4
+[ 112 / 132 ] flow_distance =    22.467009376815700 | volume_distance =     3.012832883259878 | sum_distance =    25.479842260075579 | exercise(cycle,model) = exerc_6 | exerc_6
+[ 112 / 132 ] flow_distance =   163.822764554907110 | volume_distance =     3.509232120484094 | sum_distance =   167.331996675391196 | exercise(cycle,model) = exerc_6 | exerc_3
+[ 112 / 132 ] flow_distance =    64.151624901658863 | volume_distance =     2.607117532258409 | sum_distance =    66.758742433917277 | exercise(cycle,model) = exerc_6 | exerc_7
+[ 112 / 132 ] flow_distance =    56.054703060222373 | volume_distance =     6.097567228723245 | sum_distance =    62.152270288945616 | exercise(cycle,model) = exerc_6 | exerc_2
+[ 112 / 132 ] flow_distance =    62.780784075787473 | volume_distance =     1.021291149138349 | sum_distance =    63.802075224925822 | exercise(cycle,model) = exerc_6 | exerc_5
+[ 112 / 132 ] flow_distance =    35.904264652560023 | volume_distance =     5.711785991480913 | sum_distance =    41.616050644040939 | exercise(cycle,model) = exerc_6 | exerc_1
+
+[ 113 / 132 ] flow_distance =   102.902373537137208 | volume_distance =    35.684666081933472 | sum_distance =   138.587039619070680 | exercise(cycle,model) = exerc_7 | exerc_4
+[ 113 / 132 ] flow_distance =   147.338040910476423 | volume_distance =    29.907225136101573 | sum_distance =   177.245266046577996 | exercise(cycle,model) = exerc_7 | exerc_6
+[ 113 / 132 ] flow_distance =   163.463713586120548 | volume_distance =    31.973914028703515 | sum_distance =   195.437627614824066 | exercise(cycle,model) = exerc_7 | exerc_3
+[ 113 / 132 ] flow_distance =    91.239246001230441 | volume_distance =    51.517350267114900 | sum_distance =   142.756596268345334 | exercise(cycle,model) = exerc_7 | exerc_7
+[ 113 / 132 ] flow_distance =    62.426600785516982 | volume_distance =    11.583728890443444 | sum_distance =    74.010329675960421 | exercise(cycle,model) = exerc_7 | exerc_2
+[ 113 / 132 ] flow_distance =    71.310201374345255 | volume_distance =    39.740711482631383 | sum_distance =   111.050912856976637 | exercise(cycle,model) = exerc_7 | exerc_5
+[ 113 / 132 ] flow_distance =   101.310110829030606 | volume_distance =    15.294435104478383 | sum_distance =   116.604545933508987 | exercise(cycle,model) = exerc_7 | exerc_1
+
+[ 114 / 132 ] flow_distance =    34.565079630743796 | volume_distance =     0.959807623035147 | sum_distance =    35.524887253778942 | exercise(cycle,model) = exerc_7 | exerc_4
+[ 114 / 132 ] flow_distance =    40.333795674630956 | volume_distance =     3.415778840625404 | sum_distance =    43.749574515256363 | exercise(cycle,model) = exerc_7 | exerc_6
+[ 114 / 132 ] flow_distance =   111.707178586908810 | volume_distance =     9.129144571324645 | sum_distance =   120.836323158233455 | exercise(cycle,model) = exerc_7 | exerc_3
+[ 114 / 132 ] flow_distance =    13.743947353243156 | volume_distance =     2.342058654991201 | sum_distance =    16.086006008234357 | exercise(cycle,model) = exerc_7 | exerc_7
+[ 114 / 132 ] flow_distance =    16.231290963514489 | volume_distance =    28.850934206223304 | sum_distance =    45.082225169737796 | exercise(cycle,model) = exerc_7 | exerc_2
+[ 114 / 132 ] flow_distance =    39.622371536738640 | volume_distance =     0.766480216161849 | sum_distance =    40.388851752900486 | exercise(cycle,model) = exerc_7 | exerc_5
+[ 114 / 132 ] flow_distance =    25.274377369996962 | volume_distance =    25.251977885455677 | sum_distance =    50.526355255452643 | exercise(cycle,model) = exerc_7 | exerc_1
+
+[ 115 / 132 ] flow_distance =    38.385306718203680 | volume_distance =     1.993855876186965 | sum_distance =    40.379162594390642 | exercise(cycle,model) = exerc_7 | exerc_4
+[ 115 / 132 ] flow_distance =    51.517159568957879 | volume_distance =     4.712901208593032 | sum_distance =    56.230060777550911 | exercise(cycle,model) = exerc_7 | exerc_6
+[ 115 / 132 ] flow_distance =   107.346035618826747 | volume_distance =     3.786205860124743 | sum_distance =   111.132241478951485 | exercise(cycle,model) = exerc_7 | exerc_3
+[ 115 / 132 ] flow_distance =    18.355535491493800 | volume_distance =     4.425818250565559 | sum_distance =    22.781353742059359 | exercise(cycle,model) = exerc_7 | exerc_7
+[ 115 / 132 ] flow_distance =     8.313979840240844 | volume_distance =    11.504938290768170 | sum_distance =    19.818918131009013 | exercise(cycle,model) = exerc_7 | exerc_2
+[ 115 / 132 ] flow_distance =    20.408464925764044 | volume_distance =     2.411047473710320 | sum_distance =    22.819512399474362 | exercise(cycle,model) = exerc_7 | exerc_5
+[ 115 / 132 ] flow_distance =    30.046518781004202 | volume_distance =     9.964392145924345 | sum_distance =    40.010910926928545 | exercise(cycle,model) = exerc_7 | exerc_1
+
+[ 116 / 132 ] flow_distance =    37.529830972337855 | volume_distance =     1.842989687615587 | sum_distance =    39.372820659953440 | exercise(cycle,model) = exerc_7 | exerc_4
+[ 116 / 132 ] flow_distance =    81.534443009863281 | volume_distance =     4.555029089883259 | sum_distance =    86.089472099746544 | exercise(cycle,model) = exerc_7 | exerc_6
+[ 116 / 132 ] flow_distance =   116.422449327546303 | volume_distance =     4.362478018093715 | sum_distance =   120.784927345640014 | exercise(cycle,model) = exerc_7 | exerc_3
+[ 116 / 132 ] flow_distance =    12.070702464606448 | volume_distance =     3.834271419110989 | sum_distance =    15.904973883717437 | exercise(cycle,model) = exerc_7 | exerc_7
+[ 116 / 132 ] flow_distance =    12.302788377457052 | volume_distance =    14.118317685637392 | sum_distance =    26.421106063094442 | exercise(cycle,model) = exerc_7 | exerc_2
+[ 116 / 132 ] flow_distance =    45.761692522840463 | volume_distance =     2.151780516105215 | sum_distance =    47.913473038945675 | exercise(cycle,model) = exerc_7 | exerc_5
+[ 116 / 132 ] flow_distance =    33.722646394533740 | volume_distance =    11.807907872831468 | sum_distance =    45.530554267365204 | exercise(cycle,model) = exerc_7 | exerc_1
+
+[ 117 / 132 ] flow_distance =    41.148439544704949 | volume_distance =     2.038240232486616 | sum_distance =    43.186679777191564 | exercise(cycle,model) = exerc_7 | exerc_4
+[ 117 / 132 ] flow_distance =    63.871797916751291 | volume_distance =     2.489350507396574 | sum_distance =    66.361148424147871 | exercise(cycle,model) = exerc_7 | exerc_6
+[ 117 / 132 ] flow_distance =   117.718820094099755 | volume_distance =     7.273456407604831 | sum_distance =   124.992276501704580 | exercise(cycle,model) = exerc_7 | exerc_3
+[ 117 / 132 ] flow_distance =    17.967554093578542 | volume_distance =     0.793419446772374 | sum_distance =    18.760973540350918 | exercise(cycle,model) = exerc_7 | exerc_7
+[ 117 / 132 ] flow_distance =    29.232130067937277 | volume_distance =    19.012527299517323 | sum_distance =    48.244657367454600 | exercise(cycle,model) = exerc_7 | exerc_2
+[ 117 / 132 ] flow_distance =    43.861474253999795 | volume_distance =     2.083366228839332 | sum_distance =    45.944840482839126 | exercise(cycle,model) = exerc_7 | exerc_5
+[ 117 / 132 ] flow_distance =    33.581897083920595 | volume_distance =    16.291524793630902 | sum_distance =    49.873421877551493 | exercise(cycle,model) = exerc_7 | exerc_1
+
+[ 118 / 132 ] flow_distance =    37.482376464155216 | volume_distance =     0.834589668977778 | sum_distance =    38.316966133132993 | exercise(cycle,model) = exerc_7 | exerc_4
+[ 118 / 132 ] flow_distance =    64.182729153861857 | volume_distance =     3.530787548643141 | sum_distance =    67.713516702505004 | exercise(cycle,model) = exerc_7 | exerc_6
+[ 118 / 132 ] flow_distance =   115.098479439170163 | volume_distance =     5.612006641188646 | sum_distance =   120.710486080358805 | exercise(cycle,model) = exerc_7 | exerc_3
+[ 118 / 132 ] flow_distance =     7.982124216532551 | volume_distance =     1.985101456996192 | sum_distance =     9.967225673528743 | exercise(cycle,model) = exerc_7 | exerc_7
+[ 118 / 132 ] flow_distance =    12.971858273469119 | volume_distance =    16.340117359917905 | sum_distance =    29.311975633387021 | exercise(cycle,model) = exerc_7 | exerc_2
+[ 118 / 132 ] flow_distance =    65.221035592301163 | volume_distance =     0.931117773024581 | sum_distance =    66.152153365325745 | exercise(cycle,model) = exerc_7 | exerc_5
+[ 118 / 132 ] flow_distance =    47.811544786677992 | volume_distance =    13.939379196974359 | sum_distance =    61.750923983652349 | exercise(cycle,model) = exerc_7 | exerc_1
+
+[ 119 / 132 ] flow_distance =    41.185535640922396 | volume_distance =     2.478884809513156 | sum_distance =    43.664420450435550 | exercise(cycle,model) = exerc_7 | exerc_4
+[ 119 / 132 ] flow_distance =    46.534324959468009 | volume_distance =     2.881437215180975 | sum_distance =    49.415762174648982 | exercise(cycle,model) = exerc_7 | exerc_6
+[ 119 / 132 ] flow_distance =   126.945670910227221 | volume_distance =     9.748974208636707 | sum_distance =   136.694645118863917 | exercise(cycle,model) = exerc_7 | exerc_3
+[ 119 / 132 ] flow_distance =     0.000000000000000 | volume_distance =     0.000000000000000 | sum_distance =     0.000000000000000 | exercise(cycle,model) = exerc_7 | exerc_7
+[ 119 / 132 ] flow_distance =    13.679042528284645 | volume_distance =    26.337216828472499 | sum_distance =    40.016259356757146 | exercise(cycle,model) = exerc_7 | exerc_2
+[ 119 / 132 ] flow_distance =    54.504272411786758 | volume_distance =     2.488489852042242 | sum_distance =    56.992762263829000 | exercise(cycle,model) = exerc_7 | exerc_5
+[ 119 / 132 ] flow_distance =    24.891329539508806 | volume_distance =    22.817345550052604 | sum_distance =    47.708675089561410 | exercise(cycle,model) = exerc_7 | exerc_1
+
+[ 120 / 132 ] flow_distance =    47.903228909581557 | volume_distance =    49.551588802074285 | sum_distance =    97.454817711655835 | exercise(cycle,model) = exerc_7 | exerc_4
+[ 120 / 132 ] flow_distance =    40.586200401788119 | volume_distance =    39.084182238113996 | sum_distance =    79.670382639902115 | exercise(cycle,model) = exerc_7 | exerc_6
+[ 120 / 132 ] flow_distance =   127.681589688006099 | volume_distance =    45.910522538787134 | sum_distance =   173.592112226793233 | exercise(cycle,model) = exerc_7 | exerc_3
+[ 120 / 132 ] flow_distance =    64.985410750103469 | volume_distance =    68.965333437810528 | sum_distance =   133.950744187913983 | exercise(cycle,model) = exerc_7 | exerc_7
+[ 120 / 132 ] flow_distance =    42.587670461853300 | volume_distance =    22.077748092509296 | sum_distance =    64.665418554362589 | exercise(cycle,model) = exerc_7 | exerc_2
+[ 120 / 132 ] flow_distance =    84.173061354225396 | volume_distance =    53.073876247220724 | sum_distance =   137.246937601446120 | exercise(cycle,model) = exerc_7 | exerc_5
+[ 120 / 132 ] flow_distance =    35.757606803266114 | volume_distance =    27.289945592714915 | sum_distance =    63.047552395981029 | exercise(cycle,model) = exerc_7 | exerc_1
+
+[ 121 / 132 ] flow_distance =    68.540848052170716 | volume_distance =     3.552747191868316 | sum_distance =    72.093595244039037 | exercise(cycle,model) = exerc_7 | exerc_4
+[ 121 / 132 ] flow_distance =    16.158723100971912 | volume_distance =     5.357198725596221 | sum_distance =    21.515921826568132 | exercise(cycle,model) = exerc_7 | exerc_6
+[ 121 / 132 ] flow_distance =   166.397887021558233 | volume_distance =     2.856142508077401 | sum_distance =   169.254029529635631 | exercise(cycle,model) = exerc_7 | exerc_3
+[ 121 / 132 ] flow_distance =    58.652684426691337 | volume_distance =     6.556282630005804 | sum_distance =    65.208967056697148 | exercise(cycle,model) = exerc_7 | exerc_7
+[ 121 / 132 ] flow_distance =    53.427758386624198 | volume_distance =     8.229457727296499 | sum_distance =    61.657216113920697 | exercise(cycle,model) = exerc_7 | exerc_2
+[ 121 / 132 ] flow_distance =   106.985952864967103 | volume_distance =     4.608804077900337 | sum_distance =   111.594756942867434 | exercise(cycle,model) = exerc_7 | exerc_5
+[ 121 / 132 ] flow_distance =    62.296410625735376 | volume_distance =     6.844292461655773 | sum_distance =    69.140703087391145 | exercise(cycle,model) = exerc_7 | exerc_1
+
+[ 122 / 132 ] flow_distance =    40.864155536284642 | volume_distance =     1.766738261586730 | sum_distance =    42.630893797871373 | exercise(cycle,model) = exerc_7 | exerc_4
+[ 122 / 132 ] flow_distance =    10.916442442739230 | volume_distance =     4.083466210601771 | sum_distance =    14.999908653341002 | exercise(cycle,model) = exerc_7 | exerc_6
+[ 122 / 132 ] flow_distance =   119.041413743788254 | volume_distance =     3.901045816558483 | sum_distance =   122.942459560346734 | exercise(cycle,model) = exerc_7 | exerc_3
+[ 122 / 132 ] flow_distance =    24.261462018545579 | volume_distance =     4.056087722679101 | sum_distance =    28.317549741224681 | exercise(cycle,model) = exerc_7 | exerc_7
+[ 122 / 132 ] flow_distance =    22.680869771594381 | volume_distance =    14.455092012421785 | sum_distance =    37.135961784016168 | exercise(cycle,model) = exerc_7 | exerc_2
+[ 122 / 132 ] flow_distance =    71.344598880465298 | volume_distance =     2.170137345116311 | sum_distance =    73.514736225581615 | exercise(cycle,model) = exerc_7 | exerc_5
+[ 122 / 132 ] flow_distance =    29.517438874191477 | volume_distance =    12.164450713681141 | sum_distance =    41.681889587872618 | exercise(cycle,model) = exerc_7 | exerc_1
+
+[ 123 / 132 ] flow_distance =    76.803618612292851 | volume_distance =   149.151172343390726 | sum_distance =   225.954790955683563 | exercise(cycle,model) = exerc_7 | exerc_4
+[ 123 / 132 ] flow_distance =    19.060605676372091 | volume_distance =   189.514636751891061 | sum_distance =   208.575242428263152 | exercise(cycle,model) = exerc_7 | exerc_6
+[ 123 / 132 ] flow_distance =   166.135472510724753 | volume_distance =   222.753875823342781 | sum_distance =   388.889348334067563 | exercise(cycle,model) = exerc_7 | exerc_3
+[ 123 / 132 ] flow_distance =    60.704006556203154 | volume_distance =   243.284178575143727 | sum_distance =   303.988185131346881 | exercise(cycle,model) = exerc_7 | exerc_7
+[ 123 / 132 ] flow_distance =    56.595926217736519 | volume_distance =   188.708823361277410 | sum_distance =   245.304749579013929 | exercise(cycle,model) = exerc_7 | exerc_2
+[ 123 / 132 ] flow_distance =    66.750813342235986 | volume_distance =   128.932476175202225 | sum_distance =   195.683289517438197 | exercise(cycle,model) = exerc_7 | exerc_5
+[ 123 / 132 ] flow_distance =    73.313192863661087 | volume_distance =   280.660698878960545 | sum_distance =   353.973891742621618 | exercise(cycle,model) = exerc_7 | exerc_1
+
+[ 124 / 132 ] flow_distance =    45.020724528643804 | volume_distance =     2.315310696010775 | sum_distance =    47.336035224654580 | exercise(cycle,model) = exerc_7 | exerc_4
+[ 124 / 132 ] flow_distance =    95.300284350993508 | volume_distance =     4.846746858061215 | sum_distance =   100.147031209054717 | exercise(cycle,model) = exerc_7 | exerc_6
+[ 124 / 132 ] flow_distance =   122.498909018178949 | volume_distance =     3.076364547937988 | sum_distance =   125.575273566116934 | exercise(cycle,model) = exerc_7 | exerc_3
+[ 124 / 132 ] flow_distance =    35.539838505698768 | volume_distance =     5.031819231955542 | sum_distance =    40.571657737654313 | exercise(cycle,model) = exerc_7 | exerc_7
+[ 124 / 132 ] flow_distance =    20.437956772679723 | volume_distance =    10.351042187623305 | sum_distance =    30.788998960303026 | exercise(cycle,model) = exerc_7 | exerc_2
+[ 124 / 132 ] flow_distance =    25.904661490460708 | volume_distance =     3.151231171886502 | sum_distance =    29.055892662347208 | exercise(cycle,model) = exerc_7 | exerc_5
+[ 124 / 132 ] flow_distance =    45.999787094494287 | volume_distance =     8.481841530567630 | sum_distance =    54.481628625061916 | exercise(cycle,model) = exerc_7 | exerc_1
+
+[ 125 / 132 ] flow_distance =    49.614541307194926 | volume_distance =     2.202583768244380 | sum_distance =    51.817125075439307 | exercise(cycle,model) = exerc_7 | exerc_4
+[ 125 / 132 ] flow_distance =    15.054422876331639 | volume_distance =     1.310806595745856 | sum_distance =    16.365229472077495 | exercise(cycle,model) = exerc_7 | exerc_6
+[ 125 / 132 ] flow_distance =   135.863390442411003 | volume_distance =     6.981404649890934 | sum_distance =   142.844795092301950 | exercise(cycle,model) = exerc_7 | exerc_3
+[ 125 / 132 ] flow_distance =    27.077250439043773 | volume_distance =     1.435178812428877 | sum_distance =    28.512429251472650 | exercise(cycle,model) = exerc_7 | exerc_7
+[ 125 / 132 ] flow_distance =    26.494607827311796 | volume_distance =    16.461324050978632 | sum_distance =    42.955931878290428 | exercise(cycle,model) = exerc_7 | exerc_2
+[ 125 / 132 ] flow_distance =    59.591936025917427 | volume_distance =     2.509994280072653 | sum_distance =    62.101930305990081 | exercise(cycle,model) = exerc_7 | exerc_5
+[ 125 / 132 ] flow_distance =    28.600480650984125 | volume_distance =    14.240620617856408 | sum_distance =    42.841101268840532 | exercise(cycle,model) = exerc_7 | exerc_1
+
+[ 126 / 132 ] flow_distance =    42.754312487232994 | volume_distance =     1.656286459530049 | sum_distance =    44.410598946763045 | exercise(cycle,model) = exerc_7 | exerc_4
+[ 126 / 132 ] flow_distance =    22.563834347325628 | volume_distance =     4.015041682952829 | sum_distance =    26.578876030278458 | exercise(cycle,model) = exerc_7 | exerc_6
+[ 126 / 132 ] flow_distance =   130.984422227532150 | volume_distance =     3.805158196352083 | sum_distance =   134.789580423884246 | exercise(cycle,model) = exerc_7 | exerc_3
+[ 126 / 132 ] flow_distance =    24.508285995109230 | volume_distance =     4.028660938016047 | sum_distance =    28.536946933125279 | exercise(cycle,model) = exerc_7 | exerc_7
+[ 126 / 132 ] flow_distance =    22.914428024020626 | volume_distance =    11.482923487233712 | sum_distance =    34.397351511254342 | exercise(cycle,model) = exerc_7 | exerc_2
+[ 126 / 132 ] flow_distance =    57.877342743985515 | volume_distance =     2.413233580941598 | sum_distance =    60.290576324927116 | exercise(cycle,model) = exerc_7 | exerc_5
+[ 126 / 132 ] flow_distance =    25.011560098030156 | volume_distance =     9.234263621505692 | sum_distance =    34.245823719535849 | exercise(cycle,model) = exerc_7 | exerc_1
+
+[ 127 / 132 ] flow_distance =    37.126875899649690 | volume_distance =    33.317209803330918 | sum_distance =    70.444085702980601 | exercise(cycle,model) = exerc_7 | exerc_4
+[ 127 / 132 ] flow_distance =    25.427281706734792 | volume_distance =    27.965079995255319 | sum_distance =    53.392361701990112 | exercise(cycle,model) = exerc_7 | exerc_6
+[ 127 / 132 ] flow_distance =   115.590276300118532 | volume_distance =    29.551904926914119 | sum_distance =   145.142181227032665 | exercise(cycle,model) = exerc_7 | exerc_3
+[ 127 / 132 ] flow_distance =    12.657253349611610 | volume_distance =    48.377967403145895 | sum_distance =    61.035220752757503 | exercise(cycle,model) = exerc_7 | exerc_7
+[ 127 / 132 ] flow_distance =    16.502655593556209 | volume_distance =     9.939991460264050 | sum_distance =    26.442647053820259 | exercise(cycle,model) = exerc_7 | exerc_2
+[ 127 / 132 ] flow_distance =    41.987768454563188 | volume_distance =    37.612372673475427 | sum_distance =    79.600141128038615 | exercise(cycle,model) = exerc_7 | exerc_5
+[ 127 / 132 ] flow_distance =    25.181792031164616 | volume_distance =    12.827324055809541 | sum_distance =    38.009116086974160 | exercise(cycle,model) = exerc_7 | exerc_1
+
+[ 128 / 132 ] flow_distance =    29.582241327656433 | volume_distance =     1.017455574178775 | sum_distance =    30.599696901835209 | exercise(cycle,model) = exerc_7 | exerc_4
+[ 128 / 132 ] flow_distance =    29.663765063768043 | volume_distance =     2.448871502043392 | sum_distance =    32.112636565811435 | exercise(cycle,model) = exerc_7 | exerc_6
+[ 128 / 132 ] flow_distance =   109.274490829787240 | volume_distance =     5.992296344573105 | sum_distance =   115.266787174360346 | exercise(cycle,model) = exerc_7 | exerc_3
+[ 128 / 132 ] flow_distance =    14.621936050987742 | volume_distance =     1.216419707733926 | sum_distance =    15.838355758721667 | exercise(cycle,model) = exerc_7 | exerc_7
+[ 128 / 132 ] flow_distance =    10.412245796601162 | volume_distance =    17.428180613220583 | sum_distance =    27.840426409821745 | exercise(cycle,model) = exerc_7 | exerc_2
+[ 128 / 132 ] flow_distance =    37.740633306288615 | volume_distance =     1.210620239658387 | sum_distance =    38.951253545947004 | exercise(cycle,model) = exerc_7 | exerc_5
+[ 128 / 132 ] flow_distance =    27.118999943752350 | volume_distance =    15.017257844557232 | sum_distance =    42.136257788309578 | exercise(cycle,model) = exerc_7 | exerc_1
+
+[ 129 / 132 ] flow_distance =    47.143497360160822 | volume_distance =     0.854482695669523 | sum_distance =    47.997980055830347 | exercise(cycle,model) = exerc_7 | exerc_4
+[ 129 / 132 ] flow_distance =    29.113946261873096 | volume_distance =     2.747619630666824 | sum_distance =    31.861565892539922 | exercise(cycle,model) = exerc_7 | exerc_6
+[ 129 / 132 ] flow_distance =   124.580398964025804 | volume_distance =     5.383897149462176 | sum_distance =   129.964296113487990 | exercise(cycle,model) = exerc_7 | exerc_3
+[ 129 / 132 ] flow_distance =    66.017432349963826 | volume_distance =     2.139651648153001 | sum_distance =    68.157083998116832 | exercise(cycle,model) = exerc_7 | exerc_7
+[ 129 / 132 ] flow_distance =    52.765256843420175 | volume_distance =    15.526671572958998 | sum_distance =    68.291928416379179 | exercise(cycle,model) = exerc_7 | exerc_2
+[ 129 / 132 ] flow_distance =    78.085664260553472 | volume_distance =     1.223883510489050 | sum_distance =    79.309547771042517 | exercise(cycle,model) = exerc_7 | exerc_5
+[ 129 / 132 ] flow_distance =    45.646798598785182 | volume_distance =    13.284318594849038 | sum_distance =    58.931117193634222 | exercise(cycle,model) = exerc_7 | exerc_1
+
+[ 130 / 132 ] flow_distance =    34.407779962634834 | volume_distance =    58.901452316704365 | sum_distance =    93.309232279339199 | exercise(cycle,model) = exerc_7 | exerc_4
+[ 130 / 132 ] flow_distance =    47.213073402162358 | volume_distance =    45.381487463428464 | sum_distance =    92.594560865590822 | exercise(cycle,model) = exerc_7 | exerc_6
+[ 130 / 132 ] flow_distance =   107.371748345778059 | volume_distance =    63.882103184146018 | sum_distance =   171.253851529924077 | exercise(cycle,model) = exerc_7 | exerc_3
+[ 130 / 132 ] flow_distance =    15.757597313988583 | volume_distance =    80.673843690258465 | sum_distance =    96.431441004247048 | exercise(cycle,model) = exerc_7 | exerc_7
+[ 130 / 132 ] flow_distance =     7.705122571802361 | volume_distance =    29.365446061835666 | sum_distance =    37.070568633638025 | exercise(cycle,model) = exerc_7 | exerc_2
+[ 130 / 132 ] flow_distance =    21.361579683408198 | volume_distance =    61.496774453619423 | sum_distance =    82.858354137027618 | exercise(cycle,model) = exerc_7 | exerc_5
+[ 130 / 132 ] flow_distance =    30.677364603081941 | volume_distance =    37.206521440628016 | sum_distance =    67.883886043709964 | exercise(cycle,model) = exerc_7 | exerc_1
+
+[ 131 / 132 ] flow_distance =    35.248273993143556 | volume_distance =     0.985147821746666 | sum_distance =    36.233421814890221 | exercise(cycle,model) = exerc_7 | exerc_4
+[ 131 / 132 ] flow_distance =    39.948035677989033 | volume_distance =     2.627005442830074 | sum_distance =    42.575041120819108 | exercise(cycle,model) = exerc_7 | exerc_6
+[ 131 / 132 ] flow_distance =   110.219101411579132 | volume_distance =     5.740643325239626 | sum_distance =   115.959744736818763 | exercise(cycle,model) = exerc_7 | exerc_3
+[ 131 / 132 ] flow_distance =    19.402685553734003 | volume_distance =     1.310791219474937 | sum_distance =    20.713476773208939 | exercise(cycle,model) = exerc_7 | exerc_7
+[ 131 / 132 ] flow_distance =     9.657142761518188 | volume_distance =    17.512409633721095 | sum_distance =    27.169552395239283 | exercise(cycle,model) = exerc_7 | exerc_2
+[ 131 / 132 ] flow_distance =    22.923479373267700 | volume_distance =     1.104919967333435 | sum_distance =    24.028399340601133 | exercise(cycle,model) = exerc_7 | exerc_5
+[ 131 / 132 ] flow_distance =    29.854515753398328 | volume_distance =    14.973805095337436 | sum_distance =    44.828320848735764 | exercise(cycle,model) = exerc_7 | exerc_1
+
+[ 132 / 132 ] flow_distance =    30.551121695024396 | volume_distance =     1.725245162590990 | sum_distance =    32.276366857615386 | exercise(cycle,model) = exerc_7 | exerc_4
+[ 132 / 132 ] flow_distance =    24.500531319432081 | volume_distance =     4.350644851654247 | sum_distance =    28.851176171086330 | exercise(cycle,model) = exerc_7 | exerc_6
+[ 132 / 132 ] flow_distance =   109.124824554877947 | volume_distance =     3.605318904822488 | sum_distance =   112.730143459700429 | exercise(cycle,model) = exerc_7 | exerc_3
+[ 132 / 132 ] flow_distance =     9.073025196954962 | volume_distance =     3.895229523855459 | sum_distance =    12.968254720810421 | exercise(cycle,model) = exerc_7 | exerc_7
+[ 132 / 132 ] flow_distance =    17.075133696810227 | volume_distance =    12.186394930595682 | sum_distance =    29.261528627405909 | exercise(cycle,model) = exerc_7 | exerc_2
+[ 132 / 132 ] flow_distance =    30.722202320341371 | volume_distance =     2.088405220232830 | sum_distance =    32.810607540574203 | exercise(cycle,model) = exerc_7 | exerc_5
+[ 132 / 132 ] flow_distance =    22.223331905076030 | volume_distance =    10.303222832120790 | sum_distance =    32.526554737196818 | exercise(cycle,model) = exerc_7 | exerc_1
+

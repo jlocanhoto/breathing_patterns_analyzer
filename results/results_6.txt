@@ -1,0 +1,58 @@
+2. Nearest neighbor classification using DTW (k=3 and metric=FastDTW)
+Correct classification rate: (0.34285714285714286, 0.2857142857142857, 0.30347985347985346, None)
+
+3. Nearest neighbor classification using L2 (k=3)
+Correct classification rate: (0.6011904761904762, 0.6, 0.583606869321155, None)
+
+4. Nearest neighbor classification using SAX+MINDIST
+Correct classification rate: (0.6492063492063492, 0.6, 0.5981344052772624, None)
+
+---------------------------------
+
+2. Nearest neighbor classification using MSE or RMSE (k=1)
+Correct classification rate: (0.746031746031746, 0.7142857142857143, 0.7048546691403834, None)
+
+3. Nearest neighbor classification using L2
+Correct classification rate: (0.746031746031746, 0.7142857142857143, 0.7048546691403834, None)
+
+4. Nearest neighbor classification using SAX+MINDIST
+Correct classification rate: (0.5695578231292516, 0.4857142857142857, 0.4813741813741813, None)
+(vpt_env) jloc@jloc-Aspire-F5-573 ~/D/T/V/vpt_analyzer> 
+
+---------------------------------
+
+2. Nearest neighbor classification using MAE (k=1)
+Correct classification rate: (0.5826530612244898, 0.5142857142857143, 0.5095547309833024, None)
+
+3. Nearest neighbor classification using L2 (k=1)
+Correct classification rate: (0.746031746031746, 0.7142857142857143, 0.7048546691403834, None)
+
+4. Nearest neighbor classification using SAX+MINDIST (k=1)
+Correct classification rate: (0.7389455782312925, 0.7142857142857143, 0.7018814518814518, None)
+
+----------------------------------
+5 clusters
+
+2. Nearest neighbor classification using DTW (k=7)
+Correct classification rate: (0.5595238095238095, 0.5142857142857142, 0.4995877138734281, None)
+
+3. Nearest neighbor classification using L2 (k=7)
+Correct classification rate: (0.4219387755102041, 0.4571428571428572, 0.41847200418628994, None)
+
+4. Nearest neighbor classification using SAX+MINDIST (k=7)
+Correct classification rate: (0.44812925170068024, 0.48571428571428577, 0.4420896563753707, None)
+
+---------------------
+4 clusters
+
+2. Nearest neighbor classification using DTW (k=1)
+Correct classification rate: (0.5322867608581894, 0.4, 0.4023809523809524, None)
+Classification rate details: (array([1.        , 0.        , 0.66666667, 0.42857143, 1.        ,
+       0.23076923, 0.4       ]), array([0.2, 0. , 0.4, 0.6, 0.6, 0.6, 0.4]), array([0.33333333, 0.        , 0.5       , 0.5       , 0.75      ,
+       0.33333333, 0.4       ]), array([5, 5, 5, 5, 5, 5, 5]))
+
+3. Nearest neighbor classification using L2
+Correct classification rate: (0.5964285714285714, 0.5142857142857143, 0.5121925693354265, None)
+
+4. Nearest neighbor classification using SAX+MINDIST
+Correct classification rate: (0.44603174603174606, 0.39999999999999997, 0.4118119975262832, None)

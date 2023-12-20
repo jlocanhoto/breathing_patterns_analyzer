@@ -1,0 +1,137 @@
+#include octave oct.h
+#include octave dmatrix.h
+#include limits> // for infinity
+#include math.h  // for sqrt
+
+DEFUN_DLD ( twed, args, nargout,
+"-*- texinfo -*-\n\
+@deftypefn {Function File} {} twed (@var{A , timeSA , B , timeSB , lambda, nu})\n\
+Calculates the Time Warp Edit Distance between two univariate time series, A and B.\n\
+timeSA and timeSB are the time stamps of the respective series, lambda is a penalty\n\
+for a deletion operation and nu is an Elasticity parameter - nu >=0 needed for distance measure.\n\
+@end deftypefn" )
+
+{
+octave_value_list retval_list ;
+int nargin = args.length () ;
+
+// check the input arguments
+if ( nargin != 6 )
+   {
+   error ("Invalid number of arguments. See help twed.") ;
+   return retval_list ;
+   }
+
+if ( args(0).length () < 2 )
+   {
+   error ("Invalid 1st argument length. Must be >= 2.") ;
+   return retval_list ;
+   }
+   
+if ( args(1).length () != args(0).length () )
+   {
+   error ("Arguments 1 and 2 must be vectors of the same length.") ;
+   return retval_list ;
+   }
+   
+if ( args(2).length () < 2 )
+   {
+   error ("Invalid 3rd argument length. Must be >= 2.") ;
+   return retval_list ;
+   }
+   
+if ( args(3).length () != args(2).length () )
+   {
+   error ("Arguments 3 and 4 must be vectors of the same length.") ;
+   return retval_list ;
+   }   
+   
+if ( args(4).length () > 1 )
+   {
+   error ("Argument 5 must a single value for lambda.") ;
+   return retval_list ;
+   }  
+  
+if ( args(5).length () > 1 )
+   {
+   error ("Argument 6 must a single value for nu >= 0.") ;
+   return retval_list ;
+   }   
+
+if ( error_state )
+   {
+   error ("Invalid arguments. See help twed.") ;
+   return retval_list ;
+   }
+// end of input checking  
+  
+Matrix A_input = args(0).matrix_value () ;
+   if( A_input.rows() == 1 && A_input.cols() >= 2 ) // is a row matrix, so transpose 
+   {
+    A_input = A_input.transpose () ; 
+   }
+   
+Matrix timeSA_input = args(1).matrix_value () ;
+   if( timeSA_input.rows() == 1 && timeSA_input.cols() >= 2 ) // is a row matrix, so transpose 
+   {
+    timeSA_input = timeSA_input.transpose () ; 
+   }
+   
+Matrix B_input = args(2).matrix_value () ;
+   if( B_input.rows() == 1 && B_input.cols() >= 2 ) // is a row matrix, so transpose 
+   {
+    B_input = B_input.transpose () ; 
+   }
+   
+Matrix timeSB_input = args(3).matrix_value () ;
+   if( timeSB_input.rows() == 1 && timeSB_input.cols() >= 2 ) // is a row matrix, so transpose 
+   {
+    timeSB_input = timeSB_input.transpose () ; 
+   }
+   
+double lambda = args(4).double_value () ;
+double nu = args(5).double_value () ;
+double inf = std::numeric_limits::infinity() ;
+Matrix distance ( 1 , 1 ) ; distance.fill ( 0.0 ) ;
+double cost ;
+  
+// Add padding of zero by using zero-filled distance matrix
+Matrix A = distance.stack( A_input ) ;
+Matrix timeSA = distance.stack( timeSA_input ) ;
+Matrix B = distance.stack( B_input ) ;
+Matrix timeSB = distance.stack( timeSB_input ) ;
+
+Matrix DP ( A.rows() , B.rows() ) ; DP.fill ( inf ) ; DP( 0 , 0 ) = 0.0 ; 
+int n = timeSA.rows () ;
+int m = timeSB.rows () ;
+
+    // Compute minimal cost
+    for ( octave_idx_type ii (1) ; ii < n ; ii++ )
+    {
+      
+        for ( octave_idx_type jj (1) ; jj < m ; jj++ )
+        {
+          
+        // Deletion in A
+        DP( ii , jj ) = DP(ii-1,jj) +  sqrt( ( A(ii-1,0) - A(ii,0) ) * ( A(ii-1,0) - A(ii,0) ) ) + nu * ( timeSA(ii,0) - timeSA(ii-1,0) ) + lambda ;
+    
+        // Deletion in B
+        cost = DP(ii,jj-1) + sqrt( ( B(jj-1,0) - B(jj,0) ) * ( B(jj-1,0) - B(jj,0) ) ) + nu * ( timeSB(jj,0) - timeSB(jj-1,0) ) + lambda ;
+        DP( ii , jj ) = cost < DP( ii , jj ) ? cost : DP( ii , jj ) ;
+    
+        // Keep data points in both time series
+        cost = DP(ii-1,jj-1) + sqrt( ( A(ii,0) - B(jj,0) ) * ( A(ii,0) - B(jj,0) ) ) + sqrt( ( A(ii-1,0) - B(jj-1,0) ) * ( A(ii-1,0) - B(jj-1,0) ) ) + nu * ( abs( timeSA(ii,0) - timeSB(jj,0) ) + abs( timeSA(ii-1,0) - timeSB(jj-1,0) ) ) ;
+        DP( ii , jj ) = cost < DP( ii , jj ) ? cost : DP( ii , jj ) ;
+
+        } // end of jj loop
+        
+      } // end of ii loop
+
+distance( 0 , 0 ) = DP( n - 1 , m - 1 ) ;
+      
+retval_list(1) = DP ; 
+retval_list(0) = distance ;
+
+return retval_list ;
+
+} // end of function

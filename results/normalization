@@ -1,0 +1,119 @@
+// apenas padronização
+
+              precision    recall  f1-score   support
+
+     exerc_1       0.50      0.40      0.44         5
+     exerc_2       0.25      0.40      0.31         5
+     exerc_3       0.80      0.80      0.80         5
+     exerc_4       0.80      0.80      0.80         5
+     exerc_5       1.00      0.60      0.75         5
+     exerc_6       0.50      0.40      0.44         5
+     exerc_7       0.50      0.60      0.55         5
+
+    accuracy                           0.57        35
+   macro avg       0.62      0.57      0.58        35
+weighted avg       0.62      0.57      0.58        35
+
+              precision    recall  f1-score   support
+
+     exerc_1       0.43      0.60      0.50         5
+     exerc_2       0.67      0.80      0.73         5
+     exerc_3       0.80      0.80      0.80         5
+     exerc_4       0.80      0.80      0.80         5
+     exerc_5       1.00      0.60      0.75         5
+     exerc_6       0.50      0.60      0.55         5
+     exerc_7       1.00      0.60      0.75         5
+
+    accuracy                           0.69        35
+   macro avg       0.74      0.69      0.70        35
+weighted avg       0.74      0.69      0.70        35
+
+// apenas normalização
+
+              precision    recall  f1-score   support
+
+     exerc_1       0.00      0.00      0.00         5
+     exerc_2       0.14      0.40      0.21         5
+     exerc_3       1.00      0.80      0.89         5
+     exerc_4       1.00      0.60      0.75         5
+     exerc_5       1.00      0.60      0.75         5
+     exerc_6       0.00      0.00      0.00         5
+     exerc_7       0.67      0.80      0.73         5
+
+    accuracy                           0.46        35
+   macro avg       0.54      0.46      0.48        35
+weighted avg       0.54      0.46      0.48        35
+
+              precision    recall  f1-score   support
+
+     exerc_1       0.40      0.40      0.40         5
+     exerc_2       0.45      1.00      0.62         5
+     exerc_3       1.00      0.80      0.89         5
+     exerc_4       1.00      0.60      0.75         5
+     exerc_5       1.00      0.60      0.75         5
+     exerc_6       0.33      0.40      0.36         5
+     exerc_7       1.00      0.60      0.75         5
+
+    accuracy                           0.63        35
+   macro avg       0.74      0.63      0.65        35
+weighted avg       0.74      0.63      0.65        35
+
+// padronização + normalização absoluta -1 a 1
+
+              precision    recall  f1-score   support
+
+     exerc_1       1.00      0.20      0.33         5
+     exerc_2       0.11      0.20      0.14         5
+     exerc_3       1.00      0.80      0.89         5
+     exerc_4       1.00      0.60      0.75         5
+     exerc_5       1.00      0.60      0.75         5
+     exerc_6       0.11      0.20      0.14         5
+     exerc_7       0.67      0.80      0.73         5
+
+    accuracy                           0.49        35
+   macro avg       0.70      0.49      0.53        35
+weighted avg       0.70      0.49      0.53        35
+
+              precision    recall  f1-score   support
+
+     exerc_1       0.40      0.40      0.40         5
+     exerc_2       0.45      1.00      0.62         5
+     exerc_3       1.00      0.80      0.89         5
+     exerc_4       1.00      0.60      0.75         5
+     exerc_5       1.00      0.60      0.75         5
+     exerc_6       0.33      0.40      0.36         5
+     exerc_7       1.00      0.60      0.75         5
+
+    accuracy                           0.63        35
+   macro avg       0.74      0.63      0.65        35
+weighted avg       0.74      0.63      0.65        35
+
+// padronização + normalização relativa -1 a 1
+
+              precision    recall  f1-score   support
+
+     exerc_1       0.00      0.00      0.00         5
+     exerc_2       0.33      0.60      0.43         5
+     exerc_3       0.80      0.80      0.80         5
+     exerc_4       1.00      0.40      0.57         5
+     exerc_5       0.38      0.60      0.46         5
+     exerc_6       0.33      0.40      0.36         5
+     exerc_7       1.00      0.40      0.57         5
+
+    accuracy                           0.46        35
+   macro avg       0.55      0.46      0.46        35
+weighted avg       0.55      0.46      0.46        35
+
+              precision    recall  f1-score   support
+
+     exerc_1       0.25      0.40      0.31         5
+     exerc_2       0.75      0.60      0.67         5
+     exerc_3       0.80      0.80      0.80         5
+     exerc_4       1.00      0.40      0.57         5
+     exerc_5       0.38      0.60      0.46         5
+     exerc_6       0.43      0.60      0.50         5
+     exerc_7       1.00      0.20      0.33         5
+
+    accuracy                           0.51        35
+   macro avg       0.66      0.51      0.52        35
+weighted avg       0.66      0.51      0.52        35

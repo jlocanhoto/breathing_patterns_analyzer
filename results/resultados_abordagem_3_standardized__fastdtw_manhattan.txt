@@ -1,0 +1,280 @@
+CLUSTERS / CLASS: 1 
+
+Time (clustering) = 2.596989144978579
+Correct classification rate (non-linear)(k = 1):
+               precision    recall  f1-score   support
+
+     exerc_1     0.2000    0.2000    0.2000         5
+     exerc_2     0.7500    0.6000    0.6667         5
+     exerc_3     1.0000    0.8000    0.8889         5
+     exerc_4     0.7500    0.6000    0.6667         5
+     exerc_5     0.7500    0.6000    0.6667         5
+     exerc_6     0.4286    0.6000    0.5000         5
+     exerc_7     0.4286    0.6000    0.5000         5
+
+    accuracy                         0.5714        35
+   macro avg     0.6153    0.5714    0.5841        35
+weighted avg     0.6153    0.5714    0.5841        35
+
+
+Confusion matrix (non-linear)(k = 1):
+ [[1 1 0 1 1 1 0]
+ [0 3 0 0 0 0 2]
+ [1 0 4 0 0 0 0]
+ [1 0 0 3 0 1 0]
+ [0 0 0 0 3 1 1]
+ [1 0 0 0 0 3 1]
+ [1 0 0 0 0 1 3]] 
+
+Correct classification rate (non-linear + linear)(k = 1):
+               precision    recall  f1-score   support
+
+     exerc_1     0.1000    0.2000    0.1333         5
+     exerc_2     0.7500    0.6000    0.6667         5
+     exerc_3     1.0000    0.8000    0.8889         5
+     exerc_4     0.7500    0.6000    0.6667         5
+     exerc_5     0.7500    0.6000    0.6667         5
+     exerc_6     0.5000    0.6000    0.5455         5
+     exerc_7     1.0000    0.6000    0.7500         5
+
+    accuracy                         0.5714        35
+   macro avg     0.6929    0.5714    0.6168        35
+weighted avg     0.6929    0.5714    0.6168        35
+
+
+Confusion matrix (non-linear + linear)(k = 1):
+ [[1 1 0 1 1 1 0]
+ [2 3 0 0 0 0 0]
+ [1 0 4 0 0 0 0]
+ [2 0 0 3 0 0 0]
+ [1 0 0 0 3 1 0]
+ [2 0 0 0 0 3 0]
+ [1 0 0 0 0 1 3]] 
+
+Time (classification) = 38.185366189980414
+----------------------------------------------------------------------
+
+CLUSTERS / CLASS: 2 
+
+Time (clustering) = 2.711108838993823
+Correct classification rate (non-linear)(k = 1):
+               precision    recall  f1-score   support
+
+     exerc_1     0.5000    0.4000    0.4444         5
+     exerc_2     0.2500    0.4000    0.3077         5
+     exerc_3     0.8000    0.8000    0.8000         5
+     exerc_4     0.8000    0.8000    0.8000         5
+     exerc_5     1.0000    0.6000    0.7500         5
+     exerc_6     0.5000    0.4000    0.4444         5
+     exerc_7     0.5000    0.6000    0.5455         5
+
+    accuracy                         0.5714        35
+   macro avg     0.6214    0.5714    0.5846        35
+weighted avg     0.6214    0.5714    0.5846        35
+
+
+Confusion matrix (non-linear)(k = 1):
+ [[2 2 0 0 0 1 0]
+ [0 2 1 0 0 0 2]
+ [0 0 4 1 0 0 0]
+ [0 1 0 4 0 0 0]
+ [0 2 0 0 3 0 0]
+ [1 1 0 0 0 2 1]
+ [1 0 0 0 0 1 3]] 
+
+Correct classification rate (non-linear + linear)(k = 1):
+               precision    recall  f1-score   support
+
+     exerc_1     0.4286    0.6000    0.5000         5
+     exerc_2     0.6667    0.8000    0.7273         5
+     exerc_3     0.8000    0.8000    0.8000         5
+     exerc_4     0.8000    0.8000    0.8000         5
+     exerc_5     1.0000    0.6000    0.7500         5
+     exerc_6     0.5000    0.6000    0.5455         5
+     exerc_7     1.0000    0.6000    0.7500         5
+
+    accuracy                         0.6857        35
+   macro avg     0.7422    0.6857    0.6961        35
+weighted avg     0.7422    0.6857    0.6961        35
+
+
+Confusion matrix (non-linear + linear)(k = 1):
+ [[3 1 0 0 0 1 0]
+ [0 4 1 0 0 0 0]
+ [0 0 4 1 0 0 0]
+ [0 1 0 4 0 0 0]
+ [1 0 0 0 3 1 0]
+ [2 0 0 0 0 3 0]
+ [1 0 0 0 0 1 3]] 
+
+Time (classification) = 70.08356756999274
+----------------------------------------------------------------------
+
+CLUSTERS / CLASS: 3 
+
+Time (clustering) = 3.2377130649983883
+Correct classification rate (non-linear)(k = 1):
+               precision    recall  f1-score   support
+
+     exerc_1     0.5000    0.4000    0.4444         5
+     exerc_2     0.7500    0.6000    0.6667         5
+     exerc_3     1.0000    0.8000    0.8889         5
+     exerc_4     0.6000    0.6000    0.6000         5
+     exerc_5     1.0000    0.6000    0.7500         5
+     exerc_6     0.4286    0.6000    0.5000         5
+     exerc_7     0.5000    0.8000    0.6154         5
+
+    accuracy                         0.6286        35
+   macro avg     0.6827    0.6286    0.6379        35
+weighted avg     0.6827    0.6286    0.6379        35
+
+
+Confusion matrix (non-linear)(k = 1):
+ [[2 0 0 1 0 1 1]
+ [0 3 0 0 0 0 2]
+ [0 0 4 1 0 0 0]
+ [1 0 0 3 0 1 0]
+ [0 1 0 0 3 1 0]
+ [1 0 0 0 0 3 1]
+ [0 0 0 0 0 1 4]] 
+
+Correct classification rate (non-linear + linear)(k = 1):
+               precision    recall  f1-score   support
+
+     exerc_1     0.1429    0.2000    0.1667         5
+     exerc_2     0.5714    0.8000    0.6667         5
+     exerc_3     1.0000    0.8000    0.8889         5
+     exerc_4     0.6000    0.6000    0.6000         5
+     exerc_5     1.0000    0.6000    0.7500         5
+     exerc_6     0.5000    0.6000    0.5455         5
+     exerc_7     1.0000    0.6000    0.7500         5
+
+    accuracy                         0.6000        35
+   macro avg     0.6878    0.6000    0.6240        35
+weighted avg     0.6878    0.6000    0.6240        35
+
+
+Confusion matrix (non-linear + linear)(k = 1):
+ [[1 2 0 1 0 1 0]
+ [1 4 0 0 0 0 0]
+ [0 0 4 1 0 0 0]
+ [1 1 0 3 0 0 0]
+ [1 0 0 0 3 1 0]
+ [2 0 0 0 0 3 0]
+ [1 0 0 0 0 1 3]] 
+
+Time (classification) = 109.77710978200776
+----------------------------------------------------------------------
+
+CLUSTERS / CLASS: 4 
+
+Time (clustering) = 3.6984276220027823
+Correct classification rate (non-linear)(k = 1):
+               precision    recall  f1-score   support
+
+     exerc_1     0.3333    0.4000    0.3636         5
+     exerc_2     0.2000    0.2000    0.2000         5
+     exerc_3     0.8333    1.0000    0.9091         5
+     exerc_4     1.0000    0.6000    0.7500         5
+     exerc_5     1.0000    0.6000    0.7500         5
+     exerc_6     0.4286    0.6000    0.5000         5
+     exerc_7     0.6000    0.6000    0.6000         5
+
+    accuracy                         0.5714        35
+   macro avg     0.6279    0.5714    0.5818        35
+weighted avg     0.6279    0.5714    0.5818        35
+
+
+Confusion matrix (non-linear)(k = 1):
+ [[2 2 0 0 0 1 0]
+ [2 1 0 0 0 0 2]
+ [0 0 5 0 0 0 0]
+ [0 0 1 3 0 1 0]
+ [0 1 0 0 3 1 0]
+ [1 1 0 0 0 3 0]
+ [1 0 0 0 0 1 3]] 
+
+Correct classification rate (non-linear + linear)(k = 1):
+               precision    recall  f1-score   support
+
+     exerc_1     0.3333    0.4000    0.3636         5
+     exerc_2     0.7143    1.0000    0.8333         5
+     exerc_3     0.8333    1.0000    0.9091         5
+     exerc_4     1.0000    0.6000    0.7500         5
+     exerc_5     1.0000    0.6000    0.7500         5
+     exerc_6     0.4286    0.6000    0.5000         5
+     exerc_7     1.0000    0.6000    0.7500         5
+
+    accuracy                         0.6857        35
+   macro avg     0.7585    0.6857    0.6937        35
+weighted avg     0.7585    0.6857    0.6937        35
+
+
+Confusion matrix (non-linear + linear)(k = 1):
+ [[2 1 0 0 0 2 0]
+ [0 5 0 0 0 0 0]
+ [0 0 5 0 0 0 0]
+ [0 1 1 3 0 0 0]
+ [1 0 0 0 3 1 0]
+ [2 0 0 0 0 3 0]
+ [1 0 0 0 0 1 3]] 
+
+Time (classification) = 144.8345177829906
+----------------------------------------------------------------------
+
+CLUSTERS / CLASS: 5 
+
+Time (clustering) = 6.860968794993823
+Correct classification rate (non-linear)(k = 1):
+               precision    recall  f1-score   support
+
+     exerc_1     0.2857    0.4000    0.3333         5
+     exerc_2     0.5000    0.4000    0.4444         5
+     exerc_3     1.0000    0.6000    0.7500         5
+     exerc_4     0.7500    0.6000    0.6667         5
+     exerc_5     1.0000    0.6000    0.7500         5
+     exerc_6     0.3333    0.4000    0.3636         5
+     exerc_7     0.5000    0.8000    0.6154         5
+
+    accuracy                         0.5429        35
+   macro avg     0.6241    0.5429    0.5605        35
+weighted avg     0.6241    0.5429    0.5605        35
+
+
+Confusion matrix (non-linear)(k = 1):
+ [[2 2 0 0 0 1 0]
+ [1 2 0 0 0 0 2]
+ [1 0 3 1 0 0 0]
+ [1 0 0 3 0 1 0]
+ [0 0 0 0 3 1 1]
+ [2 0 0 0 0 2 1]
+ [0 0 0 0 0 1 4]] 
+
+Correct classification rate (non-linear + linear)(k = 1):
+               precision    recall  f1-score   support
+
+     exerc_1     0.3333    0.4000    0.3636         5
+     exerc_2     0.7143    1.0000    0.8333         5
+     exerc_3     1.0000    0.6000    0.7500         5
+     exerc_4     0.7500    0.6000    0.6667         5
+     exerc_5     1.0000    0.6000    0.7500         5
+     exerc_6     0.4286    0.6000    0.5000         5
+     exerc_7     0.8000    0.8000    0.8000         5
+
+    accuracy                         0.6571        35
+   macro avg     0.7180    0.6571    0.6662        35
+weighted avg     0.7180    0.6571    0.6662        35
+
+
+Confusion matrix (non-linear + linear)(k = 1):
+ [[2 2 0 0 0 1 0]
+ [0 5 0 0 0 0 0]
+ [1 0 3 1 0 0 0]
+ [1 0 0 3 0 1 0]
+ [1 0 0 0 3 1 0]
+ [1 0 0 0 0 3 1]
+ [0 0 0 0 0 1 4]] 
+
+Time (classification) = 187.78792300599162
+----------------------------------------------------------------------
+
